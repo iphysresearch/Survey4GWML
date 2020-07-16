@@ -177,6 +177,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Li et al. (2020) [@li2020some] (Front. Phys.)]** - Some optimizations on detecting gravitational wave using convolutional neural network
     - **[Schafer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
     - **[Schafer et al. (2020) [@schafer2020detection] (2006.01509)]** - Detection of gravitational-wave signals from binary neutron star mergers using machine learning
+    - **[Lin & Wu (2020) [@Lin2020aps] (2007.04176)]** - Detection of Gravitational Waves Using Bayesian Neural Networks
 
 
 ## Low-latency source-properties (EM-bright)
