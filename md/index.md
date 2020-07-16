@@ -109,6 +109,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Shen et al. (2019) [@Shen2019ohi] (IEEE)]** - Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
     - **[Wei & Huerta (2020) [@WEI2020135081] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
+    - **[Alimohammadi et al. (2020) [@Alimohammadi2020wtj] (2005.11352)]** - A Data-Driven Approach for Extraction of Event-Waveform: Application to Gravitational Waves
 
 
 ---
@@ -300,7 +301,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Philip et al. (2002) [@Philip2002xe] (Astron. Astrophys.)]** - A difference boosting neural network for automated star-galaxy classification
 * **[Philip et al. (2012) [@Philip2012vr] (1211.3607)]** - Classification by Boosting Differences in Input Vectors: An application to datasets from Astronomy
 * **[Wang et al (2020) [@Wang2020hmn] (2005.07089)]** - ECoPANN: A Framework for Estimating Cosmological Parameters using Artificial Neural Networks
-  - 他们这个是当做回归问题在做，和 Huerta 他们的基本逻辑其实一样。至于6 个目标参数的估计，是通过给定 input 数据在相应参数区间上采样后，直接给出后验样本参数估计的（频率学派~）。并不是对某单个数据给出的参数估计（贝叶斯学派）。
-  - 实现的是对应观测数据集的宇宙学参数估计
+    - 他们这个是当做回归问题在做，和 Huerta 他们的基本逻辑其实一样。至于6 个目标参数的估计，是通过给定 input 数据在相应参数区间上采样后，直接给出后验样本参数估计的（频率学派~）。并不是对某单个数据给出的参数估计（贝叶斯学派）。
+    - 实现的是对应观测数据集的宇宙学参数估计
 
 \bibliography
