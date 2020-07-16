@@ -241,7 +241,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Miller (2019) [@2019MILLERUsingMachineLearning] (PhD Thesis)]** - Using Machine Learning and the Hough Transform to Search for Gravitational Waves Due to R-mode Emission by Isolated Neutron Stars
 - **[Schafer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
 - **[Beheshtipour & Papa (2020) [@Beheshtipour2020zhb] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates
-- **[Middleton et al. (2020) [@Middleton:2020skz] (PRD)]** - Search for Gravitational Waves from Five Low Mass X-ray Binaries in the Second Advanced Ligo Observing Run with an Improved Hidden Markov Model
+- **[Middleton et al. (2020) [@Middleton2020skz] (PRD)]** - Search for Gravitational Waves from Five Low Mass X-ray Binaries in the Second Advanced Ligo Observing Run with an Improved Hidden Markov Model
 
 
 
