@@ -308,4 +308,10 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - 他们这个是当做回归问题在做，和 Huerta 他们的基本逻辑其实一样。至于6 个目标参数的估计，是通过给定 input 数据在相应参数区间上采样后，直接给出后验样本参数估计的（频率学派~）。并不是对某单个数据给出的参数估计（贝叶斯学派）。
     - 实现的是对应观测数据集的宇宙学参数估计
 
+# License
+* <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
+
+
+
+
 \bibliography
