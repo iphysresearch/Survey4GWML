@@ -1,6 +1,6 @@
 site_name: Gravitational Waves | Machine Learning
 repo_url: https://github.com/iphysresearch/Survey4GWML
-site_description: A survey on gravitational waves research using machine learning techniques.
+site_description: A survey on gravitational waves researches using machine learning techniques.
 site_author: He Wang
 copyright: "This site (Survey4GWML) is licensed under the <a href='https://github.com/iphysresearch/Survey4GWML/blob/master/LICENSE.md'>MIT license</a>"
 docs_dir: md

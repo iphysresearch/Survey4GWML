@@ -1,6 +1,6 @@
 ---
 Title:   Gravitational Wave Data Analysis with Machine Learning
-Summary: A survey on gravitational waves research using machine learning techniques.
+Summary: A survey on gravitational waves researches using machine learning techniques.
 Authors: He Wang
 Date:    July 14, 2020
 blank-value:
@@ -152,7 +152,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[George & Huerta (2018) [@George2016hay] (PRD)]** use a system of two deep convolutional neural networks to rapidly detect CBC signals. They use time series as input so that they can find signals too small for image recognition. They find their method significantly outperforms conventional machine learning techniques, achieves similar performance compared to matched-filtering while being several orders of magnitude faster.
         - Deep learning for real-time classification and regression of gravitational waves in simulated LIGO noise. **[George & Huerta (2018) [@George2016hay] (PRD)]**
         - Deep learning for real-time classification and regression of gravitational waves in real advanced LIGO noise. **[George & Huerta (2018) [@George2017pmj] (PLB); George & Huerta (2018) [@George2017vlv] (NiPS Summer School)]**
-        - Deep learning at scale for real-time gravitational wave parameter estimation and tests of general relativity **[Shen et al. (2019) [@Shen2019vep] (1903.01998)].** First Bayesian Neural Network model at scale to characterize a 4-D signal manifold with 10M+ templates. Trained with over ten million waveforms using 1024 nodes (64 processors/node) on an HPC platform optimized for deep learning research (Theta at Argonne National Lab). Inference time is 2 milliseconds for each gravitational wave detection using a single GPU.
+        - Deep learning at scale for real-time gravitational wave parameter estimation and tests of general relativity **[Shen et al. (2019) [@Shen2019vep] (1903.01998)].** First Bayesian Neural Network model at scale to characterize a 4-D signal manifold with 10M+ templates. Trained with over ten million waveforms using 1024 nodes (64 processors/node) on an HPC platform optimized for deep learning researches (Theta at Argonne National Lab). Inference time is 2 milliseconds for each gravitational wave detection using a single GPU.
     - **[Gabbard et al. (2018) [@Gabbard2017lja] (PRL)]** also perform a CBC search with a basic and standard CNN network to learn to classify between noise and signal+noise classes. They use whitened time series of measured gravitational-wave strain as an input. Train and test on simulated binary black hole signals in synthetic Gaussian LIGO noise. They find they can reproduce the sensitivity of a matched filter search. i.e. the CNN approach can achieve the same sensitivity as a matched filtering analysis. Classification of 2-D BBH signals in simulated LIGO noise. 
     - **[Li et al. (2017) [@li2017method] (1712.00356)]** - A Method Of Detecting Gravitational Wave Based On Time-frequency Analysis And Convolutional Neural Networks
     - **[Kapadia et al. (2017) [@kapadia2017classifier] (PRD)]** - Classifier for gravitational-wave inspiral signals in nonideal single-detector data
