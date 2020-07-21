@@ -110,6 +110,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Wei & Huerta (2020) [@WEI2020135081] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
     - **[Alimohammadi et al. (2020) [@Alimohammadi2020wtj] (2005.11352)]** - A Data-Driven Approach for Extraction of Event-Waveform: Application to Gravitational Waves
+    - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)] - Noise reduction in gravitational-wave data via deep learning**
 
 
 ---
@@ -244,6 +245,8 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Schafer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
 - **[Beheshtipour & Papa (2020) [@Beheshtipour2020zhb] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates
 - **[Middleton et al. (2020) [@Middleton2020skz] (PRD)]** - Search for Gravitational Waves from Five Low Mass X-ray Binaries in the Second Advanced Ligo Observing Run with an Improved Hidden Markov Model
+- **[Bayley et al. (2020) [@bayley2020robust] (2007.08207)] - A Robust Machine Learning Algorithm to Search for Continuous Gravitational Waves**
+- 
 
 
 
