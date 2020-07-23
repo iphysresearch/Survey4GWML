@@ -23,6 +23,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (March 9, 2020) - [CA17137](https://github.com/zerafachris/g2net_2nd_training_school_malta_mar_2020) - A network for Gravitational Waves, Geophysics and Machine Learning - 2nd Training School ([G2NET](https://www.g2net.eu))
 - (April 21, 2020) - Machine Learning for Physicists [2020](https://pad.gwdg.de/s/HJtiTE__U)
 - (6-8 July 2020) - Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
+- (24 Jul, 2020) - Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
 
 
 ---
