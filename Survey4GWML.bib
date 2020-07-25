@@ -1944,3 +1944,76 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   keywords      = {astro-ph.EP},
   primaryclass  = {astro-ph.EP},
 }
+
+
+@Article{Essick2020qpo,
+  author        = {Essick, Reed and Godwin, Patrick and Hanna, Chad and Blackburn, Lindy and Katsavounidis, Erik},
+  title         = {iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors},
+  year          = {2020},
+  month         = may,
+  abstract      = {Gravitational-wave detectors are exquisitely sensitive instruments and routinely enable ground-breaking observations of novel astronomical phenomena. However, they also witness non-stationary, non-Gaussian noise that can be mistaken for astrophysical sources, lower detection confidence, or simply complicate the extraction of signal parameters from noisy data. To address this, we present iDQ, a supervised learning framework to autonomously detect noise artifacts in gravitational-wave detectors based only on auxiliary degrees of freedom insensitive to gravitational waves. iDQ has operated in low latency throughout the advanced detector era at each of the two LIGO interferometers, providing invaluable data quality information about each detection to date in real-time. We document the algorithm, describing the statistical framework and possible applications within gravitational-wave searches. In particular, we construct a likelihood-ratio test that simultaneously accounts for the presence of non-Gaussian noise artifacts and utilizes information from both the observed gravitational-wave strain signal and thousands of auxiliary degrees of freedom. We also present several examples of iDQ's performance with modern interferometers, showing iDQ's ability to autonomously reproduce known data quality monitors and identify noise artifacts not flagged by other analyses.},
+  archiveprefix = {arXiv},
+  journal={arXiv preprint arXiv:2005.12761},
+  eprint        = {2005.12761},
+  keywords      = {astro-ph.IM, gr-qc},
+  primaryclass  = {astro-ph.IM},
+}
+
+
+
+@Article{stachie2020using,
+  author        = {Stachie, Cosmin and Coughlin, Michael W. and Christensen, Nelson and Muthukrishna, Daniel},
+  journal       = {Mon Not R Astron Soc},
+  title         = {Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts},
+  year          = {2020},
+  issn          = {0035-8711},
+  month         = jun,
+  number        = {staa1776},
+  abstract      = {The large sky localization regions offered by the gravitational-wave interferometers require efficient follow-up of the many counterpart candidates identified by the wide field-of-view telescopes. Given the restricted telescope time, the creation of prioritized lists of the many identified candidates becomes mandatory. Towards this end, we use astrorapid, a multi-band photometric lightcurve classifier, to differentiate between kilonovae, supernovae, and other possible transients. We demonstrate our method on the photometric observations of real events. In addtion, the classification performance is tested on simulated lightcurves, both ideally and realistically sampled. We show that after only a few days of observations of an astronomical object, it is possible to rule out candidates as supernovae and other known transients.},
+  archiveprefix = {arXiv},
+  date          = {2019-12-13},
+  doi           = {10.1093/mnras/staa1776},
+  eprint        = {1912.06383},
+  keywords      = {astro-ph.HE, astro-ph.IM, gr-qc},
+  primaryclass  = {astro-ph.HE},
+}
+
+
+
+@PhdThesis{bayley2020non,
+  author   = {Bayley, Joseph Charles},
+  school   = {University of Glasgow},
+  title    = {Non-parametric and Machine Learning Techniques for Continuous Gravitational Wave Searches},
+  year     = {2020},
+  month    = jul,
+  type     = {phdthesis},
+  abstract = {The field of gravitational wave astronomy is still in its early stages, with published detections of compact binary coalescences numbering 14 and the most recent observing run (O3) providing 50 more candidates. Another possible source of gravitational waves is rapidly rotating neutron stars which can emit gravitational waves if they have some asymmetry around their rotation axis. These are predicted to emit long duration quasi-sinusoidal signals known as continuous gravitational waves.All-sky and wide parameter space searches for continuous gravitational waves are generally template-matching schemes which test a bank of signal waveforms against data from a gravitational wave detector. Often these searches are highly-tuned to specific signal types and are computationally expensive. We have developed a search method (entitled SOAP) based on the Viterbi algorithm which is model-agnostic and has a computational cost several orders of magnitude lower than template methods and with a comparable sensitivity. In particular, this method can search for signals which have an unknown frequency evolution. We test the algorithm on three simulated and real data sets: gapless Gaussian noise, Gaussian noise with gaps and real data from the final run of initial LIGO (S6). We show that at 95% efficiency, with a 1% false alarm rate, the algorithm achieves a sensitivity of 60, 72 and 74 in the optimal coherent signal to noise ratio in each of these datasets. We discuss the use of this algorithm for detecting a wide range of quasi-monochromatic gravitational wave signals and instrumental artefacts, and demonstrate that it can also identify shorter duration signals such as compact binary coalescences.Many continuous gravitational wave searches are affected by instrumental lines as the long duration narrowband nature of a line can appear to be very similar to a real continuous gravitational wave signal. This has led to the development of techniques to try and limit the effect of instrumental lines, which mostly involve developing a statistic to penalise signals that appear in only a single detector. Whilst these statistics limit the effect of instrumental lines, in the SOAP search described above, many lines still contaminate the statistics and have to be manually removed by investigating other search outputs. We have developed a method using convolutional neural networks to reduce the impact of instrumental artefacts on the SOAP search described above. This has the ability to identify features in each of the detectors spectrograms such that a frequency band can be classified into a signal or noise class. This limits the amount of manual investigation of frequency bands and allowed the SOAP search to be fully automated without a reduction in the sensitivity.Once a continuous gravitational wave is detected, we would want to extract some parameters associated with the source to help understand more about its structure and evolution. We describe a Bayesian method which extracts the sky location, frequency, frequency derivative and signal to noise ratio of a source associated with the frequency evolution returned by the SOAP algorithm. This has the aim of limiting the size of the parameter space for a more sensitive fully coherent follow up search. We tested this approach on 200 simulations in Gaussian noise, generating posterior distributions for the parameters described above. In 90% of these simulations we limit the sky area to 45 deg² with a 95% confidence contour. However, we find that this contour contains the true parameter only 42% of the time. We present these results and describe the features and shortcomings of our approach.As mentioned above, we limit the effect of instrumental lines on the SOAP search using machine learning, however we can also identify and mitigate these lines separately before a search is run. We demonstrate how we can use SOAP in a simple configuration to identify instrumental lines. We compare this method to existing line identification tools used in the LIGO collaboration, and find that using the Viterbi statistic SOAP identifies 37% of the same lines as these methods, where for many of the lines which were not identified, other SOAP outputs do show evidence of a line. With further investigation, we expect to identify many more lines in common with existing methods. As well as these common lines, the SOAP algorithm returned 150 more 0.1 Hz wide bands which potentially contain an instrumental line and did not appear on LIGO line-lists.},
+  keywords = {Machine learning, continuous gravitational waves, gravitational waves, LIGO.},
+  url      = {http://theses.gla.ac.uk/id/eprint/81518},
+}
+
+
+@Article{jones2020search,
+  author        = {Jones, Dana and Sun, Ling},
+  title         = {Search for Continuous Gravitational Waves from Fomalhaut B in the Second Advanced Ligo Observing Run with a Hidden Markov Model},
+  year          = {2020},
+  month         = jul,
+  abstract      = {Results are presented from a semicoherent search for continuous gravitational waves from a nearby neutron star candidate, Fomalhaut b, using data collected in the second observing run of Advanced LIGO. The search is based on a hidden Markov model scheme, capable of tracking signal frequency evolution from the star's secular spin down and stochastic timing noise simultaneously. The scheme is combined with a frequency domain matched filter (𝓕-statistic), calculated coherently over five-day time stretches. The frequency band 100-1000 Hz is searched. After passing the above-threshold candidates through a hierarchy of vetoes, one candidate slightly above the 1% false alarm probability threshold remains for further scrutiny. No strong evidence of continuous waves is found. We present the frequentist strain upper limits at 95% confidence.},
+  archiveprefix = {arXiv},
+  eprint        = {2007.08732},
+  journal={arXiv preprint arXiv:2007.08732},
+  keywords      = {gr-qc, astro-ph.IM},
+  primaryclass  = {gr-qc},
+}
+
+
+@article{Wong2020wvd,
+    author = "Wong, Kaze W.K. and Ng, Ken K.Y. and Berti, Emanuele",
+    title = "Gravitational-wave signal-to-noise interpolation via neural networks",
+    eprint = "2007.10350",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.HE",
+    month = "7",
+    journal={arXiv preprint arXiv:2007.10350},
+    year={2020},
+}

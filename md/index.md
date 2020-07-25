@@ -112,6 +112,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
     - **[Alimohammadi et al. (2020) [@Alimohammadi2020wtj] (2005.11352)]** - A Data-Driven Approach for Extraction of Event-Waveform: Application to Gravitational Waves
     - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)]** - Noise reduction in gravitational-wave data via deep learning
+    - **[Essick et al. (2020) [@Essick2020qpo] (2005.12761)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
 
 
 ---
@@ -218,6 +219,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Khan et al. (2020) [@khan2020physics] (2004.09524)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
+    - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
 
 
 ## Population Studies
@@ -247,7 +249,8 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Beheshtipour & Papa (2020) [@Beheshtipour2020zhb] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates
 - **[Middleton et al. (2020) [@Middleton2020skz] (PRD)]** - Search for Gravitational Waves from Five Low Mass X-ray Binaries in the Second Advanced Ligo Observing Run with an Improved Hidden Markov Model
 - **[Bayley et al. (2020) [@bayley2020robust] (2007.08207)]** - A Robust Machine Learning Algorithm to Search for Continuous Gravitational Waves
-- 
+- **[Bayley (2020) [@bayley2020non] (PhD Thesis)]** - Non-parametric and Machine Learning Techniques for Continuous Gravitational Wave Searches
+- **[Jones & Sun (2020) [@jones2020search] (2007.08732)]** - Search for Continuous Gravitational Waves from Fomalhaut B in the Second Advanced Ligo Observing Run with a Hidden Markov Model
 
 
 
@@ -277,6 +280,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Iess et al. (2020) [@Iess2020yqj] (Sci.Technol.)]** have a different approach that does not involve cWB. They use a trigger generator called WDF to find excess power in the detector. Then they do a neural network classification to decide if the trigger is a signal or noise. They train directly on supernova waveforms. They use both time series and images of data. They obtain high accuracies with both methods and include glitches.
     - **[Chan et al. (2019) [@Chan2019fuz] (1912.13517)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
+    - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
 >
 
 * Burst analysis
@@ -317,13 +321,13 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 
-很有意思的工作：http://t.cn/A6yN4QSJ
 
 # License
 
 * <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
 
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=BidHz1QnWdqorra8ky71ErAH78XnoVrg9XU-_YzbvZs&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 
 \bibliography
