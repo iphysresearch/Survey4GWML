@@ -232,6 +232,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Deligiannidis et al. (2019) [@deligiannidis2019case] (ICAI)]** - Case Study: Skymap Data Analysis
 * **[Wong & Gerosa (2019) [@wong2019machine] (PRD)]** - Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: A case study
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
+* **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
 
 --- 
 
