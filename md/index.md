@@ -134,6 +134,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
     - **[Tiglio & Villanueva (2019) [@Tiglio2019yfe] (1911.00644)]** - On ab initio closed-form expressions for gravitational waves
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
+    - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
 
 
 
