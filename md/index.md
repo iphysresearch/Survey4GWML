@@ -25,6 +25,8 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (6-8 July 2020) - Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
 - (24 Jul, 2020) - Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
 - (19 Oct, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
+- (Sep 9, 2020) - [Advances in Computational Relativity](https://icerm.brown.edu/programs/sp-f20)
+- (Nov 16, 2020) - [Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects](https://icerm.brown.edu/programs/sp-f20/w4/)
 
 
 ---
