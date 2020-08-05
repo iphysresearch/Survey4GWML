@@ -298,6 +298,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Kovačević et al. (2019) [#Kovacevic2019wpy] (Mon. Not. Roy. Astron. Soc.)]** - Optimizing neural network techniques in classifying Fermi-LAT gamma-ray sources
     - **[Kim et al. (2015) [@kim2015application] (CQG)]** - Application of artificial neural network to search for gravitational-wave signals associated with short gamma-ray bursts
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
+    - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (2008.01262)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
 >
 
 * Single Detector Search

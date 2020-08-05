@@ -2068,3 +2068,14 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   abstract = {As the observations of gravitational waves from coalescence of compact objects are expected to be more frequent in the near future, the need for an accurate and fast gravitational waves data analysis framework is becoming more and more relevant. Any analysis requires a waveform model capable of predicting the shape of the gravitational wave signal, given the physical parameters of the source. Currently, several models exist, but they are cursed by the fact that they are slow to compute, hence they are the bottleneck of the task of extracting physical information from the raw data. In our work, we apply Machine Learning methods to build a model designed to generate a gravitational waveform in the time domain as produced by a binary black hole coalescence. Our model matches in accuracy the performance of the state-of-the-art direct computations while, at the same time, it provides a speed up of a a factor of ∼ 30 in the generation of the waveform. Furthermore, our model provides a closed form expression for the waveform and its gradient with respect to the orbital parameters. This open the possibility to further improve the sampling algorithms used for the parameter estimation. We train our model on a number of waveforms computed by the SEOBNRv2 generator and we infer a relation between the waveform and the masses m1,m2 and spins s1, s2 of the two BHs. In this work, we consider only the case in which the two spins are aligned to the orbital angular momentum. We reduce the dimensionality of our problem by decomposing each waveform in amplitude and phase and it is further represented in a lower dimensional space using a Principal Component Analysis. The regression from orbital parameters to principal components is performed using a Mixture of Expert model. Our implementation is publicly available as a Python package mlgw as https: //pypi.org/project/mlgw/. mlgw has all the features required for performing a full parameter estimation (including the waveform dependence on geometrical parameters). We demonstrate the faithfulness of mlgw by successfully reproducing the inference on GW150914 made by the LIGO-Virgo collaboration.},
   url      = {https://raw.githubusercontent.com/stefanoschmidt1995/MLGW/master/MLGW_package/docs/thesis.pdf},
 }
+
+
+@Article{2020GayathriEnhancingsensitivitytransient,
+  author        = {Gayathri, V. and Lopez, Dixeena and Pranjal, R. S. and Heng, Ik Siong and Pai, Archana and Messenger, Chris},
+  title         = {Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models},
+  year          = {2020},
+  archiveprefix = {arXiv},
+  eprint        = {2008.01262},
+  primaryclass  = {gr-qc},
+  journal={arXiv preprint arXiv:2008.01262},
+}
