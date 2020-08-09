@@ -257,6 +257,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Bayley et al. (2020) [@bayley2020robust] (2007.08207)]** - A Robust Machine Learning Algorithm to Search for Continuous Gravitational Waves
 - **[Bayley (2020) [@bayley2020non] (PhD Thesis)]** - Non-parametric and Machine Learning Techniques for Continuous Gravitational Wave Searches
 - **[Jones & Sun (2020) [@jones2020search] (2007.08732)]** - Search for Continuous Gravitational Waves from Fomalhaut B in the Second Advanced Ligo Observing Run with a Hidden Markov Model
+- **[Suvorova et al. (2016) [@suvorova2016hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin
 
 
 
