@@ -225,6 +225,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
+    - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - 
 
 
 ## Population Studies
