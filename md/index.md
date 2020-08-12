@@ -138,6 +138,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Tiglio & Villanueva (2019) [@Tiglio2019yfe] (1911.00644)]** - On ab initio closed-form expressions for gravitational waves
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
+    - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
 
 
 
