@@ -226,7 +226,8 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
-    - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - 
+    - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for Gw150914 Using Deep Learning
+    - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
 
 
 ## Population Studies
@@ -338,7 +339,6 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
 * <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=BidHz1QnWdqorra8ky71ErAH78XnoVrg9XU-_YzbvZs'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=400&t=tt&d=BidHz1QnWdqorra8ky71ErAH78XnoVrg9XU-_YzbvZs&co=ffffff&ct=000000'></script>
 
 \bibliography
