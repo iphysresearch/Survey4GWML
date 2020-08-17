@@ -98,6 +98,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Bahaadini et al. (2018) [@bahaadini2018machine] (Info. Sci.)]** - Machine learning for Gravity Spy: Glitch classification and dataset
      * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - Direct: Deep Discriminative Embedding for Clustering of Ligo Data
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
+     * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
 
 
 
@@ -228,6 +229,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for Gw150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
+    - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
 
 
 ## Population Studies
