@@ -2188,7 +2188,7 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
 @article{Green2020dnx,
   author        = {Green, Stephen R. and Gair, Jonathan},
   month         = aug,
-  title         = {Complete Parameter Inference for Gw150914 Using Deep Learning},
+  title         = {Complete Parameter Inference for GW150914 Using Deep Learning},
   year          = {2020},
   abstract      = {The LIGO and Virgo gravitational-wave observatories have detected many exciting events over the past five years. As the rate of detections grows with detector sensitivity, this poses a growing computational challenge for data analysis. With this in mind, in this work we apply deep learning techniques to perform fast likelihood-free Bayesian inference for gravitational waves. We train a neural-network conditional density estimator to model posterior probability distributions over the full 15-dimensional space of binary black hole system parameters, given detector strain data from multiple detectors. We use the method of normalizing flows—specifically, a neural spline normalizing flow—which allows for rapid sampling and density estimation. Training the network is likelihood-free, requiring samples from the data generative process, but no likelihood evaluations. Through training, the network learns a global set of posteriors: it can generate thousands of independent posterior samples per second for any strain data consistent with the prior and detector noise characteristics used for training. By training with the detector noise power spectral density estimated at the time of GW150914, and conditioning on the event strain data, we use the neural network to generate accurate posterior samples consistent with analyses using conventional sampling techniques.},
   archiveprefix = {arXiv},
@@ -2262,5 +2262,21 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   eprint        = {2008.06550},
   journal={arXiv preprint arXiv:2008.06550},
   keywords      = {astro-ph.HE, astro-ph.GA, gr-qc},
+  primaryclass  = {astro-ph.HE},
+}
+
+
+@Article{2020VivancoScalableRandomForest,
+  author        = {Vivanco, Francisco Hernandez and Smith, Rory and Thrane, Eric and Lasky, Paul D.},
+  month         = aug,
+  title         = {A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements: A Case Study with GW170817 and GW190425},
+  year          = {2020},
+  abstract      = {Gravitational-wave observations of binary neutron star coalescences constrain the neutron-star equation of state by enabling measurement of the tidal deformation of each neutron star. This deformation is determined by the tidal deformability parameter Λ, which was constrained using the first binary neutron star gravitational-wave observation, GW170817. Now, with the measurement of the second binary neutron star, GW190425, we can combine different gravitational-wave measurements to obtain tighter constraints on the neutron-star equation of state. In this paper, we combine data from GW170817 and GW190425 to place constraints on the neutron-star equation of state. To facilitate this calculation, we derive interpolated marginalized likelihoods for each event using a machine learning algorithm. These likelihoods, which we make publicly available, allow for results from multiple gravitational-wave signals to be easily combined. Using these new data products, we find that the radius of a fiducial 1.4 M_⊙ neutron star is constrained to 11.6^(+1.6)_(-0.9) km at 90% confidence and the pressure at twice the nuclear saturation density is constrained to 3.1^(+3.1)_(-1.3)×10³⁴ dyne/cm² at 90% confidence. This result is dominated by GW170817 and is consistent with findings from other works.},
+  archiveprefix = {arXiv},
+  eprint        = {2008.05627},
+  eprintclass   = {astro-ph.HE},
+  eprinttype    = {arXiv},
+  journal={arXiv preprint arXiv:2008.05627},
+  keywords      = {astro-ph.HE},
   primaryclass  = {astro-ph.HE},
 }

@@ -228,9 +228,10 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
-    - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for Gw150914 Using Deep Learning
+    - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
     - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
+    - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (2008.05627)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
 
 
 ## Population Studies
