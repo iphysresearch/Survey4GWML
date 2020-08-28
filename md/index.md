@@ -178,7 +178,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Bresten & Jung (2019) [@bresten2019detection] (1910.08245)]** - Detection of gravitational waves using topological data analysis and convolutional neural network: An improved approach
     - **[Nakano et al. (2019) [@nakano2019comparison] (PRD)]** - Comparison of various methods to extract ringdown frequency from gravitational wave data
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
-    - **[Corizzo et al. (2020) [@corizzo2020scalable] (EXPERT SYST APPL)]** - Scalable auto-encoders for gravitational waves detection from time series data
+    - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
     - **[Li et al. (2020) [@li2020machine] (2003.13928)]** - Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array
     - **[Marulanda et al. (2020) [@marulanda2020deep] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-wave signal recognition of LIGO data by deep learning
@@ -224,7 +224,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Varma et al. (2019) [@varma2019high] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Belgacem et al. (2020) [@belgacem2020gaussian] (PRD)]** - Gaussian processes reconstruction of modified gravitational wave propagation
     - **[Li et al. (2020) [@li2020machine] (2003.13928)]** - Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array
-    - **[Khan et al. (2020) [@khan2020physics] (2004.09524)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
+    - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
