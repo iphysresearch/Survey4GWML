@@ -295,7 +295,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     
     - **[Astone et al. (2018) [@Astone2018uge] (PRD)]** enhance the efficiency of cWB using a neural network. The network is trained on phenomenological waveforms that represent the g-mode emission in supernova waveforms. They use cWB to prepare images of the data. They use colours to determine which detectors find the signal. They find their method increases the sensitivity of traditional cWB.
     - **[Iess et al. (2020) [@Iess2020yqj] (Sci.Technol.)]** have a different approach that does not involve cWB. They use a trigger generator called WDF to find excess power in the detector. Then they do a neural network classification to decide if the trigger is a signal or noise. They train directly on supernova waveforms. They use both time series and images of data. They obtain high accuracies with both methods and include glitches.
-    - **[Chan et al. (2019) [@Chan2019fuz] (1912.13517)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
+    - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
 >
