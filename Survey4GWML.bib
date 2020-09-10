@@ -2319,7 +2319,6 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
 }
 
 
-
 @Article{khan2020gravitational,
   author        = {Khan, Sebastian and Green, Rhys},
   title         = {Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation},
@@ -2331,4 +2330,18 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   journal={arXiv preprint arXiv:2008.12932},
   keywords      = {gr-qc},
   primaryclass  = {gr-qc},
+}
+
+
+@Article{2020MoralesDeepLearningGravitational,
+  author        = {Morales, Manuel D. and Antelis, Javier M. and Moreno, Claudia and Nesterov, Alexander I.},
+  title         = {Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach},
+  year          = {2020},
+  month         = sep,
+  abstract      = {In this work, we apply Convolutional Neural Networks (CNNs) to detect gravitational wave (GW) signals of compact binary coalescences, using single-interferometer data from LIGO detectors. As novel contribution, we adopted a resampling white-box approach to advance towards a statistical understanding of uncertainties intrinsic to CNNs in GW data analysis. Resampling is performed by repeated k-fold cross-validation experiments, and for a white-box approach, behavior of CNNs is mathematically described in detail. Through a Morlet wavelet transform, strain time series are converted to time-frequency images, which in turn are reduced before generating input datasets. Moreover, to reproduce more realistic experimental conditions, we worked only with data of non-Gaussian noise and hardware injections, removing freedom to set signal-to-noise ratio (SNR) values in GW templates by hand. After hyperparameter adjustments, we found that resampling smooths stochasticity of mini-batch stochastic gradient descend by reducing mean accuracy perturbations in a factor of 3.6. CNNs were quite precise to detect noise but not sensitive enough to recall GW signals, meaning that CNNs are better for noise reduction than generation of GW triggers. However, applying a post-analysis, we found that for GW signals of SNR ≥ 21.80 with H1 data and SNR ≥ 26.80 with L1 data, CNNs could remain as tentative alternatives for detecting GW signals. Besides, with receiving operating characteristic curves we found that CNNs show much better performances than those of Naive Bayes and Support Vector Machines models and, with a significance level of 5%, we estimated that predictions of CNNs are significant different from those of a random classifier. Finally, we elucidated that performance of CNNs is highly class dependent because of the distribution of probabilistic scores outputted by the softmax layer.},
+  archiveprefix = {arXiv},
+  eprint        = {2009.04088},
+  journal={arXiv preprint arXiv:2009.04088},
+  keywords      = {astro-ph.IM, cs.LG, gr-qc, physics.data-an},
+  primaryclass  = {astro-ph.IM},
 }

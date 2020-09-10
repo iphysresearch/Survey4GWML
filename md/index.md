@@ -192,6 +192,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Lin & Wu (2020) [@Lin2020aps] (2007.04176)]** - Detection of Gravitational Waves Using Bayesian Neural Networks
     - **[Chauhan (2020) [@Chauhan2020wzy] (2007.05889)]** - Deep Learning Model to Make Gravitational Wave Detections from Weak Time-series Data
     - **[Singh et al. (2020) [@2020SinghClassificationAstrophysicalEvents] (2008.06550)]** - Classification of Astrophysical Events from Gravitational Wave Signature
+    - **[Morales et al. (2020) [@2020MoralesDeepLearningGravitational] (2009.04088)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
 
 
 ## Low-latency source-properties (EM-bright)
