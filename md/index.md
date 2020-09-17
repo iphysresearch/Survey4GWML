@@ -302,6 +302,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
+    - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (2009.07367)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
 >
 
 * Burst analysis
