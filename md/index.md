@@ -237,6 +237,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
     - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (2008.05627)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
+    - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
 
 
 ## Population Studies
