@@ -100,6 +100,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - Direct: Deep Discriminative Embedding for Clustering of Ligo Data
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
      * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
+     * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
 
 
 
@@ -195,6 +196,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Singh et al. (2020) [@2020SinghClassificationAstrophysicalEvents] (2008.06550)]** - Classification of Astrophysical Events from Gravitational Wave Signature
     - **[Morales et al. (2020) [@2020MoralesDeepLearningGravitational] (2009.04088)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
+    - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
 
 
 ## Low-latency source-properties (EM-bright)
@@ -238,6 +240,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (2008.05627)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
+    - **[Marulanda et al. [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
 
 
 ## Population Studies
