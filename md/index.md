@@ -197,6 +197,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Morales et al. (2020) [@2020MoralesDeepLearningGravitational] (2009.04088)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
     - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
+    - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
 
 
 ## Low-latency source-properties (EM-bright)
