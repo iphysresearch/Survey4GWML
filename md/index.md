@@ -202,6 +202,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
     - **[Jadhav et al. (2020) [@2020JadhavImprovingSignificanceBinary] (2010.08584)]** - Improving Significance of Binary Black Hole Mergers in Advanced Ligo Data Using Deep Learning : Confirmation of GW151216
     - **[Wei et al. (2020) [@2020WeiDeepLearningGravitational] (2010.09751)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers
+    - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (2010.11829)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
 
 
 ## Low-latency source-properties (EM-bright)
@@ -258,6 +259,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong & Gerosa (2019) [@wong2019machine] (PRD)]** - Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: A case study
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
 * **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
+* **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
 
 --- 
 
