@@ -246,7 +246,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
     - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
-    - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (2008.05627)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
+    - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (MNRAS)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
 
@@ -262,6 +262,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
 * **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
 * **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
+* **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (MNRAS)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
 
 --- 
 
