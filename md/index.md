@@ -248,7 +248,8 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (MNRAS)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
-    - **[Marulanda et al. [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
+    - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
+    - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
 
 
 ## Population Studies
@@ -289,6 +290,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Sun et al. (2018) [@sun2018hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from Young Supernova Remnants
 - **[Abbott et al. (2019) [@ligo2020search] (PRD)]** - Search for Gravitational Waves from Scorpius X-1 in the Second Advanced LIGO Observing Run with an Improved Hidden Markov Model
 - **[C. Dreißigacker (2020) [@2020DreissigackerSearchesContinuousGravitational] (PhD Thesis)]** - Searches for Continuous Gravitational Waves : Sensitivity Estimation and Deep Learning As a Novel Search Method
+- **[Morawski et al. (2020) [@2020MorawskiMachineLearningClassification] (Proceedings)]** - achine Learning Classification of Continuous Gravitational-wave Signal Candidates
 
 
 ---
