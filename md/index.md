@@ -205,6 +205,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wei et al. (2020) [@2020WeiDeepLearningGravitational] (2010.09751)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers
     - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (2010.11829)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
     - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
+    - **[Wei et al. (2020) [@2020WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
 
 
 ## Low-latency source-properties (EM-bright)
@@ -238,7 +239,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Haegel & Husa (2020) [@haegel2020predicting] (CQG)]** - Predicting the properties of black-hole merger remnants with deep neural networks
     - **[Varma et al. (2019) [@varma2019high] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Belgacem et al. (2020) [@belgacem2020gaussian] (PRD)]** - Gaussian processes reconstruction of modified gravitational wave propagation
-    - **[Li et al. (2020) [@li2020machine] (2003.13928)]** - Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array
+    - **[Li et al. (2020) [@li2020machine] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
@@ -360,6 +361,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - 实现的是对应观测数据集的宇宙学参数估计
 * **[Xu et al. (2020) [@2020XuGwopsVotechnology] (PASP)]** - GWOPS: A Vo-technology Driven Tool to Search for the Electromagnetic Counterpart of Gravitational Wave Event
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (2009.06608)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
+* **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 
 # 8. GW Dynamics
 

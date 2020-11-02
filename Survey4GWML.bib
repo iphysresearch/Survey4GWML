@@ -1043,16 +1043,27 @@ it.}
 }
 
 
-@article{li2020machine,
-  title={Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array},
-  author={Li, Jin and Chen, MengNi and Feng, Yi and Li, Di and Zhong, Yuanhong},
-  journal={arXiv preprint arXiv:2003.13928},
-  eprint = "2003.13928",
-  archivePrefix = "arXiv",
-  primaryClass = "astro-ph.IM",
-  month = "3",
-  year = "2020"
+@Article{li2020machine,
+  author        = {Chen, MengNi and Zhong, YuanHong and Feng, Yi and Li, Di and Li, Jin},
+  journal       = {Science China Physics, Mechanics & Astronomy},
+  title         = {Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array},
+  year          = {2020},
+  issn          = {1869-1927},
+  month         = mar,
+  number        = {12},
+  pages         = {129511},
+  volume        = {63},
+  abstract      = {Studies have shown that the use of pulsar timing arrays (PTAs) is among the approaches with the highest potential to detect very low-frequency gravitational waves in the near future. Although the capture of gravitational waves (GWs) by PTAs has not been reported yet, many related theoretical studies and some meaningful detection limits have been reported. In this study, we focused on the nanohertz GWs from individual supermassive binary black holes. Given specific pulsars (PSR J1909-3744, PSR J1713+0747, PSR J0437-4715), the corresponding GW-induced timing residuals in PTAs with Gaussian white noise can be simulated. Further, we report the classification of the simulated PTA data and parameter estimation for potential GW sources using machine learning based on neural networks. As a classifier, the convolutional neural network shows high accuracy when the combined signal to noise ratio ≥1.33 for our simulated data. Further, we applied a recurrent neural network to estimate the chirp mass (ℳ) of the source and luminosity distance (Dp) of the pulsars and Bayesian neural networks (BNNs) to obtain the uncertainties of chirp mass estimation. Knowledge of the uncertainties is crucial to astrophysical observation. In our case, the mean relative error of chirp mass estimation is less than 13.6%. Although these results are achieved for simulated PTA data, we believe that they will be important for realizing intelligent processing in PTA data analysis.},
+  archiveprefix = {arXiv},
+  doi           = {10.1007/s11433-020-1609-y},
+  eprint        = {2003.13928v1},
+  keywords      = {astro-ph.IM},
+  primaryclass  = {astro-ph.IM},
+  refid         = {Chen2020},
 }
+
+
+
 
 @article{marulanda2020deep,
   title={Deep learning Gravitational Wave Detection in the Frequency Domain},
@@ -2675,4 +2686,33 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   volume = {10},
   author = {Morawski, Filip and Bejger, Michal and Cieciel, Pawel},
   url    = {https://www.pta.edu.pl/pliki/proc/vol10/v10p33.pdf},
+}
+
+
+@Article{2019HortuaParametersEstimationCosmic,
+  author        = {Hortua, Hector J. and Volpi, Riccardo and Marinelli, Dimitri and Malagò, Luigi},
+  title         = {Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks},
+  year          = {2019},
+  month         = nov,
+  abstract      = {In this paper, we present the first study that compares different models of Bayesian Neural Networks (BNNs) to predict the posterior distribution of the cosmological parameters directly from the Cosmic Microwave Background temperature and polarization maps. We focus our analysis on four different methods to sample the weights of the network during training: Dropout, DropConnect, Reparameterization Trick (RT), and Flipout. We find out that Flipout outperforms all other methods regardless of the architecture used, and provides tighter constraints for the cosmological parameters. Moreover we compare with MCMC posterior analysis obtaining comparable error correlation among parameters, with BNNs being orders of magnitude faster in inference, although less accurate. Thanks to the speed of the inference process with BNNs, the posterior distribution, outcome of the neural network, can be used as the initial proposal for the Markov Chain. We show that this combined approach increases the acceptance rate in the Metropolis-Hasting algorithm and accelerates the convergence of the MCMC, while reaching the same final accuracy. In the second part of the paper, we present a guide to the training and calibration of a successful multi-channel BNN for the CMB temperature and polarization map. We show how tuning the regularization parameter for the standard deviation of the approximate posterior on the weights in Flipout and RT we can produce unbiased and reliable uncertainty estimates, i.e., the regularizer acts like a hyperparameter analogous to the dropout rate in Dropout. Finally, we show how polarization, when combined with the temperature in a unique multi-channel tensor fed to a single BNN, helps to break degeneracies among parameters and provides stringent constraints.},
+  archiveprefix = {arXiv},
+  journal={arXiv preprint arXiv:1911.08508},
+  eprint        = {1911.08508},
+  keywords      = {astro-ph.IM, cs.LG},
+  primaryclass  = {astro-ph.IM},
+}
+
+
+
+@Article{2020WeiDeepLearningEnsemble,
+  author        = {Wei, Wei and Khan, Asad and Huerta, E. A. and Huang, Xiaobo and Tian, Minyang},
+  title         = {Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers},
+  year          = {2020},
+  month         = oct,
+  abstract      = {We introduce the use of deep learning ensembles for real-time, gravitational wave detection of spinning binary black hole mergers. This analysis consists of training independent neural networks that simultaneously process strain data from multiple detectors. The output of these networks is then combined and processed to identify significant noise triggers. We have applied this methodology in O2 and O3 data finding that deep learning ensembles clearly identify binary black hole mergers in open source data available at the Gravitational-Wave Open Science Center. We have also benchmarked the performance of this new methodology by processing 200 hours of open source, advanced LIGO noise from August 2017. Our findings indicate that our approach identifies real gravitational wave sources in advanced LIGO data with a false positive rate of 1 misclassification for every 2.7 days of searched data. A follow up of these misclassifications identified them as glitches. Our deep learning ensemble represents the first class of neural network classifiers that are trained with millions of modeled waveforms that describe quasi-circular, spinning, non-precessing, binary black hole mergers. Once fully trained, our deep learning ensemble processes advanced LIGO strain data faster than real-time using 4 NVIDIA V100 GPUs.},
+  archiveprefix = {arXiv},
+  eprint        = {2010.15845},
+  journal={arXiv preprint arXiv:2010.15845},
+  keywords      = {gr-qc, I.2; I.5},
+  primaryclass  = {gr-qc},
 }
