@@ -146,6 +146,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@khan2020gravitational] (2008.12932)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation
+    - **[Schmidt et al. (2020) [@2020SchmidtMachineLearningGravitational] (2011.01958)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
 
 
 
@@ -265,6 +266,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
 * **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
 * **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (MNRAS)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
+* **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (2011.01865)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
 
 --- 
 
