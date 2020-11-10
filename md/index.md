@@ -207,6 +207,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (2010.11829)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
     - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
     - **[Wei et al. (2020) [@2020WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
+    - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (2011.04418)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
 
 
 ## Low-latency source-properties (EM-bright)
@@ -268,6 +269,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (MNRAS)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
 * **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (2011.01865)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
 * **[Arjona et al. (2020) [@2020ArjonaMachineLearningForecasts] (2011.02718)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
+* **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
 
 --- 
 
