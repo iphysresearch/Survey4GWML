@@ -267,6 +267,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
 * **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (MNRAS)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
 * **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (2011.01865)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
+* **[Arjona et al. (2020) [@2020ArjonaMachineLearningForecasts] (2011.02718)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
 
 --- 
 
