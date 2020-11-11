@@ -370,11 +370,14 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
 # 8. Physics related
 
-Interesting works based on machine learning.
+Some selected interesting works:
 
+- **[Funai et al. (2018) [@2018FunaiThermodynamicsFeatureExtraction] (PRR)]** - Thermodynamics and Feature Extraction by Machine Learning
+- **[Breen et al. (2019) [@2019BreenNewtonVsMachine] (Mon. Not. Roy. Astron. Soc.)]** - Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks | [深度学习求解「三体」问题，计算速度提高一亿倍](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495819&idx=3&sn=61d214da5c7d6e6b7dac1c4ba7b1b3b7&source=41#wechat_redirect) | [牛顿解决不了的问题，AI或许能搞定：用神经网络解决三体问题](https://mp.weixin.qq.com/s/zdj7Lcud51u0Grg3YWUUkg)
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
-- 
+- **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
+- **[Liu & Tegmark (2020) [@2020LiuAiPoincareMachine] (2011.04698)]** - Ai Poincaré: Machine Learning Conservation Laws from Trajectories
 
 
 

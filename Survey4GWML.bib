@@ -2786,3 +2786,62 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   keywords      = {astro-ph.HE, cs.LG, gr-qc, stat.ML},
   primaryclass  = {astro-ph.HE},
 }
+
+
+@Article{2020GreenDeepPotentialRecovering,
+  author        = {Green, Gregory M. and Ting, Yuan-Sen},
+  title         = {Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space},
+  year          = {2020},
+  month         = nov,
+  abstract      = {One of the major goals of the field of Milky Way dynamics is to recover the gravitational potential field. Mapping the potential would allow us to determine the spatial distribution of matter - both baryonic and dark - throughout the Galaxy. We present a novel method for determining the gravitational field from a snapshot of the phase-space positions of stars, based only on minimal physical assumptions. We first train a normalizing flow on a sample of observed phase-space positions, obtaining a smooth, differentiable approximation of the phase-space distribution function. Using the collisionless Boltzmann equation, we then find the gravitational potential - represented by a feed-forward neural network - that renders this distribution function stationary. This method is far more flexible than previous parametric methods, which fit narrow classes of analytic models to the data. This is a promising approach to uncovering the density structure of the Milky Way, using rich datasets of stellar kinematics that will soon become available.},
+  archiveprefix = {arXiv},
+  eprint        = {2011.04673},
+  journal={arXiv preprint arXiv:2011.04673},
+  keywords      = {astro-ph.GA},
+  primaryclass  = {astro-ph.GA},
+}
+
+
+@Article{2020LiuAiPoincareMachine,
+  author        = {Liu, Ziming and Tegmark, Max},
+  title         = {Ai Poincaré: Machine Learning Conservation Laws from Trajectories},
+  year          = {2020},
+  month         = nov,
+  abstract      = {We present AI Poincaré, a machine learning algorithm for auto-discovering conserved quantities using trajectory data from unknown dynamical systems. We test it on five Hamiltonian systems, including the gravitational 3-body problem, and find that it discovers not only all exactly conserved quantities, but also periodic orbits, phase transitions and breakdown timescales for approximate conservation laws.},
+  archiveprefix = {arXiv},
+  eprint        = {2011.04698},
+  journal={arXiv preprint arXiv:2011.04698},
+  keywords      = {cs.LG, astro-ph.EP, nlin.SI, physics.class-ph},
+  primaryclass  = {cs.LG},
+}
+
+
+@Article{2019BreenNewtonVsMachine,
+  author        = {Breen, Philip G. and Foley, Christopher N. and Boekholt, Tjarda and Zwart, Simon Portegies},
+  title         = {Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks},
+  year          = {2019},
+  month         = oct,
+  abstract      = {Since its formulation by Sir Isaac Newton, the problem of solving the equations of motion for three bodies under their own gravitational force has remained practically unsolved. Currently, the solution for a given initialization can only be found by performing laborious iterative calculations that have unpredictable and potentially infinite computational cost, due to the system's chaotic nature. We show that an ensemble of solutions obtained using an arbitrarily precise numerical integrator can be used to train a deep artificial neural network (ANN) that, over a bounded time interval, provides accurate solutions at fixed computational cost and up to 100 million times faster than a state-of-the-art solver. Our results provide evidence that, for computationally challenging regions of phase-space, a trained ANN can replace existing numerical solvers, enabling fast and scalable simulations of many-body systems to shed light on outstanding phenomena such as the formation of black-hole binary systems or the origin of the core collapse in dense star clusters.},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/staa713},
+  eprint        = {1910.07291},
+  journal={Monthly Notices of the Royal Astronomical Society},
+  keywords      = {astro-ph.GA, astro-ph.SR, cs.LG, physics.comp-ph},
+  primaryclass  = {astro-ph.GA},
+}
+
+
+
+@Article{2018FunaiThermodynamicsFeatureExtraction,
+  author        = {Funai, Shotaro Shiba and Giataganas, Dimitrios},
+  journal       = {Phys. Rev. Research 2, 033415 (2020)},
+  title         = {Thermodynamics and Feature Extraction by Machine Learning},
+  year          = {2018},
+  month         = oct,
+  abstract      = {Machine learning methods are powerful in distinguishing different phases of matter in an automated way and provide a new perspective on the study of physical phenomena. We train a Restricted Boltzmann Machine (RBM) on data constructed with spin configurations sampled from the Ising Hamiltonian at different values of temperature and external magnetic field using Monte Carlo methods. From the trained machine we obtain the flow of iterative reconstruction of spin state configurations to faithfully reproduce the observables of the physical system. We find that the flow of the trained RBM approaches the spin configurations of the maximal possible specific heat which resemble the near criticality region of the Ising model. In the special case of the vanishing magnetic field the trained RBM converges to the critical point of the Renormalization Group (RG) flow of the lattice model. Our results suggest an alternative explanation of how the machine identifies the physical phase transitions, by recognizing certain properties of the configuration like the maximization of the specific heat, instead of associating directly the recognition procedure with the RG flow and its fixed points. Then from the reconstructed data we deduce the critical exponent associated to the magnetization to find satisfactory agreement with the actual physical value. We assume no prior knowledge about the criticality of the system and its Hamiltonian.},
+  archiveprefix = {arXiv},
+  doi           = {10.1103/PhysRevResearch.2.033415},
+  eprint        = {1810.08179},  
+  keywords      = {cond-mat.stat-mech, cond-mat.dis-nn, cs.LG, hep-th},
+  primaryclass  = {cond-mat.stat-mech},
+}
