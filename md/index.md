@@ -253,6 +253,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
+    - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (2011.05991)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
 
 
 ## Population Studies
@@ -367,6 +368,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Xu et al. (2020) [@2020XuGwopsVotechnology] (PASP)]** - GWOPS: A Vo-technology Driven Tool to Search for the Electromagnetic Counterpart of Gravitational Wave Event
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (2009.06608)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
+* **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (2007.06529)]** - Interpreting Deep Learning Models for Weak Lensing
 
 # 8. Physics related
 
