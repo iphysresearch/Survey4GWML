@@ -288,7 +288,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Schafer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
 - **[Beheshtipour & Papa (2020) [@Beheshtipour2020zhb] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates
 - **[Middleton et al. (2020) [@Middleton2020skz] (PRD)]** - Search for Gravitational Waves from Five Low Mass X-ray Binaries in the Second Advanced Ligo Observing Run with an Improved Hidden Markov Model
-- **[Bayley et al. (2020) [@bayley2020robust] (2007.08207)]** - A Robust Machine Learning Algorithm to Search for Continuous Gravitational Waves
+- **[Bayley et al. (2020) [@2020BayleyRobustmachinelearning] (PRD)]** - Robust Machine Learning Algorithm to Search for Continuous Gravitational Waves
 - **[Bayley (2020) [@bayley2020non] (PhD Thesis)]** - Non-parametric and Machine Learning Techniques for Continuous Gravitational Wave Searches
 - **[Jones & Sun (2020) [@jones2020search] (2007.08732)]** - Search for Continuous Gravitational Waves from Fomalhaut B in the Second Advanced Ligo Observing Run with a Hidden Markov Model
 - **[Suvorova et al. (2016) [@suvorova2016hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin
