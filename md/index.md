@@ -271,6 +271,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (2011.01865)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
 * **[Arjona et al. (2020) [@2020ArjonaMachineLearningForecasts] (2011.02718)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
+* **[Gerosa et al. (2020) [@2020GerosaGravitationalwaveSelection] (PRD)]** - Gravitational-wave Selection Effects Using Neural-network Classifiers
 
 --- 
 
