@@ -204,7 +204,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
     - **[Jadhav et al. (2020) [@2020JadhavImprovingSignificanceBinary] (2010.08584)]** - Improving Significance of Binary Black Hole Mergers in Advanced Ligo Data Using Deep Learning : Confirmation of GW151216
     - **[Wei et al. (2020) [@2020WeiDeepLearningGravitational] (2010.09751)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers
-    - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (2010.11829)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
+    - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (ApJ)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
     - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
     - **[Wei et al. (2020) [@2020WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (2011.04418)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
@@ -358,7 +358,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
 * **[Khan et al. (2019) [@Khan2018opv] (PLB)]** From the citizen science revolution using the Sloan Digital Sky Survey… ... to large scale discovery using unlabeled images in the Dark Energy Survey using deep learning. 10k+ raw, unlabeled galaxy images from DES clustered according to morphology using RGB filters; Scalable approach to curate datasets, and to construct large-scale galaxy catalogs; Deep transfer learning combined with distributed training for cosmology; Training is completed within 8 minutes achieving state-of-the-art classification accuracy; 
 * Real-time detection and characterization of binary black hole mergers + Classification and regression of galaxies across redshift in DES/LSST-type surveys => Hubble constant measurements with probabilistic neural network models **[Wei et al. (2020) [@Wei2019voi] (Mon. Not. Roy. Astron. Soc.)].** Star cluster classification has been predominantly done by human experts; We have designed neural network models that outperform, for the first time, human performance for star cluster classification; Worldwide collaboration of experts in deep learning, astronomy, software and data.
-* **[Alexander et al. (2020) [@Alexander2019puy] (APJ)]** - Deep Learning the Morphology of Dark Matter Substructure
+* **[Alexander et al. (2020) [@Alexander2019puy] (ApJ)]** - Deep Learning the Morphology of Dark Matter Substructure
 * **[Gupta & Reichardt (2020) [@Gupta2020yvd] (2003.06135)]** - Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect
 * **[Sadr & Farsian (2020) [@Sadr2020rje] (2004.04177)]** - Inpainting via Generative Adversarial Networks for CMB data analysis
 * **[Philip et al. (2002) [@Philip2002xe] (Astron. Astrophys.)]** - A difference boosting neural network for automated star-galaxy classification
