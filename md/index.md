@@ -209,6 +209,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wei et al. (2020) [@2020WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (2011.04418)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
+    - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
 
 
 ## Low-latency source-properties (EM-bright)
@@ -256,6 +257,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (2011.05991)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
+    - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
 
 
 ## Population Studies
@@ -384,6 +386,7 @@ Some selected interesting works:
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
 - **[Liu & Tegmark (2020) [@2020LiuAiPoincareMachine] (2011.04698)]** - Ai Poincaré: Machine Learning Conservation Laws from Trajectories
+- **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 
 
 
