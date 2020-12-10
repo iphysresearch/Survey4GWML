@@ -210,6 +210,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (2011.04418)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
+    - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
 
 
 ## Low-latency source-properties (EM-bright)
@@ -305,6 +306,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Morawski et al. (2020) [@2020MorawskiMachineLearningClassification] (Proceedings)]** - achine Learning Classification of Continuous Gravitational-wave Signal Candidates
 - **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (2011.12522)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
 - **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of Snr of Pulsar Signals
+- **[Behechtipour & Papa [@2020BeheshtipourDeepLearningClusteringb] (2012.04381)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates II: Identification of low-SNR Candidates
 
 
 ---
