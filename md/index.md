@@ -29,6 +29,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Oct 19, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
 - (Nov 16, 2020) - [Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects](https://icerm.brown.edu/programs/sp-f20/w4/)
 - (Dec 11, 2020) - [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/) (workshop at NeurIPS)
+- (Dec 12, 2020) - [Interpretable Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/) (workshop at NeurIPS)
 
 
 ---
