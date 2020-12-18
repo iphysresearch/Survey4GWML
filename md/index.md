@@ -39,6 +39,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
+- **[Huerta et al. (2020) [@2020HuertaConfluenceArtificialIntelligence] (2012.08545)]** - Confluence of Artificial Intelligence and High Performance Computing for Accelerated, Scalable and Reproducible Gravitational Wave Detection
 - **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in Ligo and Virgo’s Third Observing Campaign
 - **[Zdeborová (2020) [@zdeborova2020understanding] (Nature Physics)]** - Understanding Deep Learning Is Also a Job for Physicists
 - **[Cuoco et al. (2020) [@cuoco2020enhancing] (Sci.Technol.)]** - Enhancing Gravitational-wave Science with Machine Learning
@@ -396,6 +397,7 @@ Some selected interesting works:
 - **[Liu & Tegmark (2020) [@2020LiuAiPoincareMachine] (2011.04698)]** - Ai Poincaré: Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
+- **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
 
 
 
