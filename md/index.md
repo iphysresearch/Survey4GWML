@@ -214,6 +214,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
+    - **[Menéndez-Vázquez et al. (2020) [@2020MenendezVazquezSearchesCompactBinary] (2012.10702)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in LIGO/Virgo Second Observation Period
 
 
 ## Low-latency source-properties (EM-bright)
