@@ -217,6 +217,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
     - **[Menéndez-Vázquez et al. (2020) [@2020MenendezVazquezSearchesCompactBinary] (2012.10702)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in LIGO/Virgo Second Observation Period
     - **[Krastev et al. (2020) [@2020KrastevDetectionParameterEstimation] (2012.13101)]** - Detection and Parameter Estimation of Gravitational Waves from Binary Neutron-star Mergers in Real LIGO Data Using Deep Learning
+    - **[Dodia (2021) [@2021DodiaDetectingResiduesCosmic] (2101.00195)]** - Detecting Residues of Cosmic Events Using Residual Neural Network
 
 
 ## Low-latency source-properties (EM-bright)
