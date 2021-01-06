@@ -369,7 +369,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
 ---
 
-# 7. GW Cosmology
+# 7. GW / Cosmology
 
 * **[Khan et al. (2019) [@Khan2018opv] (PLB)]** From the citizen science revolution using the Sloan Digital Sky Survey… ... to large scale discovery using unlabeled images in the Dark Energy Survey using deep learning. 10k+ raw, unlabeled galaxy images from DES clustered according to morphology using RGB filters; Scalable approach to curate datasets, and to construct large-scale galaxy catalogs; Deep transfer learning combined with distributed training for cosmology; Training is completed within 8 minutes achieving state-of-the-art classification accuracy; 
 * Real-time detection and characterization of binary black hole mergers + Classification and regression of galaxies across redshift in DES/LSST-type surveys => Hubble constant measurements with probabilistic neural network models **[Wei et al. (2020) [@Wei2019voi] (Mon. Not. Roy. Astron. Soc.)].** Star cluster classification has been predominantly done by human experts; We have designed neural network models that outperform, for the first time, human performance for star cluster classification; Worldwide collaboration of experts in deep learning, astronomy, software and data.
@@ -385,6 +385,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (2009.06608)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (2007.06529)]** - Interpreting Deep Learning Models for Weak Lensing
+* **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
 
 # 8. Physics related
 
