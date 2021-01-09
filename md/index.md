@@ -104,7 +104,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
      * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
      * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
-     * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachine] (MNRAS)]** - A Semi-supervised Machine Learning Search for Never-seen Gravitational-Wave Sources
+     * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
 
 
 
@@ -210,7 +210,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wei et al. (2020) [@2020WeiDeepLearningGravitational] (2010.09751)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers
     - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (ApJ)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
     - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
-    - **[Wei et al. (2020) [@2020WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
+    - **[Wei et al. (2021) [@2021WeiDeepLearningEnsemble] (2010.15845)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (PRD)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
@@ -343,7 +343,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
     - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (2009.07367)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
-    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachine] (MNRAS)]** - A Semi-supervised Machine Learning Search for Never-seen Gravitational-Wave Sources
+    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
 >
 
