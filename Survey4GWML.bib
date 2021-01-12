@@ -3176,3 +3176,37 @@ journal={arXiv preprint arXiv:2012.03963},
   keywords      = {astro-ph.CO, cs.CV, stat.ML},
   primaryclass  = {astro-ph.CO},
 }
+
+
+@Article{2021RezaRandomProjectionsGravitational,
+  author        = {Reza, Amit and Dasgupta, Anirban and Sengupta, Anand S.},
+  title         = {Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework},
+  year          = {2021},
+  month         = jan,
+  abstract      = {Low-latency gravitational wave search pipelines such as LLOID take advantage of low-rank factorization of the template matrix via singular value decomposition (SVD). With unprecedented improvements in detector bandwidth and sensitivity in advanced-LIGO and Virgo detectors, one expects several orders of magnitude increase in the size of template banks. This poses a formidable computational challenge in factorizing extremely large matrices. Previously, [in Kulkarni et al. [6]], we introduced the idea of random projection (RP)-based matrix factorization as a computationally viable alternative to SVD, for such large template banks. In this follow-up paper, we demonstrate the application of a block-wise randomized matrix factorization (RMF) scheme using which one can compute the desired low-rank factorization corresponding to a fixed average SNR loss (hδh̊o/h̊oi). Unlike the SVD approach, this new scheme affords a much more efficient way of matrix factorization especially in the context of LLOID search pipelines. It is a well-known fact that for very large template banks, the total computational cost is dominated by the cost of reconstruction of the detection statistic and that the cost of filtering the data is insignificant in comparison. We are unaware of any previous work in literature that has tried to squarely address this issue of optimizing the reconstruction cost. We provide a possible solution to reduce the reconstruction cost using the matching pursuit(MP) algorithm. We show that it is possible to approximately reconstruct the time-series of the detection statistic at a fraction of the total cost using our MP algorithm. The combination of RMF along with MP can handle large template banks more efficiently in comparison to the direct application of SVD. Results from several numerical simulations have been presented to demonstrate their efficacy.},
+  archiveprefix = {arXiv},
+  eprint        = {2101.03226},
+  journal={arXiv preprint arXiv:2101.03226},
+  keywords      = {gr-qc},
+  primaryclass  = {gr-qc},
+}
+
+
+@Article{2019KulkarniRandomProjectionsGravitational,
+  author        = {Kulkarni, Sumeet and Phukon, Khun Sang and Reza, Amit and Bose, Sukanta and Dasgupta, Anirban and Krishnaswamy, Dilip and Sengupta, Anand S.},
+  journal       = {Phys. Rev. D},
+  title         = {Random Projections in Gravitational Wave Searches of Compact Binaries},
+  year          = {2019},
+  month         = jan,
+  pages         = {101503},
+  volume        = {99},
+  abstract      = {Random projection (RP) is a powerful dimension reduction technique widely used in the analysis of high dimensional data. We demonstrate how this technique can be used to improve the computational efficiency of gravitational wave searches from compact binaries of neutron stars or black holes. Improvements in low-frequency response and bandwidth due to detector hardware upgrades pose a data analysis challenge in the advanced LIGO era as they result in increased redundancy in template databases and longer templates due to the higher number of signal cycles in-band. The RP-based methods presented here address both these issues within the same broad framework. We first use RP for an efficient, singular value decomposition inspired template matrix factorization and develop a geometric intuition for why this approach works. We then use RP to calculate approximate time-domain match correlations in a lower dimensional vector space. For searches over parameters corresponding to non-spinning binaries with a neutron star and a black hole, a combination of the two methods can reduce the total on-line computational cost by an order of magnitude over a nominal baseline. This can, in turn, help free-up computational resources needed to go beyond current spin-aligned searches to more complex ones involving generically spinning waveforms.},
+  archiveprefix = {arXiv},
+  doi           = {10.1103/PhysRevD.99.101503},
+  eprint        = {1801.04506},
+  issue         = {10},
+  keywords      = {gr-qc, astro-ph.CO},
+  numpages      = {6},
+  primaryclass  = {gr-qc},
+  publisher     = {American Physical Society},
+}

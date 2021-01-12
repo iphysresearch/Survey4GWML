@@ -218,7 +218,8 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Menéndez-Vázquez et al. (2020) [@2020MenendezVazquezSearchesCompactBinary] (2012.10702)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in LIGO/Virgo Second Observation Period
     - **[Krastev et al. (2020) [@2020KrastevDetectionParameterEstimation] (2012.13101)]** - Detection and Parameter Estimation of Gravitational Waves from Binary Neutron-star Mergers in Real LIGO Data Using Deep Learning
     - **[Dodia (2021) [@2021DodiaDetectingResiduesCosmic] (2101.00195)]** - Detecting Residues of Cosmic Events Using Residual Neural Network
-
+    - **[Kulkarni et al. (2019) [@2019KulkarniRandomProjectionsGravitational] (PRD)]** - Random Projections in Gravitational Wave Searches of Compact Binaries
+    - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
 
 ## Low-latency source-properties (EM-bright)
 
@@ -257,7 +258,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
-    - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for Lisa Data Analysis
+    - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (MNRAS)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
