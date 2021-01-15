@@ -3210,3 +3210,45 @@ journal={arXiv preprint arXiv:2012.03963},
   primaryclass  = {gr-qc},
   publisher     = {American Physical Society},
 }
+
+
+@Article{2021CranmerBayesianNeuralNetwork,
+  author        = {Cranmer, Miles and Tamayo, Daniel and Rein, Hanno and Battaglia, Peter and Hadden, Samuel and Armitage, Philip J. and Ho, Shirley and Spergel, David N.},
+  title         = {A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems},
+  year          = {2021},
+  month         = jan,
+  abstract      = {Despite over three hundred years of effort, no solutions exist for predicting when a general planetary configuration will become unstable. We introduce a deep learning architecture to push forward this problem for compact systems. While current machine learning algorithms in this area rely on scientist-derived instability metrics, our new technique learns its own metrics from scratch, enabled by a novel internal structure inspired from dynamics theory. Our Bayesian neural network model can accurately predict not only if, but also when a compact planetary system with three or more planets will go unstable. Our model, trained directly from short N-body time series of raw orbital elements, is more than two orders of magnitude more accurate at predicting instability times than analytical estimators, while also reducing the bias of existing machine learning algorithms by nearly a factor of three. Despite being trained on compact resonant and near-resonant three-planet configurations, the model demonstrates robust generalization to both non-resonant and higher multiplicity configurations, in the latter case outperforming models fit to that specific set of integrations. The model computes instability estimates up to five orders of magnitude faster than a numerical integrator, and unlike previous efforts provides confidence intervals on its predictions. Our inference model is publicly available in the SPOCK package, with training code open-sourced.},
+  archiveprefix = {arXiv},
+  eprint        = {2101.04117},
+  journal={arXiv preprint arXiv:2101.04117},
+  keywords      = {astro-ph.EP, astro-ph.IM, cs.AI, cs.LG, stat.ML},
+  primaryclass  = {astro-ph.EP},
+}
+
+
+@Article{2021MogushiNNETFIXartificialneural,
+  author        = {Mogushi, Kentaro and Quitzow-James, Ryan and Cavaglià, Marco and Kulkarni, Sumeet and Hayes, Fergus},
+  title         = {NNETFIX: An Artificial Neural Network-based Denoising Engine for Gravitational-wave Signals},
+  year          = {2021},
+  month         = jan,
+  abstract      = {Instrumental and environmental transient noise bursts in gravitational-wave detectors, or glitches, may impair astrophysical observations by adversely affecting the sky localization and the parameter estimation of gravitational-wave signals. Denoising of detector data is especially relevant during low-latency operations because electromagnetic follow-up of candidate detections requires accurate, rapid sky localization and inference of astrophysical sources. NNETFIX is a machine learning-based algorithm designed to remove glitches detected in coincidence with transient gravitational-wave signals. NNETFIX uses artificial neural networks to estimate the portion of the data lost due to the presence of the glitch, which allows the recalculation of the sky localization of the astrophysical signal. The sky localization of the denoised data may be significantly more accurate than the sky localization obtained from the original data or by removing the portion of the data impacted by the glitch. We test NNETFIX in simulated scenarios of binary black hole coalescence signals and discuss the potential for its use in future low-latency LIGO-Virgo-KAGRA searches. In the majority of cases for signals with a high signal-to-noise ratio, we find that the overlap of the sky maps obtained with the denoised data and the original data is better than the overlap of the sky maps obtained with the original data and the data with the glitch removed.},
+  archiveprefix = {arXiv},
+  eprint        = {2101.04712},
+  journal={arXiv preprint arXiv:2101.04712},
+  keywords      = {gr-qc, astro-ph.CO, astro-ph.HE, astro-ph.IM},
+  primaryclass  = {gr-qc},
+}
+
+
+@Article{2021LeeDeepLearningModel,
+  author        = {Lee, Joongoo and Oh, Sang Hoon and Kim, Kyungmin and Cho, Gihyuk and Oh, John J. and Son, Edwin J. and Lee, Hyung Mok},
+  title         = {Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences},
+  year          = {2021},
+  month         = jan,
+  abstract      = {The waveform templates of the matched filtering-based gravitational-wave search ought to cover wide range of parameters for the prosperous detection. Numerical relativity (NR) has been widely accepted as the most accurate method for modeling the waveforms. Still, it is well-known that NR typically requires a tremendous amount of computational costs. In this paper, we demonstrate a proof-of-concept of a novel deterministic deep learning (DL) architecture that can generate gravitational waveforms from the merger and ringdown phases of the non-spinning binary black hole coalescence. Our model takes 𝓞(1) seconds for generating approximately 1500 waveforms with a 99.9% match on average to one of the state-of-the-art waveform approximants, the effective-one-body. We also perform matched filtering with the DL-waveforms and find that the waveforms can recover the event time of the injected gravitational-wave signals.},
+  archiveprefix = {arXiv},
+  eprint        = {2101.05685},
+  journal={arXiv preprint arXiv:2101.05685},
+  keywords      = {astro-ph.IM, gr-qc},
+  primaryclass  = {astro-ph.IM},
+}

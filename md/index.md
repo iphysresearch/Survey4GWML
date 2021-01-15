@@ -126,6 +126,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Essick et al. (2020) [@Essick2020qpo] (2005.12761)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
     - **[Badaracco et al. (2020) [@badaracco2020machine] (CQG)]** - Machine Learning for Gravitational-wave Detection: Surrogate Wiener Filtering for the Prediction and Optimized Cancellation of Newtonian Noise at Virgo
     - **[Kulkarni et al. (2019) [@2019KulkarniNnetfixNeuralNetwork] (APS)]** - NNETFIX: A Neural Network to 'fix' Gravitational Wave Signals Overlapping with Short-duration Glitches in Ligo-virgo Data.
+    - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (2101.04712)]** - NNETFIX: An Artificial Neural Network-based Denoising Engine for Gravitational-wave Signals
 
 
 ---
@@ -150,6 +151,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@khan2020gravitational] (2008.12932)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation
     - **[Schmidt et al. (2020) [@2020SchmidtMachineLearningGravitational] (2011.01958)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
+    - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
 
 
 
@@ -403,6 +405,7 @@ Some selected interesting works:
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
+- **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (2101.04117)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 
 
 
