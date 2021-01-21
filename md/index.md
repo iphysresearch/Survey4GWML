@@ -152,6 +152,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Khan & Green (2020) [@khan2020gravitational] (2008.12932)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation
     - **[Schmidt et al. (2020) [@2020SchmidtMachineLearningGravitational] (2011.01958)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
+    - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
 
 
 
@@ -345,7 +346,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
-    - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (2009.07367)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
+    - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
     - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
 >

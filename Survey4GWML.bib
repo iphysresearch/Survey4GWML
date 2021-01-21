@@ -2419,18 +2419,26 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
 }
 
 
-@Article{2020EdwardsClassifyingEquationState,
+@Article{2021EdwardsClassifyingEquationState,
   author        = {Edwards, Matthew C.},
+  journal       = {Phys. Rev. D},
   title         = {Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning},
-  year          = {2020},
-  month         = sep,
+  year          = {2021},
+  month         = jan,
+  pages         = {024025},
+  volume        = {103},
   abstract      = {In this paper, we seek to answer the question "given an image of a rotating core collapse gravitational wave signal, can we determine its nuclear equation of state?". To answer this question, we employ a deep convolutional neural network to learn visual patterns embedded within rotating core collapse gravitational wave (GW) signals in order to predict the nuclear equation of state (EOS). Using the 1824 rotating core collapse GW simulations by \citet{richers:2017}, which has 18 different nuclear EOS, we consider this to be a classic multi-class image classification problem. We attain up to 71\% correct classifications in the test set, and if we consider the "top 5" most probable labels, this increases to up to 97\%, demonstrating that there is a moderate and measurable dependence of the rotating core collapse GW signal on the nuclear EOS.},
   archiveprefix = {arXiv},
+  doi           = {10.1103/PhysRevD.103.024025},
   eprint        = {2009.07367},
-  journal={arXiv preprint arXiv:2009.07367},
+  file          = {:2021EdwardsClassifyingEquationState.pdf:PDF},
+  issue         = {2},
   keywords      = {astro-ph.IM, gr-qc, stat.ML},
+  numpages      = {8},
   primaryclass  = {astro-ph.IM},
+  publisher     = {American Physical Society},
 }
+
 
 @Article{badaracco2020machine,
   author        = {Badaracco, F. and Harms, J. and Bertolini, A. and Bulik, T. and Fiori, I. and Idzkowski, B. and Kutynia, A. and Nikliborc, K. and Paoletti, F. and Paoli, A. and Rei, L. and Suchinski, M.},
@@ -3250,5 +3258,19 @@ journal={arXiv preprint arXiv:2012.03963},
   eprint        = {2101.05685},
   journal={arXiv preprint arXiv:2101.05685},
   keywords      = {astro-ph.IM, gr-qc},
+  primaryclass  = {astro-ph.IM},
+}
+
+
+@Article{2021LiaoDeepGenerativeModels,
+  author        = {Liao, Chung-Hao and Lin, Feng-Li},
+  title         = {Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder},
+  year          = {2021},
+  month         = jan,
+  abstract      = {We construct five deep generative models of gravitational waveforms for the compact binary coalescence events. Our construction bases on the extensions of the conditional variational autoencoder (cVAE). By inputting just the masses of binary black holes, these trained generative models can produce the corresponding more than 95% accurate inspiral-merger waveform in less than 10⁻³ seconds. Moreover, these models are also capable of extrapolation. That is, with mainly the low-mass-ratio training set, the resultant trained model is capable of generating large amount of accurate high-mass-ratio waveforms. Our result implies that the deep generative model is possible to speed up the generation of highly accurate gravitational waveforms of higher mass ratio by progressively self-training.},
+  archiveprefix = {arXiv},
+  eprint        = {2101.06685},
+  journal={arXiv preprint arXiv:2101.06685},
+  keywords      = {astro-ph.IM, astro-ph.HE, gr-qc, hep-th},
   primaryclass  = {astro-ph.IM},
 }
