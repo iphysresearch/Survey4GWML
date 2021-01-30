@@ -204,7 +204,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Morales et al. (2020) [@2020MoralesDeepLearningGravitational] (2009.04088)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
     - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
-    - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
     - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
     - **[Jadhav et al. (2020) [@2020JadhavImprovingSignificanceBinary] (2010.08584)]** - Improving Significance of Binary Black Hole Mergers in Advanced Ligo Data Using Deep Learning : Confirmation of GW151216
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
@@ -361,6 +360,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (2008.01262)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
     - **[Portilla et al. (2020) [@2020PortillaDeepLearningMultimessenger] (2011.13733)]** - Deep Learning for Multimessenger Core-collapse Supernova Detection
+    - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
 >
 
 * Single Detector Search
