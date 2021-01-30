@@ -191,7 +191,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Bresten & Jung (2019) [@2019BrestenDetectionGravitationalWaves] (1910.08245)]** - Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network: An Improved Approach
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
     - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
-    - **[Li et al. (2020) [@li2020machine] (2003.13928)]** - Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array
+    - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Marulanda et al. (2020) [@marulanda2020deep] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-wave signal recognition of LIGO data by deep learning
     - **[Sadeh (2020) [@sadeh2020data] (ApJ)]** - Data-driven Detection of Multimessenger Transients
@@ -254,7 +254,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Haegel & Husa (2020) [@haegel2020predicting] (CQG)]** - Predicting the properties of black-hole merger remnants with deep neural networks
     - **[Varma et al. (2019) [@varma2019high] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Belgacem et al. (2020) [@belgacem2020gaussian] (PRD)]** - Gaussian processes reconstruction of modified gravitational wave propagation
-    - **[Li et al. (2020) [@li2020machine] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
+    - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Nakano et al. (2019) [@2019NakanoComparisonVariousMethods] (PRD)]** - Comparison of Various Methods to Extract Ringdown Frequency from Gravitational Wave Data
