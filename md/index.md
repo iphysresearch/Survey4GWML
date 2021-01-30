@@ -183,7 +183,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Fan et al. (2019) [@fan2019applying] (SCI CHINA PHYS MECH)]** - Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors
     - **[Luo et al. (2019) [@luo2020extraction] (Front. Phys.)]** - Extraction of gravitational wave signals with optimized convolutional neural network
     - **[Lin et al. (2019) [@2019LinBinaryNeutronStars] (Front. Phys.)]** - Binary Neutron Stars Gravitational Wave Detection Based on Wavelet Packet Analysis and Convolutional Neural Networks
-    - **[Wang et al. (2019) [@wang2019identifying] (New J. Phys.)]** - Identifying extra high frequency gravitational waves generated from oscillons with cuspy potentials using deep neural networks
+    - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying extra high frequency gravitational waves generated from oscillons with cuspy potentials using deep neural networks
     - **[Krastev (2020) [@krastev2020real] (PLB)]** - Real-time detection of gravitational waves from binary neutron stars using artificial neural networks
     - **[Mytidis et al. (2019) [@mytidis2019sensitivity] (PRD)]** - Sensitivity study using machine learning algorithms on simulated $r$-mode gravitational wave signals from newborn neutron stars
     - **[Gebhard et al. (2017) [@gebhard2017convwave] (Workshop)]** - Convwave: Searching for gravitational waves with fully convolutional neural nets
