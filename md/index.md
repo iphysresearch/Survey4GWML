@@ -185,7 +185,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Lin et al. (2019) [@2019LinBinaryNeutronStars] (Front. Phys.)]** - Binary Neutron Stars Gravitational Wave Detection Based on Wavelet Packet Analysis and Convolutional Neural Networks
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying extra high frequency gravitational waves generated from oscillons with cuspy potentials using deep neural networks
     - **[Krastev (2020) [@2020KrastevRealtimeDetection] (PLB)]** - Real-time Detection of Gravitational Waves from Binary Neutron Stars Using Artificial Neural Networks
-    - **[Mytidis et al. (2019) [@mytidis2019sensitivity] (PRD)]** - Sensitivity study using machine learning algorithms on simulated $r$-mode gravitational wave signals from newborn neutron stars
+    - **[Mytidis et al. (2019) [@2019MytidisSensitivityStudyUsing] (PRD)]** - Sensitivity Study Using Machine Learning Algorithms on Simulated $r$-mode Gravitational Wave Signals from Newborn Neutron Stars
     - **[Gebhard et al. (2017) [@gebhard2017convwave] (Workshop)]** - Convwave: Searching for gravitational waves with fully convolutional neural nets
     - **[Gebhard et al. (2019) [@gebhard2019convolutional] (PRD)]** - Convolutional neural networks: A magic bullet for gravitational-wave detection?
     - **[Bresten & Jung (2019) [@bresten2019detection] (1910.08245)]** - Detection of gravitational waves using topological data analysis and convolutional neural network: An improved approach
