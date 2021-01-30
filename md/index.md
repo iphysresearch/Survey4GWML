@@ -188,7 +188,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Mytidis et al. (2019) [@2019MytidisSensitivityStudyUsing] (PRD)]** - Sensitivity Study Using Machine Learning Algorithms on Simulated $r$-mode Gravitational Wave Signals from Newborn Neutron Stars
     - **[Gebhard et al. (2017) [@gebhard2017convwave] (Workshop)]** - Convwave: Searching for gravitational waves with fully convolutional neural nets
     - **[Gebhard et al. (2019) [@2019GebhardConvolutionalNeuralNetworks] (PRD)]** - Convolutional Neural Networks: A Magic Bullet for Gravitational-wave Detection?
-    - **[Bresten & Jung (2019) [@bresten2019detection] (1910.08245)]** - Detection of gravitational waves using topological data analysis and convolutional neural network: An improved approach
+    - **[Bresten & Jung (2019) [@2019BrestenDetectionGravitationalWaves] (1910.08245)]** - Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network: An Improved Approach
     - **[Nakano et al. (2019) [@nakano2019comparison] (PRD)]** - Comparison of various methods to extract ringdown frequency from gravitational wave data
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
     - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
