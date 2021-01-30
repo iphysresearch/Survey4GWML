@@ -189,7 +189,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Gebhard et al. (2017) [@gebhard2017convwave] (Workshop)]** - Convwave: Searching for gravitational waves with fully convolutional neural nets
     - **[Gebhard et al. (2019) [@2019GebhardConvolutionalNeuralNetworks] (PRD)]** - Convolutional Neural Networks: A Magic Bullet for Gravitational-wave Detection?
     - **[Bresten & Jung (2019) [@2019BrestenDetectionGravitationalWaves] (1910.08245)]** - Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network: An Improved Approach
-    - **[Nakano et al. (2019) [@2019NakanoComparisonVariousMethods] (PRD)]** - Comparison of Various Methods to Extract Ringdown Frequency from Gravitational Wave Data
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
     - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
     - **[Li et al. (2020) [@li2020machine] (2003.13928)]** - Machine Learning for the Gravitational Wave Observation with Pulsar Timing Array
@@ -258,6 +257,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Li et al. (2020) [@li2020machine] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
+    - **[Nakano et al. (2019) [@2019NakanoComparisonVariousMethods] (PRD)]** - Comparison of Various Methods to Extract Ringdown Frequency from Gravitational Wave Data
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
