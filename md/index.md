@@ -197,7 +197,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-wave signal recognition of LIGO data by deep learning
     - **[Sadeh (2020) [@sadeh2020data] (ApJ)]** - Data-driven Detection of Multimessenger Transients
     - **[Kim et al. (2020) [@kim2020ranking] (PRD)]** - Ranking candidate signals with machine learning in low-latency searches for gravitational waves from compact binary mergers
-    - **[Li et al. (2020) [@li2020some] (Front. Phys.)]** - Some optimizations on detecting gravitational wave using convolutional neural network
+    - **[Li et al. (2020) [@2020LiSomeOptimizationsDetectingb] (Front. Phys.)]** - Some Optimizations on Detecting Gravitational Wave Using Convolutional Neural Network
     - **[Schafer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
     - **[Schafer et al. (2020) [@schafer2020detection] (2006.01509)]** - Detection of gravitational-wave signals from binary neutron star mergers using machine learning
     - **[Lin & Wu (2020) [@Lin2020aps] (2007.04176)]** - Detection of Gravitational Waves Using Bayesian Neural Networks
