@@ -407,7 +407,7 @@ Some selected interesting works:
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (2101.04117)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (2102.01010)]** - Machine Learning Accelerated Computational Fluid Dynamics
-
+  >[机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](https://mp.weixin.qq.com/s/QmlYIIcG7pjzLfLmFdDnDQ)
 
 
 # License
