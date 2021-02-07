@@ -406,6 +406,7 @@ Some selected interesting works:
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (2101.04117)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
+- **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (2102.01010)]** - Machine Learning Accelerated Computational Fluid Dynamics
 
 
 
