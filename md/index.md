@@ -30,6 +30,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Nov 16, 2020) - [Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects](https://icerm.brown.edu/programs/sp-f20/w4/)
 - (Dec 11, 2020) - [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/) (workshop at NeurIPS)
 - (Dec 12, 2020) - [Interpretable Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/) (workshop at NeurIPS)
+- (Nov 29, 2021) - [Workshop IV: Big Data in Multi-Messenger Astrophysics](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/) (Part of the Long Program [Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy](http://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-the-era-of-gravitational-wave-astronomy/))
 
 
 ---
@@ -389,6 +390,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (2007.06529)]** - Interpreting Deep Learning Models for Weak Lensing
 * **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
+* **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
 
 # 8. Physics related
 
