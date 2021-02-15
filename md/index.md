@@ -316,6 +316,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (2011.12522)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
 - **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of Snr of Pulsar Signals
 - **[Behechtipour & Papa [@2020BeheshtipourDeepLearningClusteringb] (2012.04381)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates II: Identification of low-SNR Candidates
+- **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (2102.06334)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
 
 
 ---
