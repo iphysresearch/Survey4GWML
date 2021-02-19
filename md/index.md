@@ -154,6 +154,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Schmidt et al. (2020) [@2020SchmidtMachineLearningGravitational] (2011.01958)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
+    - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
 
 
 
@@ -260,7 +261,6 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
-    - **[Chua et al. (2020) [@Chua2020stf] (2008.06071)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (MNRAS)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
