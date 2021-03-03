@@ -151,7 +151,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@khan2020gravitational] (2008.12932)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation
-    - **[Schmidt et al. (2020) [@2020SchmidtMachineLearningGravitational] (2011.01958)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
+    - **[Schmidt et al. (2020) [@2021SchmidtMachineLearningGravitational] (PRD)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
