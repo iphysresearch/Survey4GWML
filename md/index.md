@@ -156,6 +156,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
+    - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalBurst] (2103.01641)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
 
 
 
@@ -394,6 +395,8 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (2007.06529)]** - Interpreting Deep Learning Models for Weak Lensing
 * **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
 * **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
+* **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
+* **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
 
 # 8. Physics related
 
