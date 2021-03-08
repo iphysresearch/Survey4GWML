@@ -224,6 +224,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Dodia (2021) [@2021DodiaDetectingResiduesCosmic] (2101.00195)]** - Detecting Residues of Cosmic Events Using Residual Neural Network
     - **[Kulkarni et al. (2019) [@2019KulkarniRandomProjectionsGravitational] (PRD)]** - Random Projections in Gravitational Wave Searches of Compact Binaries
     - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
+    - **[Zhan et al. (2021) [@2021ZhanResponseConvolutionalNeural] (2103.03557)]** - The Response of the Convolutional Neural Network to the Transient Noise in Gravitational Wave Detection
 
 ## Low-latency source-properties (EM-bright)
 
