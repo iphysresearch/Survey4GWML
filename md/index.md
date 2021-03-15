@@ -146,7 +146,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chua (2017) [@Chua2017xyi] (PhD Thesis)]** - Topics in gravitational-wave astronomy: Theoretical studies, source modelling and statistical methods
     - **[Chua et al. (2019) [@Chua2018woh] (PRL)]** - Reduced-oruder modeling with artificial neurons for gravitational-wave inference
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
-    - **[Tiglio & Villanueva (2019) [@Tiglio2019yfe] (1911.00644)]** - On ab initio closed-form expressions for gravitational waves
+    - **[Tiglio & Villanueva (2019) [@2021TiglioAbInitiobased] (Scientific Reports)]** - On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks

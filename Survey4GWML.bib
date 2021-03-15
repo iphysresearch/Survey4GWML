@@ -702,15 +702,24 @@ it.}
 	abstract = {Theoretical gravitational-wave models of compact-binary mergers need to be accurate, but also fast in order to compare millions of signals in near real time with experimental data. Various regression and interpolation techniques have been employed to build efficient waveform models, but no study has systematically compared the performance of these methods yet. Here we provide such a comparison. For analytical binary-black-hole waveforms, assuming either aligned or precessing spins, we compare the accuracy as well as the computational speed of a variety of regression methods, ranging from traditional interpolation to machine-learning techniques. We find that most methods are reasonably accurate, but efficiency considerations favour in many cases the simpler approaches. We conclude that sophisticated regression methods are not necessarily needed in standard gravitational-wave modeling applications, although machine-learning techniques might be more suitable for problems with higher complexity than what is tested here.}
 }
 
-@article{Tiglio2019yfe,
-    author = "Tiglio, Manuel and Villanueva, Aarón",
-    title = "{On ab initio closed-form expressions for gravitational waves}",
-    eprint = "1911.00644",
-    archivePrefix = "arXiv",
-    primaryClass = "gr-qc",
-    journal={arXiv preprint arXiv:1911.00644},
-    month = "11",
-    year = "2019",
+@Article{2021TiglioAbInitiobased,
+  author        = {Tiglio, Manuel and Villanueva, Aarón},
+  journal       = {Scientific Reports},
+  title         = {On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves},
+  year          = {2021},
+  issn          = {2045-2322},
+  number        = {1},
+  pages         = {5832},
+  volume        = {11},
+  abstract      = {We introduce a new approach for finding high accuracy, free and closed-form expressions for the gravitational waves emitted by binary black hole collisions from ab initio models. More precisely, our expressions are built from numerical surrogate models based on supercomputer simulations of the Einstein equations, which have been shown to be essentially indistinguishable from each other. Distinct aspects of our approach are that: (i) representations of the gravitational waves can be explicitly written in a few lines, (ii) these representations are free-form yet still fast to search for and validate and (iii) there are no underlying physical approximations in the underlying model. The key strategy is combining techniques from Artificial Intelligence and Reduced Order Modeling for parameterized systems. Namely, symbolic regression through genetic programming combined with sparse representations in parameter space and the time domain using Reduced Basis and the Empirical Interpolation Method enabling fast free-form symbolic searches and large-scale a posteriori validations. As a proof of concept we present our results for the collision of two black holes, initially without spin, and with an initial separation corresponding to 25-31 gravitational wave cycles before merger. The minimum overlap, compared to ground truth solutions, is 99%. That is, 1% difference between our closed-form expressions and supercomputer simulations; this is considered for gravitational (GW) science more than the minimum required due to experimental numerical errors which otherwise dominate. This paper aims to contribute to the field of GWs in particular and Artificial Intelligence in general.},
+  archiveprefix = {arXiv},
+  date          = {2019},
+  doi           = {10.1038/s41598-021-85102-y},
+  eprint        = {1911.00644},
+  keywords      = {skimmed},
+  primaryclass  = {gr-qc},
+  readstatus    = {skimmed},
+  refid         = {Tiglio2021},
 }
 
 @phdthesis{Chua2017xyi,
