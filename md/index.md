@@ -225,6 +225,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Kulkarni et al. (2019) [@2019KulkarniRandomProjectionsGravitational] (PRD)]** - Random Projections in Gravitational Wave Searches of Compact Binaries
     - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
     - **[Zhan et al. (2021) [@2021ZhanResponseConvolutionalNeural] (2103.03557)]** - The Response of the Convolutional Neural Network to the Transient Noise in Gravitational Wave Detection
+    - **[Morawski et al. (2021) [@2021MorawskiAnomalyDetectionGravitational] (2103.07688)]** - Anomaly Detection in Gravitational Waves Data Using Convolutional Autoencoders
 
 ## Low-latency source-properties (EM-bright)
 
