@@ -150,7 +150,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
-    - **[Khan & Green (2020) [@khan2020gravitational] (2008.12932)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation
+    - **[Khan & Green (2020) [@khan2020gravitational] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
     - **[Schmidt et al. (2020) [@2021SchmidtMachineLearningGravitational] (PRD)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
@@ -354,6 +354,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
     - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
+    - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
 >
 
 * Burst analysis

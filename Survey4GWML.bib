@@ -2475,18 +2475,24 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   publisher     = {American Physical Society},
 }
 
-
-@Article{khan2020gravitational,
+@Article{2021KhanGravitationalwaveSurrogate,
   author        = {Khan, Sebastian and Green, Rhys},
-  title         = {Gravitational-wave Surrogate Models Powered by Artificial Neural Networks: The Ann-sur for Waveform Generation},
-  year          = {2020},
-  month         = aug,
+  journal       = {Phys. Rev. D},
+  title         = {Gravitational-wave Surrogate Models Powered by Artificial Neural Networks},
+  year          = {2021},
+  month         = mar,
+  pages         = {064015},
+  volume        = {103},
   abstract      = {Inferring the properties of black holes and neutron stars is a key science goal of gravitational-wave (GW) astronomy. To extract as much information as possible from GW observations we must develop methods to reduce the cost of Bayesian inference. In this paper, we use artificial neural networks (ANNs) and the parallelisation power of graphics processing units (GPUs) to improve the surrogate modelling method, which can produce accelerated versions of existing models. As a first application of our method, ANN-Sur, we build a time-domain surrogate model of the spin-aligned binary black hole (BBH) waveform model SEOBNRv4. We achieve median mismatches of 2e-5 and mismatches no worse than 2e-3. For a typical BBH waveform generated from 12 Hz with a total mass of 60 M_⊙ the original SEOBNRv4 model takes 1812 ms. Existing bespoke code optimisations (SEOBNRv4opt) reduced this to 91.6 ms and the interpolation based, frequency-domain surrogate SEOBNRv4ROM can generate this waveform in 6.9 ms. Our ANN-Sur model, when run on a CPU takes 2.7 ms and just 0.4 ms when run on a GPU. ANN-Sur can also generate large batches of waveforms simultaneously. We find that batches of up to 10⁴ waveforms can be evaluated on a GPU in just 163 ms, corresponding to a time per waveform of 0.016 ms. This method is a promising way to utilise the parallelisation power of GPUs to drastically increase the computational efficiency of Bayesian parameter estimation.},
   archiveprefix = {arXiv},
-  eprint        = {2008.12932},
-  journal={arXiv preprint arXiv:2008.12932},
+  doi           = {10.1103/PhysRevD.103.064015},
+  eprint        = {2008.12932v1},
+  file          = {:http\://arxiv.org/pdf/2008.12932v1:PDF;:2021KhanGravitationalwaveSurrogate.pdf:PDF},
+  issue         = {6},
   keywords      = {gr-qc},
+  numpages      = {13},
   primaryclass  = {gr-qc},
+  publisher     = {American Physical Society},
 }
 
 
@@ -3583,4 +3589,18 @@ journal={arXiv preprint arXiv:2012.03963},
   journal={arXiv preprint arXiv:2103.07688},  
   keywords      = {astro-ph.IM, gr-qc},
   primaryclass  = {astro-ph.IM},
+}
+
+@Article{2021LopezDeepLearningCore,
+  author    = {L\'opez, M. and Di Palma, I. and Drago, M. and Cerd\'a-Dur\'an, P. and Ricci, F.},
+  journal   = {Phys. Rev. D},
+  title     = {Deep Learning for Core-collapse Supernova Detection},
+  year      = {2021},
+  month     = mar,
+  pages     = {063011},
+  volume    = {103},
+  doi       = {10.1103/PhysRevD.103.063011},
+  issue     = {6},
+  numpages  = {15},
+  publisher = {American Physical Society},
 }
