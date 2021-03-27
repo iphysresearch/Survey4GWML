@@ -86,6 +86,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
 
     * GravitySpy **[Zevin et al. (2017) [@zevin2017gravity] (CQG); Coughlin et al. (2019) [@coughlin2019classifying] (PRD)]** uses citizen scientists to produce training sets for machine learning glitch classification.
     * (How do I try it myself?) Log into [gravityspy.org](https://www.gravityspy.org) to try classifying glitches. Download already labelled LIGO glitches for training your algorithm from zenodo [One](https://zenodo.org/record/1476156) / [Two](https://zenodo.org/record/1476551).
+    * **[Soni et al. (2021) [@2021SoniDiscoveringFeaturesGravitational] (2103.12104)]** - Discovering Features in Gravitational-wave Data through Detector Characterization, Citizen Science and Machine Learning
 >
 
 
@@ -401,6 +402,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
 * **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (2103.05408)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
+* **[Natarajan et al. (2021) [@2021NatarajanQuasarNetnewresearch] (2103.13932)]** - Quasarnet: A New Research Platform for the Data-driven Investigation of Black Holes
 
 # 8. Physics related
 
