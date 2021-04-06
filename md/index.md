@@ -227,6 +227,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
     - **[Zhan et al. (2021) [@2021ZhanResponseConvolutionalNeural] (2103.03557)]** - The Response of the Convolutional Neural Network to the Transient Noise in Gravitational Wave Detection
     - **[Morawski et al. (2021) [@2021MorawskiAnomalyDetectionGravitational] (2103.07688)]** - Anomaly Detection in Gravitational Waves Data Using Convolutional Autoencoders
+    - **[Baltus et al. (2021) [@2021BaltusConvolutionalneuralnetworks] (2104.00594)]** - Convolutional Neural Networks for the Detection of the Early Inspiral of a Gravitational-wave Signal
 
 ## Low-latency source-properties (EM-bright)
 
@@ -404,6 +405,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (2103.05408)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
 * **[Natarajan et al. (2021) [@2021NatarajanQuasarNetnewresearch] (2103.13932)]** - Quasarnet: A New Research Platform for the Data-driven Investigation of Black Holes
 * **[Elizalde et al. (2021) [@2021ElizaldeApproachColdDark] (2104.01077)]** - An Approach to Cold Dark Matter Deviation and the $H_{0}$ Tension Problem by Using Machine Learning
+* **[Gómez-Vargas et al. (2021) [@2021GomezVargasCosmologicalReconstructionsArtificial] (2104.00595)]** - Cosmological Reconstructions with Artificial Neural Networks
 
 # 8. Physics related
 
