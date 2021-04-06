@@ -403,6 +403,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
 * **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (2103.05408)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
 * **[Natarajan et al. (2021) [@2021NatarajanQuasarNetnewresearch] (2103.13932)]** - Quasarnet: A New Research Platform for the Data-driven Investigation of Black Holes
+* **[Elizalde et al. (2021) [@2021ElizaldeApproachColdDark] (2104.01077)]** - An Approach to Cold Dark Matter Deviation and the $H_{0}$ Tension Problem by Using Machine Learning
 
 # 8. Physics related
 
