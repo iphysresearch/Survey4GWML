@@ -106,7 +106,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
      * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
      * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
-     * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
+     * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
 
 
 
@@ -125,7 +125,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
     - **[Alimohammadi et al. (2020) [@Alimohammadi2020wtj] (2005.11352)]** - A Data-Driven Approach for Extraction of Event-Waveform: Application to Gravitational Waves
     - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)]** - Noise reduction in gravitational-wave data via deep learning
-    - **[Essick et al. (2020) [@Essick2020qpo] (2005.12761)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
+    - **[Essick et al. (2020) [@2020EssickiDQStatisticalInference] (Mach. learn.: sci. technol.)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
     - **[Badaracco et al. (2020) [@badaracco2020machine] (CQG)]** - Machine Learning for Gravitational-wave Detection: Surrogate Wiener Filtering for the Prediction and Optimized Cancellation of Newtonian Noise at Virgo
     - **[Kulkarni et al. (2019) [@2019KulkarniNnetfixNeuralNetwork] (APS)]** - NNETFIX: A Neural Network to 'fix' Gravitational Wave Signals Overlapping with Short-duration Glitches in Ligo-virgo Data.
     - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (2101.04712)]** - NNETFIX: An Artificial Neural Network-based Denoising Engine for Gravitational-wave Signals
@@ -268,7 +268,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2020) [@Green2020dnx] (2008.03312)]** - Complete Parameter Inference for GW150914 Using Deep Learning
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
-    - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (MNRAS)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
+    - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (Mon. Not. Roy. Astron. Soc.)]** - A Scalable Random Forest Regressor for Combining Neutron-star Equation of State Measurements  A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
@@ -289,7 +289,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
 * **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
 * **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
-* **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (MNRAS)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
+* **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (Mon. Not. Roy. Astron. Soc.)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
 * **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (2011.01865)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
 * **[Arjona et al. (2020) [@2020ArjonaMachineLearningForecasts] (2011.02718)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
@@ -353,9 +353,9 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Iess et al. (2020) [@Iess2020yqj] (Sci.Technol.)]** have a different approach that does not involve cWB. They use a trigger generator called WDF to find excess power in the detector. Then they do a neural network classification to decide if the trigger is a signal or noise. They train directly on supernova waveforms. They use both time series and images of data. They obtain high accuracies with both methods and include glitches.
     - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Sci.Technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
-    - **[Stachie et al. (2020) [@stachie2020using] (MNRAS)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
+    - **[Stachie et al. (2020) [@stachie2020using] (Mon. Not. Roy. Astron. Soc.)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
     - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
-    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (MNRAS)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
+    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
 >
