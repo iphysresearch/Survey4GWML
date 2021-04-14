@@ -371,7 +371,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Kim et al. (2015) [@kim2015application] (CQG)]** - Application of artificial neural network to search for gravitational-wave signals associated with short gamma-ray bursts
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (2008.01262)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
-    - **[Portilla et al. (2020) [@2020PortillaDeepLearningMultimessenger] (2011.13733)]** - Deep Learning for Multimessenger Core-collapse Supernova Detection
+    - **[L\'opez et al. (2021) [@2020PortillaDeepLearningMultimessenger] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
     - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
 >
 
