@@ -410,6 +410,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Gómez-Vargas et al. (2021) [@2021GomezVargasCosmologicalReconstructionsArtificial] (2104.00595)]** - Cosmological Reconstructions with Artificial Neural Networks
 * **[Tilaver et al. (2021) [@2021TilaverDeepLearningApproach] (Comput. Phys. Commun)]** - Deep Learning Approach to Hubble Parameter
 * **[Gerardi et al. (2021) [@2021GerardiUnbiasedLikelihoodfree] (2104.02728)]** - Unbiased Likelihood-free Inference of the Hubble Constant from Light Standard Sirens
+* **[Velasquez-Toribio et al. (2021) [@2021VelasquezToribioConstraintsCosmographicFunctions] (2104.07356)]** - Constraints on Cosmographic Functions Using Gaussian Processes
 
 # 8. Physics related
 
