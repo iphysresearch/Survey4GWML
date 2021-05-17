@@ -40,6 +40,8 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
+
+- **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (2105.06479)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
 - **[Huerta et al. (2020) [@2020HuertaConfluenceArtificialIntelligence] (2012.08545)]** - Confluence of Artificial Intelligence and High Performance Computing for Accelerated, Scalable and Reproducible Gravitational Wave Detection
 - **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in Ligo and Virgo’s Third Observing Campaign
 - **[Zdeborová (2020) [@zdeborova2020understanding] (Nature Physics)]** - Understanding Deep Learning Is Also a Job for Physicists
