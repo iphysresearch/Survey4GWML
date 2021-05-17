@@ -149,6 +149,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chua et al. (2019) [@Chua2018woh] (PRL)]** - Reduced-oruder modeling with artificial neurons for gravitational-wave inference
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
     - **[Tiglio & Villanueva (2019) [@2021TiglioAbInitiobased] (Scientific Reports)]** - On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves
+    - **[Varma et al. (2019) [@2019VarmaHighaccuracyMass] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
@@ -262,7 +263,6 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Chatterjee et al. (2019) [@chatterjee2019using] (PRD)]** - Using deep learning to localize gravitational wave sources
     - **[Yamamoto & Tanaka (2020) [@yamamoto2020use] (2002.12095)]** - Use of conditional variational auto encoder to analyze ringdown gravitational waves
     - **[Haegel & Husa (2020) [@haegel2020predicting] (CQG)]** - Predicting the properties of black-hole merger remnants with deep neural networks
-    - **[Varma et al. (2019) [@varma2019high] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Belgacem et al. (2020) [@belgacem2020gaussian] (PRD)]** - Gaussian processes reconstruction of modified gravitational wave propagation
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
