@@ -237,6 +237,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Yan et al. (2021) [@2021YanGeneralizedApproachMatched] (2104.03961)]** - Generalized Approach to Matched Filtering Using Neural Networks
     - **[Yu et al. (2021) [@2021YuEarlywarningcoalescing] (2104.09438)]** - Early Warning of Coalescing Neutron-star and Neutron-star-black-hole Binaries from Nonstationary Noise Background Using Neural Networks
     - **[Fan et al. (2021) [@2021FanImprovingGravitationalWave] (ICPR)]** - Improving Gravitational Wave Detection with 2d Convolutional Neural Networks
+    - **[Baltus et al. (2021) [@2021BaltusDetectingEarlyInspiral] (2105.13664)]** - Detecting the Early Inspiral of a Gravitational-wave Signal with Convolutional Neural Networks
 
 ## Low-latency source-properties (EM-bright)
 
@@ -302,6 +303,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Arjona et al. (2021) [@2021ArjonaMachineLearningForecasts] (PRD)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
 * **[Gerosa et al. (2020) [@2020GerosaGravitationalwaveSelection] (PRD)]** - Gravitational-wave Selection Effects Using Neural-network Classifiers
+* **[Talbot & Thrane (2020) [@2020TalbotFastFlexibleAccurate] (2012.01317)]** - Fast, Flexible, and Accurate Evaluation of Malmquist Bias with Machine Learning: Preparing for the Pending Flood of Gravitational-wave Detections
 
 --- 
 
