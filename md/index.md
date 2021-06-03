@@ -443,6 +443,7 @@ Some selected interesting works:
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (2102.01010)]** - Machine Learning Accelerated Computational Fluid Dynamics
   >[机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](https://mp.weixin.qq.com/s/QmlYIIcG7pjzLfLmFdDnDQ)
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: An Efficient nn-based PDE Solver
+- **[Liu et al. (2021) [@2021LiuMachinelearningNon] (2106.00026)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
 
 
 # License
