@@ -262,7 +262,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     * Gabbard et al. **[Gabbard et al. (2019) [@gabbard2019bayesian] (1909.06296)]** use a conditional variational autoencoder pre-trained on binary black hole signals. We use a variation inference approach to produce samples from the posterior. It does NOT need to be trained on precomputed posteriors. It is ~6 orders of magnitude faster than existing sampling techniques. For Chris Messenger, it seems completely obvious that all data analysis will be ML in 5-10 years.
     - **[Chatterjee et al. (2020) [@chatterjee2020machine] (ApJ)]** - A Machine Learning-based Source Property Inference for Compact Binary Mergers
     - **[Fan et al. (2019) [@fan2019applying] (SCI CHINA PHYS MECH)]** - Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors
-    - **[Green et al. (2020) [@green2020gravitational] (2002.07656)]** - Gravitational-wave parameter estimation with autoregressive neural network flows
+    - **[Green et al. (2020) [@2020GreenGravitationalwaveParameter] (PRD)]** - Gravitational-wave parameter estimation with autoregressive neural network flows
     - **[Carrillo et al. (2016) [@carrillo2016parameter] (GRG)]** - Parameter estimates in binary black hole collisions using neural networks
     - **[Carrillo et al. (2018) [@carrillo2018one] (INT J MOD PHYS D)]** - One parameter binary black hole inverse problem using a sparse training set
     - **[Chatterjee et al. (2019) [@chatterjee2019using] (PRD)]** - Using deep learning to localize gravitational wave sources
