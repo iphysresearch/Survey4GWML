@@ -284,7 +284,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Bhagwat & Pacilio (2021) [@2021BhagwatMergerringdownConsistency] (2101.07817)]** - Merger-Ringdown Consistency: A New Test of Strong Gravity Using Deep Learning
-    - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalising] (2102.11056)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
+    - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
     - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (2104.05357)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
 
 ## Population Studies
