@@ -2512,20 +2512,24 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   publisher     = {American Physical Society},
 }
 
-
-@Article{2020MoralesDeepLearningGravitational,
-  author        = {Morales, Manuel D. and Antelis, Javier M. and Moreno, Claudia and Nesterov, Alexander I.},
-  title         = {Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach},
-  year          = {2020},
-  month         = {Sep},
-  abstract      = {In this work, we apply Convolutional Neural Networks (CNNs) to detect gravitational wave (GW) signals of compact binary coalescences, using single-interferometer data from LIGO detectors. As novel contribution, we adopted a resampling white-box approach to advance towards a statistical understanding of uncertainties intrinsic to CNNs in GW data analysis. Resampling is performed by repeated k-fold cross-validation experiments, and for a white-box approach, behavior of CNNs is mathematically described in detail. Through a Morlet wavelet transform, strain time series are converted to time-frequency images, which in turn are reduced before generating input datasets. Moreover, to reproduce more realistic experimental conditions, we worked only with data of non-Gaussian noise and hardware injections, removing freedom to set signal-to-noise ratio (SNR) values in GW templates by hand. After hyperparameter adjustments, we found that resampling smooths stochasticity of mini-batch stochastic gradient descend by reducing mean accuracy perturbations in a factor of 3.6. CNNs were quite precise to detect noise but not sensitive enough to recall GW signals, meaning that CNNs are better for noise reduction than generation of GW triggers. However, applying a post-analysis, we found that for GW signals of SNR ≥ 21.80 with H1 data and SNR ≥ 26.80 with L1 data, CNNs could remain as tentative alternatives for detecting GW signals. Besides, with receiving operating characteristic curves we found that CNNs show much better performances than those of Naive Bayes and Support Vector Machines models and, with a significance level of 5%, we estimated that predictions of CNNs are significant different from those of a random classifier. Finally, we elucidated that performance of CNNs is highly class dependent because of the distribution of probabilistic scores outputted by the softmax layer.},
-  archiveprefix = {arXiv},
-  eprint        = {2009.04088},
-  journal={arXiv preprint arXiv:2009.04088},
-  keywords      = {astro-ph.IM, cs.LG, gr-qc, physics.data-an},
-  primaryclass  = {astro-ph.IM},
+@Article{2021MoralesDeepLearningGravitational,
+  author         = {Morales, Manuel D. and Antelis, Javier M. and Moreno, Claudia and Nesterov, Alexander I.},
+  journal        = {Sensors},
+  title          = {Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach},
+  year           = {2021},
+  issn           = {1424-8220},
+  month          = sep,
+  number         = {9},
+  volume         = {21},
+  abstract       = {In this work, we apply Convolutional Neural Networks (CNNs) to detect gravitational wave (GW) signals of compact binary coalescences, using single-interferometer data from real LIGO detectors. Here, we adopted a resampling white-box approach to advance towards a statistical understanding of uncertainties intrinsic to CNNs in GW data analysis. We used Morlet wavelets to convert strain time series to time-frequency images. Moreover, we only worked with data of non-Gaussian noise and hardware injections, removing freedom to set signal-to-noise ratio (SNR) values in GW templates by hand, in order to reproduce more realistic experimental conditions. After hyperparameter adjustments, we found that resampling through repeated k-fold cross-validation smooths the stochasticity of mini-batch stochastic gradient descent present in accuracy perturbations by a factor of 3.6. CNNs are quite precise to detect noise, 0.952 for H1 data and 0.932 for L1 data; but, not sensitive enough to recall GW signals, 0.858 for H1 data and 0.768 for L1 data—although recall values are dependent on expected SNR. Our predictions are transparently understood by exploring tthe distribution of probabilistic scores outputted by the softmax layer, and they are strengthened by a receiving operating characteristic analysis and a paired-sample t-test to compare with a random classifier.},
+  archiveprefix  = {arXiv},
+  article-number = {3174},
+  doi            = {10.3390/s21093174},
+  eprint         = {2009.04088},
+  keywords       = {astro-ph.IM, cs.LG, gr-qc, physics.data-an},
+  primaryclass   = {astro-ph.IM},
+  url            = {https://www.mdpi.com/1424-8220/21/9/3174},
 }
-
 
 @Article{2020XuGwopsVotechnology,
   author        = {Xu, Yunfei and Xu, Dong and Cui, Chenzhou and Fan, Dongwei and Zhu, Zipei and Yu, Bangyao and Li, Changhua and Han, Jun and Mi, Linying and Li, Shanshan and He, Boliang and Tao, Yihan and Yang, Hanxi and Yang, Sisi},
