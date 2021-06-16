@@ -165,7 +165,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
-    - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalBurst] (2103.01641)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
+    - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalWave] (2103.01641)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
 
 
 
