@@ -2364,20 +2364,23 @@ abstract = { In this paper, we use Artificial Neural Networks (ANNs) to estimate
   primaryclass  = {gr-qc},
 }
 
-
-@article{Green2020dnx,
-  author        = {Green, Stephen R. and Gair, Jonathan},
-  month         = {Aug},
+@Article{2021GreenCompleteParameterInference,
+  author        = {Green, Stephen Roland and Gair, Jonathan},
+  journal       = {Machine Learning: Science and Technology},
   title         = {Complete Parameter Inference for GW150914 Using Deep Learning},
-  year          = {2020},
-  abstract      = {The LIGO and Virgo gravitational-wave observatories have detected many exciting events over the past five years. As the rate of detections grows with detector sensitivity, this poses a growing computational challenge for data analysis. With this in mind, in this work we apply deep learning techniques to perform fast likelihood-free Bayesian inference for gravitational waves. We train a neural-network conditional density estimator to model posterior probability distributions over the full 15-dimensional space of binary black hole system parameters, given detector strain data from multiple detectors. We use the method of normalizing flows—specifically, a neural spline normalizing flow—which allows for rapid sampling and density estimation. Training the network is likelihood-free, requiring samples from the data generative process, but no likelihood evaluations. Through training, the network learns a global set of posteriors: it can generate thousands of independent posterior samples per second for any strain data consistent with the prior and detector noise characteristics used for training. By training with the detector noise power spectral density estimated at the time of GW150914, and conditioning on the event strain data, we use the neural network to generate accurate posterior samples consistent with analyses using conventional sampling techniques.},
+  year          = {2021},
+  month         = apr,
+  abstract      = {The LIGO and Virgo gravitational-wave observatories have detected many exciting events over the past 5 years. To infer the system parameters, iterative sampling algorithms such as MCMC are typically used with Bayes’ theorem to obtain posterior samples—by repeatedly generating waveforms and comparing to measured strain data. However, as the rate of detections grows with detector sensitivity, this poses a growing computational challenge. To confront this challenge, as well as that of fast multimessenger alerts, in this study we apply deep learning to learn non-iterative surrogate models for the Bayesian posterior. We train a neural-network conditional density estimator to model posterior probability distributions over the full 15-dimensional space of binary black hole system parameters, given detector strain data from multiple detectors. We use the method of normalizing flows—specifically, a neural spline flow—which allows for rapid sampling and density estimation. Training the network is likelihood-free, requiring samples from the data generative process, but no likelihood evaluations. Through training, the network learns a global set of posteriors: it can generate thousands of independent posterior samples per second for any strain data consistent with the training distribution. We demonstrate our method by performing inference on GW150914, and obtain results in close agreement with standard techniques.},
   archiveprefix = {arXiv},
+  date          = {2020-08-07},
+  doi           = {10.1088/2632-2153/abfaed},
   eprint        = {2008.03312},
   eprintclass   = {astro-ph.IM},
-  journal={arXiv preprint arXiv:2008.03312},
   eprinttype    = {arXiv},
+  file          = {:http\://arxiv.org/pdf/2008.03312v1:PDF;:2021GreenCompleteParameterInference.pdf:PDF},
   keywords      = {astro-ph.IM, gr-qc, stat.ML},
   primaryclass  = {astro-ph.IM},
+  publisher     = {{IOP} Publishing},
 }
 
 
