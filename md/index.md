@@ -241,6 +241,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Fan et al. (2021) [@2021FanImprovingGravitationalWave] (ICPR)]** - Improving Gravitational Wave Detection with 2d Convolutional Neural Networks
     - **[Baltus et al. (2021) [@2021BaltusDetectingEarlyInspiral] (2105.13664)]** - Detecting the Early Inspiral of a Gravitational-wave Signal with Convolutional Neural Networks
     - **[Schäfer et al. (2021) [@2021SchaeferTrainingStrategiesDeep] (2106.03741)]** - Training Strategies for Deep Learning Gravitational-wave Searches
+    - **[Goyal et al. (2021) [@2021GoyalRapidIdentificationStrongly] (2106.12466)]** - Rapid Identification of Strongly Lensed Gravitational-wave Events with Machine Learning
 
 ## Low-latency source-properties (EM-bright)
 
