@@ -162,7 +162,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Khan & Green (2020) [@khan2020gravitational] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
     - **[Schmidt et al. (2020) [@2021SchmidtMachineLearningGravitational] (PRD)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
-    - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (2101.06685)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Variational Autoencoder
+    - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (PRD)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
     - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalWave] (2103.01641)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
@@ -309,6 +309,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
 * **[Gerosa et al. (2020) [@2020GerosaGravitationalwaveSelection] (PRD)]** - Gravitational-wave Selection Effects Using Neural-network Classifiers
 * **[Talbot & Thrane (2020) [@2020TalbotFastFlexibleAccurate] (2012.01317)]** - Fast, Flexible, and Accurate Evaluation of Malmquist Bias with Machine Learning: Preparing for the Pending Flood of Gravitational-wave Detections
+* **[Álvares et al. (2021) [@2021AlvaresGravitationalwaveParameter] (IEEE)]** - Gravitational-wave Parameter Inference Using Deep Learning
 
 --- 
 
