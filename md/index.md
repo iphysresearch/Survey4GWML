@@ -290,6 +290,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Bhagwat & Pacilio (2021) [@2021BhagwatMergerringdownConsistency] (2101.07817)]** - Merger-Ringdown Consistency: A New Test of Strong Gravity Using Deep Learning
     - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
     - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (2104.05357)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
+    - [Dax et al. (2021) [@2021DaxRealtimeGravitational] (2106.12594)] - Real-time Gravitational-wave Science with Neural Posterior Estimation
 
 ## Population Studies
 
