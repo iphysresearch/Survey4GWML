@@ -167,6 +167,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
     - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalWave] (CQG)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
+    - **[Nousi et al. (2021) [@2021NousiAutoencoderdrivenSpiral] (2107.04312)]**
 
 
 
