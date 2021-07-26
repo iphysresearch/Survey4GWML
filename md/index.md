@@ -360,7 +360,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
   
     cWB relies upon the excess coherent power in a network of detectors. The data is transformed into time-frequency domain and the clusters of time-frequency pixels above certain energy threshold are identified for each detector. Time frequency map of the single detectors is then combined using the maximisation of the likelihood over all possible sky locations and the events are then ranked according to this likelihood. We can also inform our un-modelled search about the morphology of the expected signal. cWB produces reconstructions of gravitational wave signals. It can detect CBC signals as well as bursts. 
     - **[Drago et al. (2020) [@Drago2020kic] (2006.12604)]** - Coherent Waveburst, a Pipeline for Unmodeled Gravitational-wave Data Analysis
-    - **[Mishra et al. (2021) [@2021MishraOptimizationModelIndependent] (2105.04739)]** - Optimization of Model Independent Gravitational Wave Search Using Machine Learning
+    - **[Mishra et al. (2021) [@2021MishraOptimizationModelIndependent] (PRD)]** - Optimization of Model Independent Gravitational Wave Search Using Machine Learning
 >
 
 * BayesWave
