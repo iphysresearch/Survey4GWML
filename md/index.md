@@ -297,6 +297,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
     - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (2104.05357)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (2106.12594)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
+    - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
     - **[Kuo & Lin (2021) [@2021KuoConditionalNoiseDeep] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
 
 ## Population Studies
