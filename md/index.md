@@ -229,7 +229,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
     - **[Wei et al. (2021) [@2021WeiDeepLearningEnsemble] (PLB)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (PRD)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
-    - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
+    - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
     - **[Menéndez-Vázquez et al. (2020) [@2021MenendezVazquezSearchesCompactBinary] (PRD)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Second Observation Period
@@ -292,7 +292,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (2011.05991)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
-    - **[Alvares et al. (2020) [@2020AlvaresExploringGravitationalwave] (2011.10425)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
+    - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Bhagwat & Pacilio (2021) [@2021BhagwatMergerringdownConsistency] (2101.07817)]** - Merger-Ringdown Consistency: A New Test of Strong Gravity Using Deep Learning
     - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
