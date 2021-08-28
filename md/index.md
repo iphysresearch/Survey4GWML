@@ -217,8 +217,8 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Schäfer et al. (2020) [@2020SchaeferDetectionGravitationalwave] (PRD)]** - Detection of Gravitational-wave Signals from Binary Neutron Star Mergers Using Machine Learning
     - **[Lin & Wu (2020) [@2021LinDetectionGravitationalWaves] (PRD)]** - Detection of Gravitational Waves Using Bayesian Neural Networks
     - **[Chauhan (2020) [@Chauhan2020wzy] (2007.05889)]** - Deep Learning Model to Make Gravitational Wave Detections from Weak Time-series Data
-    - **[Singh et al. (2020) [@2020SinghClassificationAstrophysicalEvents] (Sensors)]** - Classification of Astrophysical Events from Gravitational Wave Signature
-    - **[Morales et al. (2021) [@2020MoralesDeepLearningGravitational] (2009.04088)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
+    - **[Singh et al. (2021) [@2021SinghDeepLearningEstimating] (Mon. Not. Roy. Astron. Soc.)]** - Deep Learning for Estimating Parameters of Gravitational Waves
+    - **[Morales et al. (2021) [@2020MoralesDeepLearningGravitational] (Sensors)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
     - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
     - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
