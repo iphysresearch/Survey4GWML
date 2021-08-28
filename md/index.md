@@ -249,6 +249,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Dodia et al. (2021) [@2021DodiaSpecgravDetectionGravitational] (2107.03607)]** - Specgrav -- Detection of Gravitational Waves Using Deep Learning
     - **[Van Lieshout (2021) [@2021LieshoutSparseDeepNeural] (Master Thesis)]** - Sparse, Deep Neural Networks for the Early Detection of Gravitational Waves from Binary Neutron Stars
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
+    - **[Schäfer et al. (2021) [2021SchaeferOneManyDeep] (2108.10715)]** - From One to Many: A Deep Learning Coincident Gravitational-wave Search
 
 ## Low-latency source-properties (EM-bright)
 
