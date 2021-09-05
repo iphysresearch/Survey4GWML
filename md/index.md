@@ -19,14 +19,17 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 # 1. Conferences & Workshops
 
+- Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
+- Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2021](https://ellisqphml.github.io/ellisphilab2021), [2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
+
+
+
 - (Dec 8, 2017) - [Deep Learning for Physical Sciences](https://ml4physicalsciences.github.io/2017/) (workshop at NeurIPS)
 - (Oct 17, 2018) - [Deep Learning for Multimessenger Astrophysics: Real-time Discovery at Scale](http://www.ncsa.illinois.edu/Conferences/DeepLearningLSST/)
 - (Sep 10, 2019) - [Fast Machine Learning](https://indico.cern.ch/event/822126/) Workshop at Fermi National Accelerator Laboratory
 - (Dec 14, 2019) - [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2019) (workshop at NeurIPS)
 - (March 9, 2020) - [CA17137](https://github.com/zerafachris/g2net_2nd_training_school_malta_mar_2020) - A network for Gravitational Waves, Geophysics and Machine Learning - 2nd Training School ([G2NET](https://www.g2net.eu))
 - (April 21, 2020) - Machine Learning for Physicists [2020](https://pad.gwdg.de/s/HJtiTE__U)
-- (6-8 July 2020) - Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
-- (24 Jul, 2020) - Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
 - (19 Oct, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
 - (Sep 9, 2020) - [Advances in Computational Relativity](https://icerm.brown.edu/programs/sp-f20)
 - (Oct 19, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
