@@ -34,8 +34,8 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Sep 9, 2020) - [Advances in Computational Relativity](https://icerm.brown.edu/programs/sp-f20)
 - (Oct 19, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
 - (Nov 16, 2020) - [Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects](https://icerm.brown.edu/programs/sp-f20/w4/)
-- (Dec 11, 2020) - [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/) (workshop at NeurIPS)
 - (Dec 12, 2020) - [Interpretable Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/) (workshop at NeurIPS)
+- (Dec 13, 2021) - Machine Learning and the Physical Sciences ([2021](https://ml4physicalsciences.github.io/2021/), [2020](https://ml4physicalsciences.github.io/2020/)) (workshop at NeurIPS)
 - (Nov 29, 2021) - [Workshop IV: Big Data in Multi-Messenger Astrophysics](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/) (Part of the Long Program [Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy](http://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-the-era-of-gravitational-wave-astronomy/))
 
 
