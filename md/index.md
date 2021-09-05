@@ -19,6 +19,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 # 1. Conferences & Workshops
 
+- The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) - Events - ([Home](https://iaifi.org/events))
 - The IST seminar series Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
 - Physics Meets ML - $\text{Physics} \cap \text{ML}$ - ([Home](http://www.physicsmeetsml.org/))
 - Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY) - Topical Meetings - ([Home](https://clariphy.org/topical.html))
