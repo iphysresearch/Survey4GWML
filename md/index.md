@@ -19,8 +19,9 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 # 1. Conferences & Workshops
 
-- Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
-- Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2021](https://ellisqphml.github.io/ellisphilab2021), [2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
+- The IST seminar series Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
+- Physics Meets ML - $\text{Physics} \cap \text{ML}$ - ([Home](http://www.physicsmeetsml.org/))
+- Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY) - Topical Meetings - ([Home](https://clariphy.org/topical.html))
 
 
 
@@ -35,6 +36,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Oct 19, 2020) - [2020 Accelerated Artificial Intelligence for Big-Data Experiments Conference](http://www.ncsa.illinois.edu/Conferences/AcceleratedAINCSA/)
 - (Nov 16, 2020) - [Statistical Methods for the Detection, Classification, and Inference of Relativistic Objects](https://icerm.brown.edu/programs/sp-f20/w4/)
 - (Dec 12, 2020) - [Interpretable Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/) (workshop at NeurIPS)
+- (May 27, 2020) - Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2021](https://ellisqphml.github.io/ellisphilab2021), [2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
 - (Dec 13, 2021) - Machine Learning and the Physical Sciences ([2021](https://ml4physicalsciences.github.io/2021/), [2020](https://ml4physicalsciences.github.io/2020/)) (workshop at NeurIPS)
 - (Nov 29, 2021) - [Workshop IV: Big Data in Multi-Messenger Astrophysics](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/) (Part of the Long Program [Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy](http://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-the-era-of-gravitational-wave-astronomy/))
 
