@@ -307,6 +307,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (2106.12594)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
     - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
     - **[Kuo & Lin (2021) [@2021KuoConditionalNoiseDeep] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
+    - **[Gunny et al. (2021) [@2021GunnyHardwareacceleratedInference] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
 
 ## Population Studies
 
