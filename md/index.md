@@ -98,7 +98,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
 
     * GravitySpy **[Zevin et al. (2017) [@zevin2017gravity] (CQG); Coughlin et al. (2019) [@coughlin2019classifying] (PRD)]** uses citizen scientists to produce training sets for machine learning glitch classification.
     * (How do I try it myself?) Log into [gravityspy.org](https://www.gravityspy.org) to try classifying glitches. Download already labelled LIGO glitches for training your algorithm from zenodo [One](https://zenodo.org/record/1476156) / [Two](https://zenodo.org/record/1476551).
-    * **[Soni et al. (2021) [@2021SoniDiscoveringFeaturesGravitational] (2103.12104)]** - Discovering Features in Gravitational-wave Data through Detector Characterization, Citizen Science and Machine Learning
+    * **[Soni et al. (2021) [@2021SoniDiscoveringFeaturesGravitational] (CQG)]** - Discovering Features in Gravitational-wave Data through Detector Characterization, Citizen Science and Machine Learning
 >
 
 
