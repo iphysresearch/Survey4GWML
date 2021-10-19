@@ -4230,3 +4230,16 @@ journal={arXiv preprint arXiv:2012.03963},
   title   = {Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences},
   year    = {2021},
 }
+
+@Article{2021KhanInterpretableAiForecasting,
+  author        = {Khan, Asad and Huerta, E. A. and Zheng, Huihuo},
+  title         = {Interpretable Ai Forecasting for Numerical Relativity Waveforms of Quasi-circular, Spinning, Non-precessing Binary Black Hole Mergers},
+  year          = {2021},
+  month         = oct,
+  abstract      = {We present a deep-learning artificial intelligence model that is capable of learning and forecasting the late-inspiral, merger and ringdown of numerical relativity waveforms that describe quasi-circular, spinning, non-precessing binary black hole mergers. We used the NRHybSur3dq8 surrogate model to produce train, validation and test sets of $\ell=|m|=2$ waveforms that cover the parameter space of binary black hole mergers with mass-ratios $q\leq8$ and individual spins $|s^z_{\{1,2\}}| \leq 0.8$. These waveforms cover the time range $t\in[-5000\textrm{M}, 130\textrm{M}]$, where $t=0M$ marks the merger event, defined as the maximum value of the waveform amplitude. We harnessed the ThetaGPU supercomputer at the Argonne Leadership Computing Facility to train our AI model using a training set of 1.5 million waveforms. We used 16 NVIDIA DGX A100 nodes, each consisting of 8 NVIDIA A100 Tensor Core GPUs and 2 AMD Rome CPUs, to fully train our model within 3.5 hours. Our findings show that artificial intelligence can accurately forecast the dynamical evolution of numerical relativity waveforms in the time range $t\in[-100\textrm{M}, 130\textrm{M}]$. Sampling a test set of 190,000 waveforms, we find that the average overlap between target and predicted waveforms is $\gtrsim99\%$ over the entire parameter space under consideration. We also combined scientific visualization and accelerated computing to identify what components of our model take in knowledge from the early and late-time waveform evolution to accurately forecast the latter part of numerical relativity waveforms. This work aims to accelerate the creation of scalable, computationally efficient and interpretable artificial intelligence models for gravitational wave astrophysics.},
+  archiveprefix = {arXiv},
+  journal = {arXiv preprint arXiv:2110.01883},
+  eprint        = {2110.01883},
+  keywords      = {gr-qc, astro-ph.IM, cs.AI, 68T10, 85-08, 83C35, 83C57, I.2},
+  primaryclass  = {gr-qc},
+}
