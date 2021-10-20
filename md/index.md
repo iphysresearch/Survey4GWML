@@ -177,6 +177,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalWave] (CQG)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
     - **[Nousi et al. (2021) [@2021NousiAutoencoderdrivenSpiral] (2107.04312)]**
     - **[Khan et al. (2021) [@2021KhanInterpretableAiForecasting] (2110.06968)]** - Interpretable Ai Forecasting for Numerical Relativity Waveforms of Quasi-circular, Spinning, Non-precessing Binary Black Hole Mergers
+    - **[Barsotti et al. (2021) [@2021BarsottiGravitationalWaveSurrogates] (2110.08901)]** - Gravitational Wave Surrogates through Automated Machine Learning
 
 
 
