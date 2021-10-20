@@ -259,6 +259,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Schäfer et al. (2021) [@2021SchaeferOneManyDeep] (2108.10715)]** - From One to Many: A Deep Learning Coincident Gravitational-wave Search
     - **[Verma et al. (2021) [@2021VermaEmployingDeepLearning] (2110.01883)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
+    - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitational] (2110.09833)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
 
 ## Low-latency source-properties (EM-bright)
 
