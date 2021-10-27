@@ -313,6 +313,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Kuo & Lin (2021) [@2021KuoConditionalNoiseDeep] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
     - **[Gunny et al. (2021) [@2021GunnyHardwareacceleratedInference] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
     - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference
+    - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
 
 ## Population Studies
 
