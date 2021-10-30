@@ -367,6 +367,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (PRD)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
 - **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-wave Data Analysis with General Purpose Computing on Graphic Processing Units
 - **[Melatos et al. (2021) [@2021MelatosHiddenMarkovModel] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin. III. Rotational Phase Tracking
+- **[Songsheng et al. (2021) [@2021SongshengSearchContinuousGravitational] (2109.00367)]** - Search for Continuous Gravitational Wave Signals in Pulsar Timing Residuals: A New Scalable Approach with Diffusive Nested Sampling
 
 
 ---
