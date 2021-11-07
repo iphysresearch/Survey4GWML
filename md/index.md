@@ -315,6 +315,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Gunny et al. (2021) [@2021GunnyHardwareacceleratedInference] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
     - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference
     - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
+    - **[Kolmus et al. (2021) [@2021KolmusSwiftskylocalization] (2111.00833)]** - Swift Sky Localization of Gravitational Waves Using Deep Learning Seeded Importance Sampling
 
 ## Population Studies
 
