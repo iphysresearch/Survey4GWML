@@ -143,7 +143,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Essick et al. (2020) [@2020EssickiDQStatisticalInference] (Mach. learn.: sci. technol.)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
     - **[Badaracco et al. (2020) [@badaracco2020machine] (CQG)]** - Machine Learning for Gravitational-wave Detection: Surrogate Wiener Filtering for the Prediction and Optimized Cancellation of Newtonian Noise at Virgo
     - **[Kulkarni et al. (2019) [@2019KulkarniNnetfixNeuralNetwork] (APS)]** - NNETFIX: A Neural Network to 'fix' Gravitational Wave Signals Overlapping with Short-duration Glitches in Ligo-virgo Data.
-    - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (Mach. learn.: sci. technol.)]** - NNETFIX: An Artificial Neural Network-based Denoising Engine for Gravitational-wave Signals
+    - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (Mach. learn.: sci. technol.)]** - NNETFIX: an artificial neural network-based denoising engine for gravitational-wave signals
     - **[Chatterjee et al. (2021) [@2021ChatterjeeExtractionBinaryBlack] (2105.03073)]** - Extraction of Binary Black Hole Gravitational Wave Signals from Detector Data Using Deep Learning
     - **[Mogushi (2021) [@2021MogushiReductionTransientNoise] (2105.10522)]** - Reduction of Transient Noise Artifacts in Gravitational-wave Data Using Deep Learning
 
