@@ -262,6 +262,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Verma et al. (2021) [@2021VermaEmployingDeepLearning] (2110.01883)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
     - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitational] (2110.09833)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
     - **[Abbott et al. (2021) [@2021AbbottGwskynetmultiMachine] (2111.04015)]** - GWSkyNet-Multi: A Machine Learning Multi-class Classifier for LIGO-Virgo Public Alerts
+    - **[Ding et al. (2021) [@2021DingUnimapModelfree] (2111.09465)]** - UniMAP: Model-free Detection of Unclassified Noise Transients in LIGO-Virgo Data Using the Temporal Outlier Factor
 
 ## Low-latency source-properties (EM-bright)
 
