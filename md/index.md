@@ -51,6 +51,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
 
+- **[Ntampaka et al. (2021) [@2021NtampakaBuildingTrustworthyMachine] (2111.14566)]** - Building Trustworthy Machine Learning Models for Astronomy
 - **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (2105.06479)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
 - **[Agrawal et al. (2020) [@2020AgrawalMachineLearningBased] (Springer Singapore)]** - Machine Learning Based Analysis of Gravitational Waves
 - **[Huerta et al. (2021) [@2021HuertaAcceleratedScalableReproducible] (Nature Astronomy)]** - Accelerated, Scalable and Reproducible Ai-driven Gravitational Wave Detection
