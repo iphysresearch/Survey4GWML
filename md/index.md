@@ -339,6 +339,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Gerosa et al. (2020) [@2020GerosaGravitationalwaveSelection] (PRD)]** - Gravitational-wave Selection Effects Using Neural-network Classifiers
 * **[Talbot & Thrane (2020) [@2020TalbotFastFlexibleAccurate] (2012.01317)]** - Fast, Flexible, and Accurate Evaluation of Malmquist Bias with Machine Learning: Preparing for the Pending Flood of Gravitational-wave Detections
 * **[Álvares et al. (2021) [@2021AlvaresGravitationalwaveParameter] (IEEE)]** - Gravitational-wave Parameter Inference Using Deep Learning
+* **[Cheung et al. (2021) [@2021CheungTestingRobustnessSimulation] (2112.06707)]** - Testing the Robustness of Simulation-based Gravitational-wave Population Inference
 
 --- 
 
