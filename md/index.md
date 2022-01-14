@@ -267,6 +267,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Ding et al. (2021) [@2021DingUnimapModelfree] (2111.09465)]** - UniMAP: Model-free Detection of Unclassified Noise Transients in LIGO-Virgo Data Using the Temporal Outlier Factor
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Lopac et al. (2022) [@2021LopacDetectionNonstationary] (IEEE Access)]** - Detection of Non-stationary GW Signals in High Noise from Cohen’s Class of Time-frequency Representations Using Deep Learning
+    - **[Dahal (2022) [@2022DahalApplicationCommonSpatial] (2201.04086)]** - Application of Common Spatial Patterns in Gravitational Waves Detection
 
 ## Low-latency source-properties (EM-bright)
 
