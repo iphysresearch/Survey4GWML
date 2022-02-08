@@ -140,7 +140,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Shen et al. (2019) [@Shen2019ohi] (IEEE)]** - Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
     - **[Wei & Huerta (2020) [@WEI2020135081] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
-    - **[Alimohammadi et al. (2020) [@2021Akhshitemplatefreeapproachwaveform] (Scientific Reports)]** - A Template-Free Approach for Waveform Extraction of Gravitational Wave Events
+    - **[Alimohammadi et al. (2021) [@2021Akhshitemplatefreeapproachwaveform] (Scientific Reports)]** - A Template-Free Approach for Waveform Extraction of Gravitational Wave Events
     - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)]** - Noise reduction in gravitational-wave data via deep learning
     - **[Essick et al. (2020) [@2020EssickiDQStatisticalInference] (Mach. learn.: sci. technol.)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
     - **[Badaracco et al. (2020) [@badaracco2020machine] (CQG)]** - Machine Learning for Gravitational-wave Detection: Surrogate Wiener Filtering for the Prediction and Optimized Cancellation of Newtonian Noise at Virgo
@@ -376,7 +376,6 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[C. Dreißigacker (2020) [@2020DreissigackerSearchesContinuousGravitational] (PhD Thesis)]** - Searches for Continuous Gravitational Waves : Sensitivity Estimation and Deep Learning As a Novel Search Method
 - **[Morawski et al. (2020) [@2020MorawskiMachineLearningClassification] (Proceedings)]** - achine Learning Classification of Continuous Gravitational-wave Signal Candidates
 - **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (2011.12522)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
-- **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of Snr of Pulsar Signals
 - **[Behechtipour & Papa [@2021BeheshtipourDeepLearningClustering] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates II: Identification of low-SNR Candidates
 - **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (PRD)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
 - **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-wave Data Analysis with General Purpose Computing on Graphic Processing Units
@@ -485,6 +484,7 @@ Some selected interesting works:
 - **[Breen et al. (2019) [@2019BreenNewtonVsMachine] (Mon. Not. Roy. Astron. Soc.)]** - Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks | [深度学习求解「三体」问题，计算速度提高一亿倍](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495819&idx=3&sn=61d214da5c7d6e6b7dac1c4ba7b1b3b7&source=41#wechat_redirect) | [牛顿解决不了的问题，AI或许能搞定：用神经网络解决三体问题](https://mp.weixin.qq.com/s/zdj7Lcud51u0Grg3YWUUkg)
 - **[Greydanus et al. (2019) [@2019GreydanusHamiltonianNeuralNetworks] (1906.01563)]** - Hamiltonian Neural Networks
 - **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（1906.05301)]** - Learning Curves for Deep Neural Networks: A Gaussian Field Theory Perspective
+- **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of SNR of Pulsar Signals
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
