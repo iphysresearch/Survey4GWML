@@ -185,7 +185,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
 
 
 
-## Signal Detection
+## Signal Detection (BBHs)
 
 >
 
@@ -243,6 +243,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (PRD)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
     - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
+    - LIGO & Virgo provide two probabilities in low-latency. **[Chatterjee et al. (2020) [@chatterjee2020machine] (ApJ)]** The probability that there is a neutron star in the CBC system, P(HasNS). The probability that there exists tidally disrupted matter outside the final coalesced object after the merger, P(HasRemnant). Matched filter searches give point estimates of mass and spin but they have large errors! To solve this a machine learning classification is used. (scikit learn K nearest neighbours, also tried random forest). A training set is created by injecting fake signals into gravitational wave data and performing a search. This then produces a map between true values and matched filter search point estimates which is learnt by the classifier.
     - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
     - **[Menéndez-Vázquez et al. (2020) [@2021MenendezVazquezSearchesCompactBinary] (PRD)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Second Observation Period
     - **[Krastev et al. (2020) [@2021KrastevDetectionparameterestimation] (PLB)]** - Detection and Parameter Estimation of Gravitational Waves from Binary Neutron-star Mergers in Real LIGO Data Using Deep Learning
@@ -270,11 +271,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Ruan et al. (2021) [@2021RuanRapidSearchMassive] (2111.14546)]** - Rapid Search for Massive Black Hole Binary Coalescences Using Deep Learning
     - **[Lopac et al. (2022) [@2021LopacDetectionNonstationary] (IEEE Access)]** - Detection of Non-stationary GW Signals in High Noise from Cohen’s Class of Time-frequency Representations Using Deep Learning
     - **[Dahal (2022) [@2022DahalApplicationCommonSpatial] (2201.04086)]** - Application of Common Spatial Patterns in Gravitational Waves Detection
-
-## Low-latency source-properties (EM-bright)
-
-LIGO & Virgo provide two probabilities in low-latency. **[Chatterjee et al. (2020) [@chatterjee2020machine] (ApJ)]** The probability that there is a neutron star in the CBC system, P(HasNS). The probability that there exists tidally disrupted matter outside the final coalesced object after the merger, P(HasRemnant). Matched filter searches give point estimates of mass and spin but they have large errors! To solve this a machine learning classification is used. (scikit learn K nearest neighbours, also tried random forest). A training set is created by injecting fake signals into gravitational wave data and performing a search. This then produces a map between true values and matched filter search point estimates which is learnt by the classifier.
-
 
 ## Parameter Estimation (PE)
 
