@@ -123,7 +123,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
      * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
      * **[Mesuga & Bayanay (2021) [@2021MesugaEfficiencyVariousDeep] (2107.01863)]** - On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-wave Data
-     * **[Sankarapandian & Kulis (2021) [@2021Sankarapandian$β$annealedVariational] (2107.10667)]** - $β$-annealed Variational Autoencoder for Glitches
+     * **[Sankarapandian & Kulis (2021) [@2021Sankarapandian$β$annealedVariational] (2107.10667)]** - $β$-Annealed Variational Autoencoder for Glitches
 
 
 
@@ -171,7 +171,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
-    - **[Khan & Green (2020) [@khan2020gravitational] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
+    - **[Khan & Green (2020) [@2021KhanGravitationalwaveSurrogate] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
     - **[Schmidt et al. (2020) [@2021SchmidtMachineLearningGravitational] (PRD)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (PRD)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Autoencoder
@@ -230,7 +230,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Lin & Wu (2020) [@2021LinDetectionGravitationalWaves] (PRD)]** - Detection of Gravitational Waves Using Bayesian Neural Networks
     - **[Chauhan (2020) [@Chauhan2020wzy] (2007.05889)]** - Deep Learning Model to Make Gravitational Wave Detections from Weak Time-series Data
     - **[Singh et al. (2021) [@2021SinghDeepLearningEstimating] (Mon. Not. Roy. Astron. Soc.)]** - Deep Learning for Estimating Parameters of Gravitational Waves
-    - **[Morales et al. (2021) [@2020MoralesDeepLearningGravitational] (Sensors)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
+    - **[Morales et al. (2021) [@2021MoralesDeepLearningGravitational] (Sensors)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
     - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
     - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
@@ -413,7 +413,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Mach. learn.: sci. technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (Mon. Not. Roy. Astron. Soc.)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
-    - **[Edwards (2020) [@2020EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
+    - **[Edwards (2020) [@2021EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
     - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
@@ -431,7 +431,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Kim et al. (2015) [@kim2015application] (CQG)]** - Application of artificial neural network to search for gravitational-wave signals associated with short gamma-ray bursts
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (2008.01262)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
-    - **[L\'opez et al. (2021) [@2020PortillaDeepLearningMultimessenger] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
+    - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
     - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
     - **[Lopez et al. (2021) [@2021LopezGaussianMixtureModeling] (2112.06608)]** - Gaussian Mixture Modeling Utilization in All-sky Search for Short-duration Gravitational Wave Burst
 

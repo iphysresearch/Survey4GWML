@@ -1,4 +1,4 @@
-site_name: Gravitational Waves | Machine Learning
+site_name: Gravitational Waves Data Analysis | Machine Learning
 repo_url: https://github.com/iphysresearch/Survey4GWML
 site_description: A survey on gravitational waves researches using machine learning techniques.
 site_author: He Wang
@@ -21,7 +21,7 @@ nav:
     #     - 附录: Appendix.md
     # - 致谢: Acknowledgement.md
     # - 关于: about.md
-theme:
+theme:  # pip install mkdocs-bootswatch
     name: sandstone #litera # material # mkdocs # readthedocs
     #nav_style: dark
     highlightjs: true
@@ -39,14 +39,15 @@ markdown_extensions:
     - sane_lists
     - nl2br
     - codehilite
-    - footnotes
+    # - footnotes
     - meta
     - pymdownx.arithmatex
     - attr_list
     - admonition
     # - codehilite
-    - pymdownx.details
+    - pymdownx.details   #  pip install pymdown-extensions
     - pymdownx.tabbed
+    - footnotes    
     # - mdx_bib:
     #     bibtex_file: ref.bib
     #     order: 'sorted'
@@ -57,8 +58,9 @@ extra_javascript:
 
 
 plugins:
-    - search:
-    - autolinks:
-    - bibtex:
+    - search
+    - autolinks:  # pip install mkdocs-autolinks-plugin
+    - bibtex:  #  pip install mkdocs-bibtex
         bib_file: "Survey4GWML.bib"
+        csl_file: "chicago-author-date.csl"
         cite_style: "pandoc"     # plain  pandoc
