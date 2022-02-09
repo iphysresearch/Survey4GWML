@@ -483,7 +483,7 @@ Some selected interesting works:
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
-- **[Liu & Tegmark (2020) [@2020LiuAiPoincareMachine] (2011.04698)]** - Ai Poincaré: Machine Learning Conservation Laws from Trajectories
+- **[Liu & Tegmark (2021) [@2020LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
