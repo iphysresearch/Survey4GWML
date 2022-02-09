@@ -298,7 +298,6 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Belgacem et al. (2020) [@belgacem2020gaussian] (PRD)]** - Gaussian processes reconstruction of modified gravitational wave propagation
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Khan et al. (2020) [@khan2020physics] (PLB)]** - Physics-inspired deep learning to characterize the signal manifold of quasi-circular, spinning, non-precessing binary black hole mergers
-    - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Nakano et al. (2019) [@2019NakanoComparisonVariousMethods] (PRD)]** - Comparison of Various Methods to Extract Ringdown Frequency from Gravitational Wave Data
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2021) [@2021GreenCompleteParameterInference] (Mach. learn.: sci. technol.)]** - Complete Parameter Inference for GW150914 Using Deep Learning
@@ -420,6 +419,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
     Uses Generative Adversarial network (GAN) to learn how to make standard burst waveforms. Generation stage has the possibility to make signals spanning all training classes. Discriminator stage has the potential to be a general transient detection tool
 
+    - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Kovačević et al. (2019) [#Kovacevic2019wpy] (Mon. Not. Roy. Astron. Soc.)]** - Optimizing neural network techniques in classifying Fermi-LAT gamma-ray sources
     - **[Kim et al. (2015) [@2015KimApplicationartificialneural] (CQG)]** - Application of Artificial Neural Network to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
