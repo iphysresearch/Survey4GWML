@@ -365,7 +365,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Jones & Sun (2020) [@jones2020search] (2007.08732)]** - Search for Continuous Gravitational Waves from Fomalhaut B in the Second Advanced Ligo Observing Run with a Hidden Markov Model
 - **[Suvorova et al. (2016) [@suvorova2016hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin
 - **[Suvorova et al. (2017) [@suvorova2017hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Binary Neutron Star with Wandering Spin. II. Binary Orbital Phase Tracking
-- **[Sun & Melatos (2019)] [@sun2019application] (PRD)** - Application of Hidden Markov Model Tracking to the Search for Long-duration Transient Gravitational Waves from the Remnant of the Binary Neutron Star Merger GW170817
+- **[Sun & Melatos (2019)] [@sun2019application] (PRD)** - Application of Hidden Markov Model Tracking to the Search for Long-Duration Transient Gravitational Waves from the Remnant of the Binary Neutron Star Merger GW170817
 - **[Sun et al. (2018) [@sun2018hidden] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from Young Supernova Remnants
 - **[Abbott et al. (2019) [@ligo2020search] (PRD)]** - Search for Gravitational Waves from Scorpius X-1 in the Second Advanced LIGO Observing Run with an Improved Hidden Markov Model
 - **[C. Dreißigacker (2020) [@2020DreissigackerSearchesContinuousGravitational] (PhD Thesis)]** - Searches for Continuous Gravitational Waves : Sensitivity Estimation and Deep Learning As a Novel Search Method
