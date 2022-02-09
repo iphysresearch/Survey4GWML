@@ -168,7 +168,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
     - **[Tiglio & Villanueva (2019) [@2021TiglioAbInitiobased] (Scientific Reports)]** - On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves
     - **[Varma et al. (2019) [@2019VarmaHighaccuracyMass] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
-    - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@2021KhanGravitationalwaveSurrogate] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
@@ -479,6 +478,7 @@ Some selected interesting works:
 - **[Breen et al. (2019) [@2019BreenNewtonVsMachine] (Mon. Not. Roy. Astron. Soc.)]** - Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks | [深度学习求解「三体」问题，计算速度提高一亿倍](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495819&idx=3&sn=61d214da5c7d6e6b7dac1c4ba7b1b3b7&source=41#wechat_redirect) | [牛顿解决不了的问题，AI或许能搞定：用神经网络解决三体问题](https://mp.weixin.qq.com/s/zdj7Lcud51u0Grg3YWUUkg)
 - **[Greydanus et al. (2019) [@2019GreydanusHamiltonianNeuralNetworks] (1906.01563)]** - Hamiltonian Neural Networks
 - **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（1906.05301)]** - Learning Curves for Deep Neural Networks: A Gaussian Field Theory Perspective
+- **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
 - **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of SNR of Pulsar Signals
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
