@@ -2080,7 +2080,8 @@
   eprinttype = {arxiv},
   abstract = {Recently, artificial neural networks have been gaining momentum in the field of gravitational wave astronomy, for example in surrogate modelling of computationally expensive waveform models for binary black hole inspiral and merger. Surrogate modelling yields fast and accurate approximations of gravitational waves and neural networks have been used in the final step of interpolating the coefficients of the surrogate model for arbitrary waveforms outside the training sample. We investigate the existence of underlying structures in the empirical interpolation coefficients using autoencoders. We demonstrate that when the coefficient space is compressed to only two dimensions, a spiral structure appears, wherein the spiral angle is linearly related to the mass ratio. Based on this finding, we design a spiral module with learnable parameters, that is used as the first layer in a neural network, which learns to map the input space to the coefficients. The spiral module is evaluated on multiple neural network architectures and consistently achieves better speed-accuracy trade-off than baseline models. A thorough experimental study is conducted and the final result is a surrogate model which can evaluate millions of input parameters in a single forward pass in under 1ms on a desktop GPU, while the mismatch between the corresponding generated waveforms and the ground-truth waveforms is better than the compared baseline methods. We anticipate the existence of analogous underlying structures and corresponding computational gains also in the case of spinning black hole binaries.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc}
+  keywords = {astro-ph.HE,cs.LG,gr-qc},
+  file = {/Users/herb/Zotero/storage/ZZLJFUT9/2021Nousi_et_al-Autoencoder-driven_spiral_representation_learning_for_gravitational_wave.pdf}
 }
 
 @article{2021NtampakaBuildingTrustworthyMachine,
@@ -3362,14 +3363,24 @@
 }
 
 @article{graff2012bambi,
+  ids = {2012},
   title = {{{BAMBI}}: Blind Accelerated Multimodal {{Bayesian}} Inference},
-  author = {Graff, Philip and Feroz, Farhan and Hobson, Michael P and Lasenby, Anthony},
+  author = {Graff, Philip and Feroz, Farhan and Hobson, Michael P. and Lasenby, Anthony},
   year = {2012},
+  month = mar,
   journal = {Monthly Notices of the Royal Astronomical Society},
   volume = {421},
   number = {1},
+  eprint = {1110.2997},
+  eprinttype = {arxiv},
+  primaryclass = {astro-ph.IM},
   pages = {169--180},
-  publisher = {{Blackwell Publishing Ltd Oxford, UK}}
+  publisher = {{Blackwell Publishing Ltd Oxford, UK}},
+  issn = {0035-8711},
+  doi = {10.1111/j.1365-2966.2011.20288.x},
+  abstract = {In this paper, we present an algorithm for rapid Bayesian analysis that combines the benefits of nested sampling and artificial neural networks (NNs). The blind accelerated multimodal Bayesian inference (BAMBI) algorithm implements the MultiNest package for nested sampling as well as the training of an artificial NN to learn the likelihood function. In the case of computationally expensive likelihoods, this allows the substitution of a much more rapid approximation in order to increase significantly the speed of the analysis. We begin by demonstrating, with a few toy examples, the ability of an NN to learn complicated likelihood surfaces. BAMBI's ability to decrease running time for Bayesian inference is then demonstrated in the context of estimating cosmological parameters from Wilkinson Microwave Anisotropy Probe and other observations. We show that valuable speed increases are achieved in addition to obtaining NNs trained on the likelihood functions for the different model and data combinations. These NNs can then be used for an even faster follow-up analysis using the same likelihood and different priors. This is a fully general algorithm that can be applied, without any pre-processing, to other problems with computationally expensive likelihood functions.},
+  archiveprefix = {arXiv},
+  file = {/Users/herb/Zotero/storage/68WP439A/2012Graff_et_al-BAMBI.pdf}
 }
 
 @article{Gupta2020yvd,
