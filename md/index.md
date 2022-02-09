@@ -53,7 +53,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 - **[Smith (2021) [@2021SmithOkComputer] (Nature Physics)]** - OK Computer
 - **[Ntampaka et al. (2021) [@2021NtampakaBuildingTrustworthyMachine] (2111.14566)]** - Building Trustworthy Machine Learning Models for Astronomy
-- **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (2105.06479)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
+- **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (Handbook of Gravitational Wave Astronomy)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
 - **[Agrawal et al. (2020) [@2020AgrawalMachineLearningBased] (Springer Singapore)]** - Machine Learning Based Analysis of Gravitational Waves
 - **[Huerta et al. (2021) [@2021HuertaAcceleratedScalableReproducible] (Nature Astronomy)]** - Accelerated, Scalable and Reproducible AI-driven Gravitational Wave Detection
 - **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in Ligo and Virgo’s Third Observing Campaign
