@@ -117,7 +117,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Colgan et al. (2020) [@colgan2020efficient] (PRD)]** - Efficient gravitational-wave glitch identification from environmental data through machine learning
      * **[Bahaadini et al. (2017) [@bahaadini2017deep] (IEEE)]** - Deep multi-view models for glitch classification
      * **[Bahaadini et al. (2018) [@bahaadini2018machine] (Info. Sci.)]** - Machine learning for Gravity Spy: Glitch classification and dataset
-     * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - Direct: Deep Discriminative Embedding for Clustering of Ligo Data
+     * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - DIRECT: Deep Discriminative Embedding for Clustering of LIGO Data
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
      * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
      * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
