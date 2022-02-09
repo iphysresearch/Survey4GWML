@@ -422,7 +422,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     Uses Generative Adversarial network (GAN) to learn how to make standard burst waveforms. Generation stage has the possibility to make signals spanning all training classes. Discriminator stage has the potential to be a general transient detection tool
 
     - **[Kovačević et al. (2019) [#Kovacevic2019wpy] (Mon. Not. Roy. Astron. Soc.)]** - Optimizing neural network techniques in classifying Fermi-LAT gamma-ray sources
-    - **[Kim et al. (2015) [@kim2015application] (CQG)]** - Application of artificial neural network to search for gravitational-wave signals associated with short gamma-ray bursts
+    - **[Kim et al. (2015) [@2015KimApplicationartificialneural] (CQG)]** - Application of Artificial Neural Network to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (2008.01262)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
