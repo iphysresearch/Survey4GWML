@@ -459,7 +459,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
-* **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (2103.05408)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
+* **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (ApJ)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
 * **[Natarajan et al. (2021) [@2021NatarajanQuasarNetnewresearch] (2103.13932)]** - Quasarnet: A New Research Platform for the Data-driven Investigation of Black Holes
 * **[Elizalde et al. (2021) [@2021ElizaldeApproachColdDark] (2104.01077)]** - An Approach to Cold Dark Matter Deviation and the $H_{0}$ Tension Problem by Using Machine Learning
 * **[Gómez-Vargas et al. (2021) [@2021GomezVargasCosmologicalReconstructionsArtificial] (2104.00595)]** - Cosmological Reconstructions with Artificial Neural Networks
