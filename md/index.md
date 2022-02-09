@@ -408,7 +408,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Mach. learn.: sci. technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (Mon. Not. Roy. Astron. Soc.)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
     - **[Edwards (2020) [@2021EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
-    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
+    - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-Seen Gravitational-Wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
     - **[L\'operz et al. (2021) [@2021LopezDeepLearningAlgorithms] (IEEE)]** - Deep Learning Algorithms for Gravitational Waves Core-collapse Supernova Detection
