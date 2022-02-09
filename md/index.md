@@ -405,7 +405,6 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Chan et al. (2019) [@Chan2019fuz] (PRD)]** also train directly on supernova waveforms.  They use only the time series waveforms from different explosion mechanisms.
     - **[Cavaglia et al. (2020) [@Cavaglia2020qzp] (Mach. learn.: sci. technol.)]** - Improving the background of gravitational-wave searches for core collapse supernovae: a machine learning approach
     - **[Stachie et al. (2020) [@stachie2020using] (Mon. Not. Roy. Astron. Soc.)]** - Using Machine Learning for Transient Classification in Searches for Gravitational-wave Counterparts
-    - **[Edwards (2020) [@2021EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
     - **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-Seen Gravitational-Wave Sources
     - **[Millhouse et al. (2020) [@2020MillhouseSearchGravitationalWaves] (PRD)]** - Search for Gravitational Waves from 12 Young Supernova Remnants with a Hidden Markov Model in Advanced LIGO's Second Observing Run
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
@@ -460,6 +459,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
 * **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (ApJ)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
+* **[Edwards (2020) [@2021EdwardsClassifyingEquationState] (PRD)]** - Classifying the Equation of State from Rotating Core Collapse Gravitational Waves with Deep Learning
 * **[Natarajan et al. (2021) [@2021NatarajanQuasarNetnewresearch] (2103.13932)]** - Quasarnet: A New Research Platform for the Data-driven Investigation of Black Holes
 * **[Elizalde et al. (2021) [@2021ElizaldeApproachColdDark] (2104.01077)]** - An Approach to Cold Dark Matter Deviation and the $H_{0}$ Tension Problem by Using Machine Learning
 * **[Gómez-Vargas et al. (2021) [@2021GomezVargasCosmologicalReconstructionsArtificial] (2104.00595)]** - Cosmological Reconstructions with Artificial Neural Networks
