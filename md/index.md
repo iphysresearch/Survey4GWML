@@ -349,7 +349,6 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 
 # 5. Continuous Wave Search
 
-- **[Piccinni et al. (2018) [@piccinni2018new] (CQG)]** - A new data analysis framework for the search of continuous gravitational wave signals
 - Existing challenges and signal characteristics: Vast parameter space, The parameter space is incredibly large; Likely very weak signals, The signal is incredibly weak - orders of magnitude lower than the noise amplitude;  Leading to traditional searches optimised at fixed computational cost - Generally slow, The dataset is (quite) large, 1year X 1kHz =~10 GB; In the era of open data the LVC and competitors are keen to analyse the data very quickly; Narrow band, However, since we have been limited until now by computational expense - with ML this could no longer be a limit, and hence sensitivity can really improve
 - **[Morawski et al. (2020) [@morawski2020convolutional] (Mach. learn.: sci. technol.)]** - Convolutional Neural Network Classifier for the Output of the Time-domain F-statistic All-sky Search for Continuous Gravitational Waves
 - **[Dreissigacker et al. (2019) [@dreissigacker2019deep] (PRD)]** (Modelled searches) Based on the success of CNNs for compact binary searches; The task is significantly more difficult here; Fair comparison with fully coherent searches over a broad parameter space; The ML approach is reasonably competitive for the simplest of the cases studied; For 10^6 sec observations at 1kHz perform significantly worse than matched filtering
