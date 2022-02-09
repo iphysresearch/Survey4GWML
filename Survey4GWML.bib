@@ -834,19 +834,6 @@
   keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc}
 }
 
-@article{2020SinghClassificationAstrophysicalEvents,
-  title = {Classification of Astrophysical Events from Gravitational Wave Signature},
-  author = {Singh, Shashwat and Singh, Amitesh and Prajapati, Ankul and Pathak, Kamlesh N.},
-  year = {2020},
-  month = aug,
-  journal = {arXiv preprint arXiv:2008.06550},
-  eprint = {2008.06550},
-  eprinttype = {arxiv},
-  abstract = {In recent years, improvements in Deep Learning techniques towards Gravitational Wave astronomy have led to a significant rise in various classification algorithm development. A few of these algorithms have been successfully employed to search gravitational waves from binary blackhole merger events. However, these algorithms still lack success with significant time duration and further prediction of the merger events parameters. In this work, we intended to advance the boundaries of deep learning techniques, using the convolutional neural networks, to go beyond binary classification and predicting complicated features that possess physical significance. This method is not a replacement for the already established and thoroughly examined methods like matched filtering for the detection of gravitational waves but is an alternative method wherein human interference is minimal. The deep learning model we present has been trained on 12s of data segment, aimed to predict the 27 features of any LIGO time series data. During training, the maximum accuracy attained was 90.93\%, with a validation accuracy of 89.97\%.},
-  archiveprefix = {arXiv},
-  keywords = {astro-ph.GA,astro-ph.HE,gr-qc}
-}
-
 @article{2020SinghMachineLearningbased,
   title = {A Machine Learning-Based Approach towards the Improvement of Snr of Pulsar Signals},
   author = {Singh, Amitesh and Pathak, Kamlesh},
@@ -2262,20 +2249,24 @@
 }
 
 @article{2021SinghDeepLearningEstimating,
+  ids = {2020SinghClassificationAstrophysicalEvents},
   title = {Deep Learning for Estimating Parameters of Gravitational Waves},
-  author = {Singh, Shashwat and Singh, Amitesh and Prajapati, Ankul and Pathak, Kamlesh N.},
+  author = {Singh, Shashwat and Singh, Amitesh and Prajapati, Ankul and Pathak, Kamlesh N},
   year = {2021},
-  month = aug,
-  journal = {Mon Not R Astron Soc},
-  number = {stab2417},
+  month = nov,
+  journal = {Monthly Notices of the Royal Astronomical Society},
+  volume = {508},
+  number = {1},
   eprint = {2008.06550},
   eprinttype = {arxiv},
   primaryclass = {astro-ph.HE},
+  pages = {1358--1370},
   issn = {0035-8711},
   doi = {10.1093/mnras/stab2417},
-  abstract = {In recent years, improvements in Deep Learning (DL) techniques towards Gravitational Wave (GW) astronomy have led to a significant rise in the development of various classification algorithms that have been successfully employed to extract GWs of binary blackhole merger events from noisy time-series data. However, the success of these models is constrained by the length of time-sample and the class of GW source: binary blackhole and neutron star binaries to some extent. In this work, we intended to advance the boundaries of DL techniques using Convolutional Neural Networks, to go beyond binary classification and predict the physical parameters of the events. We aim to propose an alternative method that can be employed for realtime detection and parameter prediction. The DL model we present has been trained on 12s of data to predict the GW source parameters if detected. During training, the maximum accuracy attained was 90.93\%, with a validation accuracy of 89.97\%.},
+  abstract = {In recent years, improvements in deep learning (DL) techniques towards gravitational wave (GW) astronomy have led to a significant rise in the development of various classification algorithms that have been successfully employed to extract GWs of binary black hole merger events from noisy time-series data. However, the success of these models is constrained by the length of time sample and the class of GW source: black hole binaries and neutron star binaries to some extent. In this work, we intended to advance the boundaries of DL techniques using convolutional neural networks, to go beyond binary classification and predict the physical parameters of the events. We aim to propose an alternative method that can be employed for real-time detection and parameter prediction. The DL model we present has been trained on 12s of data to predict the GW source parameters if detected. During training, the maximum accuracy attained was 90.93~per\,cent, with a validation accuracy of 89.97~per\,cent.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.GA,astro-ph.HE,gr-qc}
+  keywords = {astro-ph.GA,astro-ph.HE,gr-qc},
+  file = {/Users/herb/Zotero/storage/IUBYPJ5P/2021Singh_et_al-Deep_learning_for_estimating_parameters_of_gravitational_waves.pdf}
 }
 
 @article{2021SmithOkComputer,
@@ -3804,13 +3795,21 @@
   journal = {Classical and Quantum Gravity},
   volume = {32},
   number = {21},
+  eprint = {1505.01299},
+  eprinttype = {arxiv},
+  primaryclass = {astro-ph.IM},
   pages = {215012},
   publisher = {{IOP Publishing}},
+  issn = {0264-9381},
   doi = {10.1088/0264-9381/32/21/215012},
-  abstract = {Noise of non-astrophysical origin will contaminate science data taken by the advanced laser interferometer gravitational-wave observatory and advanced Virgo gravitational-wave detectors. Prompt characterization of instrumental and environmental noise transients will be critical for improving the sensitivity of the advanced detectors in the upcoming science runs. During the science runs of the initial gravitational-wave detectors, noise transients were manually classified by visually examining the time\textendash frequency scan of each event. Here, we present three new algorithms designed for the automatic classification of noise transients in advanced detectors. Two of these algorithms are based on principal component analysis. They are principal component analysis for transients and an adaptation of LALInference burst. The third algorithm is a combination of an event generator called wavelet detection filter and machine learning techniques for classification. We test these algorithms on simulated data sets, and we show their ability to automatically classify transients by frequency, signal to noise ratio and waveform morphology.}
+  abstract = {Noise of non-astrophysical origin will contaminate science data taken by the advanced laser interferometer gravitational-wave observatory and advanced Virgo gravitational-wave detectors. Prompt characterization of instrumental and environmental noise transients will be critical for improving the sensitivity of the advanced detectors in the upcoming science runs. During the science runs of the initial gravitational-wave detectors, noise transients were manually classified by visually examining the time\textendash frequency scan of each event. Here, we present three new algorithms designed for the automatic classification of noise transients in advanced detectors. Two of these algorithms are based on principal component analysis. They are principal component analysis for transients and an adaptation of LALInference burst. The third algorithm is a combination of an event generator called wavelet detection filter and machine learning techniques for classification. We test these algorithms on simulated data sets, and we show their ability to automatically classify transients by frequency, signal to noise ratio and waveform morphology.},
+  archiveprefix = {arXiv},
+  annotation = {ZSCC: 0000081},
+  file = {/Users/herb/Zotero/storage/AZ3WMWZV/2015Powell_et_al-Classification_methods_for_noise_transients_in_advanced_gravitational-wave.pdf}
 }
 
 @article{powell2017classification,
+  ids = {2017},
   title = {Classification Methods for Noise Transients in Advanced Gravitational-Wave Detectors {{II}}: Performance Tests on {{Advanced LIGO}} Data},
   author = {Powell, Jade and {Torres-Forn{\'e}}, Alejandro and Lynch, Ryan and Trifir{\`o}, Daniele and Cuoco, Elena and Cavagli{\`a}, Marco and Heng, Ik Siong and Font, Jos{\'e} A},
   year = {2017},
@@ -3818,11 +3817,17 @@
   journal = {Classical and Quantum Gravity},
   volume = {34},
   number = {3},
+  eprint = {1609.06262},
+  eprinttype = {arxiv},
+  primaryclass = {astro-ph.IM},
   pages = {034002},
   publisher = {{IOP Publishing}},
+  issn = {0264-9381},
   doi = {10.1088/1361-6382/34/3/034002},
   abstract = {The data taken by the advanced LIGO and Virgo gravitational-wave detectors contains short duration noise transients that limit the significance of astrophysical detections and reduce the duty cycle of the instruments. As the advanced detectors are reaching sensitivity levels that allow for multiple detections of astrophysical gravitational-wave sources it is crucial to achieve a fast and accurate characterization of non-astrophysical transient noise shortly after it occurs in the detectors. Previously we presented three methods for the classification of transient noise sources. They are Principal Component Analysis for Transients (PCAT), Principal Component LALInference Burst (PC-LIB) and Wavelet Detection Filter with Machine Learning (WDF-ML). In this study we carry out the first performance tests of these algorithms on gravitational-wave data from the Advanced LIGO detectors. We use the data taken between the 3rd of June 2015 and the 14th of June 2015 during the 7th engineering run (ER7), and outline the improvements made to increase the performance and lower the latency of the algorithms on real data. This work provides an important test for understanding the performance of these methods on real, non stationary data in preparation for the second advanced gravitational-wave detector observation run, planned for later this year. We show that all methods can classify transients in non stationary data with a high level of accuracy and show the benefits of using multiple classifiers.},
-  annotation = {ZSCC: NoCitationData[s0]}
+  archiveprefix = {arXiv},
+  annotation = {ZSCC: NoCitationData[s0]},
+  file = {/Users/herb/Zotero/storage/6CBKBN7R/2017Powell_et_al-Classification_methods_for_noise_transients_in_advanced_gravitational-wave.pdf}
 }
 
 @phdthesis{powell2017model,
