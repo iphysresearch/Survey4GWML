@@ -172,8 +172,8 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@2021KhanGravitationalwaveSurrogate] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
     - **[Schmidt et al. (2020) [@2021SchmidtMachineLearningGravitational] (PRD)]** - Machine Learning Gravitational Waves from Binary Black Hole Mergers
-    - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (2101.05685)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
-    - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (PRD)]** - Deep Generative Models of Gravitational Waveforms Via Conditional Autoencoder
+    - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (PRD)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
+    - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (PRD)]** - Deep Generative Models of Gravitational Waveforms via Conditional Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
     - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
     - **[McGinn et al. (2021) [@2021McGinnGeneralisedGravitationalWave] (CQG)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
