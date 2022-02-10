@@ -115,7 +115,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[George et al. (2018) [@george2018classification] (PRD)]** - Classification and unsupervised clustering of LIGO data with Deep Transfer Learning (**Deep Transfer Learning**)
      * **[Astone et al. (2018) [@astone2018new] (PRD)]** - New method to observe gravitational waves emitted by core collapse supernovae (**RGB image SN CNN**)
      * **[Colgan et al. (2020) [@colgan2020efficient] (PRD)]** - Efficient gravitational-wave glitch identification from environmental data through machine learning
-     * **[Bahaadini et al. (2017) [@bahaadini2017deep] (IEEE)]** - Deep multi-view models for glitch classification
+     * **[Bahaadini et al. (2017) [@bahaadini2017deep] (IEEE)]** - Deep Multi-View Models for Glitch Classification
      * **[Bahaadini et al. (2018) [@bahaadini2018machine] (Info. Sci.)]** - Machine learning for Gravity Spy: Glitch classification and dataset
      * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - DIRECT: Deep Discriminative Embedding for Clustering of LIGO Data
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
@@ -242,7 +242,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - LIGO & Virgo provide two probabilities in low-latency. **[Chatterjee et al. (2020) [@chatterjee2020machine] (ApJ)]** The probability that there is a neutron star in the CBC system, P(HasNS). The probability that there exists tidally disrupted matter outside the final coalesced object after the merger, P(HasRemnant). Matched filter searches give point estimates of mass and spin but they have large errors! To solve this a machine learning classification is used. (scikit learn K nearest neighbours, also tried random forest). A training set is created by injecting fake signals into gravitational wave data and performing a search. This then produces a map between true values and matched filter search point estimates which is learnt by the classifier.
-    - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (2012.03963)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
+    - **[Wei et al. (2020) [@2020WeiDeepLearningQuantized] (ApJ)]** - Deep Learning with Quantized Neural Networks for Gravitational Wave Forecasting of Eccentric Compact Binary Coalescence
     - **[Menéndez-Vázquez et al. (2020) [@2021MenendezVazquezSearchesCompactBinary] (PRD)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Second Observation Period
     - **[Krastev et al. (2020) [@2021KrastevDetectionparameterestimation] (PLB)]** - Detection and Parameter Estimation of Gravitational Waves from Binary Neutron-star Mergers in Real LIGO Data Using Deep Learning
     - **[Dodia (2021) [@2021DodiaDetectingResiduesCosmic] (2101.00195)]** - Detecting Residues of Cosmic Events Using Residual Neural Network
