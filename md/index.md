@@ -251,7 +251,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
     - **[Zhan et al. (2021) [@2021ZhanResponseConvolutionalNeural] (2103.03557)]** - The Response of the Convolutional Neural Network to the Transient Noise in Gravitational Wave Detection
     - **[Morawski et al. (2021) [@2021MorawskiAnomalyDetectionGravitational] (Mach. learn.: sci. technol.)]** - Anomaly Detection in Gravitational Waves Data Using Convolutional Autoencoders
-    - **[Baltus et al. (2021) [@2021BaltusConvolutionalneuralnetworks] (2104.00594)]** - Convolutional Neural Networks for the Detection of the Early Inspiral of a Gravitational-wave Signal
+    - **[Baltus et al. (2021) [@2021BaltusConvolutionalneuralnetworks] (PRD)]** - Convolutional Neural Networks for the Detection of the Early Inspiral of a Gravitational-wave Signal
     - **[Yan et al. (2021) [@2021YanGeneralizedApproachMatched] (2104.03961)]** - Generalized Approach to Matched Filtering Using Neural Networks
     - **[Yu et al. (2021) [@2021YuEarlywarningcoalescing] (2104.09438)]** - Early Warning of Coalescing Neutron-star and Neutron-star-black-hole Binaries from Nonstationary Noise Background Using Neural Networks
     - **[Fan et al. (2021) [@2021FanImprovingGravitationalWave] (ICPR)]** - Improving Gravitational Wave Detection with 2d Convolutional Neural Networks
