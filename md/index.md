@@ -252,7 +252,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Yan et al. (2021) [@2021YanGeneralizedApproachMatched] (2104.03961)]** - Generalized Approach to Matched Filtering Using Neural Networks
     - **[Yu et al. (2021) [@2021YuEarlywarningcoalescing] (2104.09438)]** - Early Warning of Coalescing Neutron-star and Neutron-star-black-hole Binaries from Nonstationary Noise Background Using Neural Networks
     - **[Fan et al. (2021) [@2021FanImprovingGravitationalWave] (ICPR)]** - Improving Gravitational Wave Detection with 2d Convolutional Neural Networks
-    - **[Baltus et al. (2021) [@2021BaltusDetectingEarlyInspiral] (2105.13664)]** - Detecting the Early Inspiral of a Gravitational-wave Signal with Convolutional Neural Networks
+    - **[Baltus et al. (2021) [@2021BaltusDetectingEarlyInspiral] (IEEE)]** - Detecting the Early Inspiral of a Gravitational-wave Signal with Convolutional Neural Networks
     - **[Schäfer et al. (2021) [@2021SchaeferTrainingStrategiesDeep] (2106.03741)]** - Training Strategies for Deep Learning Gravitational-wave Searches
     - **[Goyal et al. (2021) [@2021GoyalRapidIdentificationStrongly] (PRD)]** - Rapid Identification of Strongly Lensed Gravitational-wave Events with Machine Learning
     - **[Dodia et al. (2021) [@2021DodiaSpecgravDetectionGravitational] (2107.03607)]** - Specgrav -- Detection of Gravitational Waves Using Deep Learning
