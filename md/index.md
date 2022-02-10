@@ -222,7 +222,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Marulanda et al. (2020) [@2020MarulandaDeeplearningGravitational] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-wave signal recognition of LIGO data by deep learning
-    - **[Sadeh (2020) [@sadeh2020data] (ApJ)]** - Data-driven Detection of Multimessenger Transients
     - **[Kim et al. (2020) [@2020KimRankingCandidateSignals] (PRD)]** - Ranking Candidate Signals with Machine Learning in Low-latency Searches for Gravitational Waves from Compact Binary Mergers
     - **[Schäfer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
     - **[Schäfer et al. (2020) [@2020SchaeferDetectionGravitationalwave] (PRD)]** - Detection of Gravitational-wave Signals from Binary Neutron Star Mergers Using Machine Learning
@@ -447,6 +446,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Sadr & Farsian (2020) [@Sadr2020rje] (2004.04177)]** - Inpainting via Generative Adversarial Networks for CMB data analysis
 * **[Philip et al. (2002) [@Philip2002xe] (Astron. Astrophys.)]** - A difference boosting neural network for automated star-galaxy classification
 * **[Philip et al. (2012) [@Philip2012vr] (1211.3607)]** - Classification by Boosting Differences in Input Vectors: An application to datasets from Astronomy
+* **[Sadeh (2020) [@sadeh2020data] (ApJ)]** - Data-driven Detection of Multimessenger Transients
 * **[Wang et al (2020) [@Wang2020hmn] (2005.07089)]** - ECoPANN: A Framework for Estimating Cosmological Parameters using Artificial Neural Networks
     - 他们这个是当做回归问题在做，和 Huerta 他们的基本逻辑其实一样。至于6 个目标参数的估计，是通过给定 input 数据在相应参数区间上采样后，直接给出后验样本参数估计的（频率学派~）。并不是对某单个数据给出的参数估计（贝叶斯学派）。
     - 实现的是对应观测数据集的宇宙学参数估计
