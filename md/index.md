@@ -111,7 +111,6 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Mukund et al. (2017) [@mukund2017transient] (PRD)]** - Transient classification in LIGO data using difference boosting neural network (**Wavelet-DBNN, India**)
      * **[Llorens-Monteagudo et al. (2019) [@llorens2019classification] (CQG)]** - Classification of gravitational-wave glitches via dictionary learning (**Dictionary learning**)
      * Low latency transient detection and classification (I. Pinto, V. Pierro, L. Troiano, E. Mejuto-Villa, V. Matta, P. Addesso)
-     * **[George et al. (2017) [@george2017deep] (1706.07446)]** - Deep Transfer Learning: A new deep learning glitch classification method for advanced LIGO (**Deep Transfer Learning**)
      * **[George et al. (2018) [@george2018classification] (PRD)]** - Classification and unsupervised clustering of LIGO data with Deep Transfer Learning (**Deep Transfer Learning**)
      * **[Astone et al. (2018) [@astone2018new] (PRD)]** - New method to observe gravitational waves emitted by core collapse supernovae (**RGB image SN CNN**)
      * **[Colgan et al. (2020) [@colgan2020efficient] (PRD)]** - Efficient gravitational-wave glitch identification from environmental data through machine learning
