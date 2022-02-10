@@ -59,7 +59,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in Ligo and Virgo’s Third Observing Campaign
 - **[Zdeborová (2020) [@zdeborova2020understanding] (Nature Physics)]** - Understanding Deep Learning Is Also a Job for Physicists
 - **[Cuoco et al. (2020) [@cuoco2020enhancing] (Mach. learn.: sci. technol.)]** - Enhancing Gravitational-wave Science with Machine Learning
-- **[Huerta et al. (2020) [@huerta2020convergence] (2003.08394)]** - Convergence of Artificial Intelligence and High Performance Computing on Nsf-supported Cyberinfrastructure
+- **[Huerta et al. (2020) [@huerta2020convergence] (J. Big Data)]** - Convergence of Artificial Intelligence and High Performance Computing on NSF-supported Cyberinfrastructure
 - **[Fluke et al. (2020) [@fluke2020surveying] (WIRDMKD)]** - Surveying the reach and maturity of machine learning and artificial intelligence in astronomy
 - [Viewpoint: Machine Learning Tackles Spacetime](https://physics.aps.org/articles/v13/40) By [Enrico Rinaldi](https://physics.aps.org/authors/enrico_rinaldi)  March 23, 2020 - Physics 13, 40
 - **[Huerta et al. (2019) [@huerta2019supporting] (CSBS)]** - Supporting High-Performance and High-Throughput Computing for Experimental Science
