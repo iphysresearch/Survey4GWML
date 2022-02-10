@@ -135,7 +135,6 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Torres-Forné (2016) [@torres2016denoising] (PRD)]** - Denoising of Gravitational Wave Signals Via Dictionary Learning Algorithms
     - **[Torres-Forné (2018) [@torres2018total] (PRD)]** - Total-variation methods for gravitational-wave denoising: Performance tests on Advanced LIGO data
     - **[Torres-Forné (2020) [@torres2020application] (PRD)]** - Application of dictionary learning to denoise LIGO's blip noise transients
-    - **[Shen et al. (2017) [@Shen2017jkj] (1711.09919)]** - Denoising Gravitational Waves using Deep Learning with Recurrent Denoising Autoencoders
     - **[Shen et al. (2019) [@Shen2019ohi] (IEEE)]** - Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
     - **[Wei & Huerta (2020) [@WEI2020135081] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
