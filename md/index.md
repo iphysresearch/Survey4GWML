@@ -314,7 +314,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (2104.05357)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (PRL)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
     - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
-    - **[Kuo & Lin (2021) [@2021KuoConditionalNoiseDeep] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
+    - **[Kuo & Lin (2021) [@kuo2021conditional] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
     - **[Gunny et al. (2021) [@2021GunnyHardwareacceleratedInference] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
     - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference
     - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
