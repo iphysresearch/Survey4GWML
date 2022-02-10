@@ -308,7 +308,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Bhagwat & Pacilio (2021) [@2021BhagwatMergerringdownConsistency] (2101.07817)]** - Merger-Ringdown Consistency: A New Test of Strong Gravity Using Deep Learning
     - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
-    - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (2104.05357)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
+    - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (Mon. Not. Roy. Astron. Soc.)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (PRL)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
     - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
     - **[Kuo & Lin (2021) [@kuo2021conditional] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
