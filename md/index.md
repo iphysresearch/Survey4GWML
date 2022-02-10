@@ -371,7 +371,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (2011.12522)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
 - **[Behechtipour & Papa [@2021BeheshtipourDeepLearningClustering] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates II: Identification of low-SNR Candidates
 - **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (PRD)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
-- **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-wave Data Analysis with General Purpose Computing on Graphic Processing Units
+- **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-Wave Data Analysis with General Purpose Computing on Graphic Processing Units
 - **[Melatos et al. (2021) [@2021MelatosHiddenMarkovModel] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin. III. Rotational Phase Tracking
 - **[Songsheng et al. (2021) [@2021SongshengSearchContinuousGravitational] (2109.00367)]** - Search for Continuous Gravitational Wave Signals in Pulsar Timing Residuals: A New Scalable Approach with Diffusive Nested Sampling
 
