@@ -229,7 +229,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Morales et al. (2021) [@2021MoralesDeepLearningGravitational] (Sensors)]** - Deep Learning for Gravitational-wave Data Analysis: A Resampling White-box Approach
     - **[Caramete et al. (2020) [@2020CarameteCharacterizationGravitationalWaves] (2009.06109)]** - Characterization of Gravitational Waves Signals Using Neural Networks
     - **[Nigam et al. (2020) [@2020NigamTransientClassificationLow] (2009.12168)]** - Transient Classification in Low Snr Gravitational Wave Data Using Deep Learning
-    - **[Deighan et al. (2020) [@2020DeighanGeneticalgorithmoptimized] (2010.04340)]** - Genetic-algorithm-optimized Neural Networks for Gravitational Wave Classification
+    - **[Deighan et al. (2021) [@2021DeighanGeneticalgorithmoptimizedneuralnetworks] (Neural Comput. Appl.)]** - Genetic-Algorithm-Optimized Neural Networks for Gravitational Wave Classification
     - **[Jadhav et al. (2020) [@2020JadhavImprovingSignificanceBinary] (2010.08584)]** - Improving Significance of Binary Black Hole Mergers in Advanced Ligo Data Using Deep Learning : Confirmation of GW151216
     - **[Wong et al. (2020) [@Wong2020wvd] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
     - **[Wei et al. (2021) [@2021WeiDeepLearningGravitational] (PLB)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers

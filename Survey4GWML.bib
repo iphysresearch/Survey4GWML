@@ -460,20 +460,6 @@
   keywords = {astro-ph.IM}
 }
 
-@article{2020DeighanGeneticalgorithmoptimized,
-  title = {Genetic-Algorithm-Optimized Neural Networks for Gravitational Wave Classification},
-  author = {Deighan, Dwyer S. and Field, Scott E. and Capano, Collin D. and Khanna, Gaurav},
-  year = {2020},
-  month = oct,
-  journal = {arXiv preprint arXiv:2010.04340},
-  eprint = {2010.04340},
-  eprinttype = {arxiv},
-  abstract = {Gravitational-wave detection strategies are based on a signal analysis technique known as matched filtering. Matched filtering is known to be optimal under certain conditions, yet in practice, these conditions are only approximately satisfied while the algorithm is computationally expensive. Despite the success of matched filtering for signal detection, due to these limitations, there has been recent interest in developing deep convolutional neural networks (CNNs) for signal detection. Designing these networks remains a challenge as most procedures adopt a trial and error strategy to set the hyperparameter values. We propose and develop a new method for hyperparameter optimization based on genetic algorithms (GAs). We compare six different GA variants and explore different choices for the GA-optimized fitness score. We show that the GA can discover high-quality architectures when the initial hyperparameter seed values are far from a good solution as well as refining already good networks. For example, when starting from the architecture proposed by George and Huerta, the network optimized over the 20-dimensional hyperparameter space has 78\% fewer trainable parameters while obtaining an 11\% increase in accuracy for our test problem. Using genetic algorithm optimization to refine an existing network should be especially useful if the problem context (e.g. statistical properties of the noise, signal model, etc) changes and one needs to rebuild a network. In all of our experiments, we find the GA discovers significantly less complicated networks as compared to the seed network, suggesting it can be used to prune wasteful network structures. While we have restricted our attention to CNN classifiers, GA hyperparameter optimization can be applied within other machine learning settings, including alternative architectures for signal classification, parameter inference, or other tasks.},
-  archiveprefix = {arXiv},
-  keywords = {cs.LG,cs.NE,gr-qc},
-  annotation = {ZSCC: NoCitationData[s0]}
-}
-
 @article{2020DelaunoyLightningfastGravitational,
   title = {Lightning-Fast Gravitational Wave Parameter Inference through Neural Amortization},
   author = {Delaunoy, Arnaud and Wehenkel, Antoine and Hinderer, Tanja and Nissanke, Samaya and Weniger, Christoph and Williamson, Andrew R. and Louppe, Gillesa},
@@ -1446,6 +1432,28 @@
   abstract = {We demonstrate unprecedented accuracy for rapid gravitational-wave parameter estimation with deep learning. Using neural networks as surrogates for Bayesian posterior distributions, we analyze eight gravitational-wave events from the first LIGO-Virgo Gravitational-Wave Transient Catalog and find very close quantitative agreement with standard inference codes, but with inference times reduced from O(day) to a minute per event. Our networks are trained using simulated data, including an estimate of the detector-noise characteristics near the event. This encodes the signal and noise models within millions of neural-network parameters, and enables inference for any observed data consistent with the training distribution, accounting for noise nonstationarity from event to event. Our algorithm \textendash{} called "DINGO" \textendash{} sets a new standard in fast-and-accurate inference of physical parameters of detected gravitational-wave events, which should enable real-time data analysis without sacrificing accuracy.},
   archiveprefix = {arXiv},
   keywords = {astro-ph.IM,cs.LG,gr-qc}
+}
+
+@article{2021DeighanGeneticalgorithmoptimizedneuralnetworks,
+  ids = {2020DeighanGeneticalgorithmoptimized,deighan2021geneticalgorithmoptimized},
+  title = {Genetic-Algorithm-Optimized Neural Networks for Gravitational Wave Classification},
+  author = {Deighan, Dwyer S. and Field, Scott E. and Capano, Collin D. and Khanna, Gaurav},
+  year = {2021},
+  month = oct,
+  journal = {Neural Computing and Applications},
+  volume = {33},
+  number = {20},
+  eprint = {2010.04340},
+  eprinttype = {arxiv},
+  primaryclass = {gr-qc},
+  pages = {13859--13883},
+  issn = {1433-3058},
+  doi = {10.1007/s00521-021-06024-4},
+  abstract = {Gravitational-wave detection strategies are based on a signal analysis technique known as matched filtering. Despite the success of matched filtering, due to its computational cost, there has been recent interest in developing deep convolutional neural networks (CNNs) for signal detection. Designing these networks remains a challenge as most procedures adopt a trial and error strategy to set the hyperparameter values. We propose a new method for hyperparameter optimization based on genetic algorithms (GAs). We compare six different GA variants and explore different choices for the GA-optimized fitness score. We show that the GA can discover high-quality architectures when the initial hyperparameter seed values are far from a good solution as well as refining already good networks. For example, when starting from the architecture proposed by George and Huerta, the network optimized over the 20-dimensional hyperparameter space has 78\% fewer trainable parameters while obtaining an 11\% increase in accuracy for our test problem. Using genetic algorithm optimization to refine an existing network should be especially useful if the problem context (e.g., statistical properties of the noise, signal model, etc) changes and one needs to rebuild a network. In all of our experiments, we find the GA discovers significantly less complicated networks as compared to the seed network, suggesting it can be used to prune wasteful network structures. While we have restricted our attention to CNN classifiers, our GA hyperparameter optimization strategy can be applied within other machine learning settings.},
+  archiveprefix = {arXiv},
+  keywords = {cs.LG,cs.NE,gr-qc},
+  annotation = {ZSCC: 0000006},
+  file = {/Users/herb/Zotero/storage/GYKAQM2J/2021Deighan_et_al-Genetic-algorithm-optimized_neural_networks_for_gravitational_wave.pdf}
 }
 
 @article{2021DEmilioDensityestimationGaussian,
