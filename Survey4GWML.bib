@@ -330,7 +330,8 @@
   year = {2019},
   abstract = {As the observations of gravitational waves from coalescence of compact objects are expected to be more frequent in the near future, the need for an accurate and fast gravitational waves data analysis framework is becoming more and more relevant. Any analysis requires a waveform model capable of predicting the shape of the gravitational wave signal, given the physical parameters of the source. Currently, several models exist, but they are cursed by the fact that they are slow to compute, hence they are the bottleneck of the task of extracting physical information from the raw data. In our work, we apply Machine Learning methods to build a model designed to generate a gravitational waveform in the time domain as produced by a binary black hole coalescence. Our model matches in accuracy the performance of the state-of-the-art direct computations while, at the same time, it provides a speed up of a a factor of {$\sim$} 30 in the generation of the waveform. Furthermore, our model provides a closed form expression for the waveform and its gradient with respect to the orbital parameters. This open the possibility to further improve the sampling algorithms used for the parameter estimation. We train our model on a number of waveforms computed by the SEOBNRv2 generator and we infer a relation between the waveform and the masses m1,m2 and spins s1, s2 of the two BHs. In this work, we consider only the case in which the two spins are aligned to the orbital angular momentum. We reduce the dimensionality of our problem by decomposing each waveform in amplitude and phase and it is further represented in a lower dimensional space using a Principal Component Analysis. The regression from orbital parameters to principal components is performed using a Mixture of Expert model. Our implementation is publicly available as a Python package mlgw as https: //pypi.org/project/mlgw/. mlgw has all the features required for performing a full parameter estimation (including the waveform dependence on geometrical parameters). We demonstrate the faithfulness of mlgw by successfully reproducing the inference on GW150914 made by the LIGO-Virgo collaboration.},
   school = {Universit\`a degli Studi di Milano},
-  annotation = {ZSCC: NoCitationData[s0]}
+  annotation = {ZSCC: NoCitationData[s0]},
+  file = {/Users/herb/Zotero/storage/NZ9IKK2A/2019Schmidt-Gravitational_wave_modelling_with_machine_lerning.pdf}
 }
 
 @article{2019VarmaHighaccuracyMass,
@@ -2404,6 +2405,7 @@
 }
 
 @article{2021SchmidtMachineLearningGravitational,
+  ids = {2021},
   title = {Machine Learning Gravitational Waves from Binary Black Hole Mergers},
   author = {Schmidt, Stefano and Breschi, Matteo and Gamba, Rossella and Pagano, Giulia and Rettegno, Piero and Riemenschneider, Gunnar and Bernuzzi, Sebastiano and Nagar, Alessandro and Del Pozzo, Walter},
   year = {2021},
@@ -2416,10 +2418,12 @@
   primaryclass = {gr-qc},
   pages = {043020},
   publisher = {{American Physical Society}},
+  issn = {2470-0029},
   doi = {10.1103/PhysRevD.103.043020},
   abstract = {We apply machine learning methods to build a time-domain model for gravitational waveforms from binary black hole mergers, called mlgw. The dimensionality of the problem is handled by representing the waveform's amplitude and phase using a principal component analysis. We train mlgw on about {$\mathmit{O}$}(10{$^3$}) TEOBResumS and SEOBNRv4 effective-one-body waveforms with mass ratios q{$\in$}[1,20] and aligned dimensionless spins s{$\in$}[-0.80,0.95]. The resulting models are faithful to the training sets at the {$\sim$}10{$^{-3}$} level (averaged on the parameter space). The speed up for a single waveform generation is a factor 10 to 50 (depending on the binary mass and initial frequency) for TEOBResumS and approximately an order of magnitude more for SEOBNRv4. Furthermore, mlgw provides a closed form expression for the waveform and its gradient with respect to the orbital parameters; such an information might be useful for future improvements in GW data analysis. As demonstration of the capabilities of mlgw to perform a full parameter estimation, we re-analyze the public data from the first GW transient catalog (GWTC-1). We find broadly consistent results with previous analyses at a fraction of the cost, although the analysis with spin aligned waveforms gives systematic larger values of the effective spins with respect to previous analyses with precessing waveforms. Since the generation time does not depend on the length of the signal, our model is particularly suitable for the analysis of the long signals that are expected to be detected by third-generation detectors. Future applications include the analysis of waveform systematics and model selection in parameter estimation.},
   archiveprefix = {arXiv},
-  keywords = {gr-qc}
+  keywords = {gr-qc},
+  file = {/Users/herb/Zotero/storage/ZLHU3GGZ/2021Schmidt_et_al-Machine_learning_gravitational_waves_from_binary_black_hole_mergers.pdf}
 }
 
 @article{2021ShenStatisticallyinformedDeep,
@@ -4318,13 +4322,14 @@
 
 @article{santos2020gravitational,
   title = {Gravitational Wave Detection and Information Extraction via Neural Networks},
-  author = {Santos, Gerson R and Figueiredo, Marcela P and Santos, Antonio de P{\'a}dua and Protopapas, Pavlos and Ferreira, Tiago AE},
+  author = {Santos, Gerson R. and Figueiredo, Marcela P. and {de P{\'a}dua Santos}, Antonio and Protopapas, Pavlos and Ferreira, Tiago A. E.},
   year = {2020},
-  month = mar,
   journal = {arXiv preprint arXiv:2003.09995},
   eprint = {2003.09995},
   eprinttype = {arxiv},
-  archiveprefix = {arXiv}
+  archiveprefix = {arXiv},
+  annotation = {ZSCC: 0000001},
+  file = {/Users/herb/Zotero/storage/5XUPUM3B/2020Santos_et_al-Gravitational_wave_detection_and_information_extraction_via_neural_networks.pdf}
 }
 
 @mastersthesis{schafer2019analysis,
