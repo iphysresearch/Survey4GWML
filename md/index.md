@@ -123,6 +123,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
      * **[Mesuga & Bayanay (2021) [@2021MesugaEfficiencyVariousDeep] (2107.01863)]** - On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-wave Data
      * **[Sankarapandian & Kulis (2021) [@2021Sankarapandian$β$annealedVariational] (2107.10667)]** - $β$-Annealed Variational Autoencoder for Glitches
+     * **[Yu & Adhikari (2021) [@yu2021nonlinear] (2111.03295)]** - Nonlinear Noise Regression in Gravitational-Wave Detectors with Convolutional Neural Networks
 
 
 
