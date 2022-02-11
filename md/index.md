@@ -107,7 +107,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
 
 
 - Others / Pending:
-     * **[Staats & Cavaglià (2018) [@cavaglia2018finding] (1812.05225)]** - Finding the origin of noise transients in LIGO data with machine learning (**Karoo GP**)
+     * **[Staats & Cavaglià (2018) [@cavaglia2018finding] (Commun. Comput. Phys.)]** - Finding the origin of noise transients in LIGO data with machine learning (**Karoo GP**)
      * **[Mukund et al. (2017) [@mukund2017transient] (PRD)]** - Transient classification in LIGO data using difference boosting neural network (**Wavelet-DBNN, India**)
      * **[Llorens-Monteagudo et al. (2019) [@llorens2019classification] (CQG)]** - Classification of gravitational-wave glitches via dictionary learning (**Dictionary learning**)
      * Low latency transient detection and classification (I. Pinto, V. Pierro, L. Troiano, E. Mejuto-Villa, V. Matta, P. Addesso)
