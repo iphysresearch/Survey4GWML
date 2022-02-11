@@ -160,7 +160,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
 >
 
 - Pending:
-    - **[Rebei et al. (2019) [@Rebei2018lzh] (PRD)]** - Fusing numerical relativity and deep learning to detect higher-order multipole waveforms from eccentric binary black hole mergers
     - **[Chua (2017) [@Chua2017xyi] (PhD Thesis)]** - Topics in gravitational-wave astronomy: Theoretical studies, source modelling and statistical methods
     - **[Chua et al. (2019) [@Chua2018woh] (PRL)]** - Reduced-oruder modeling with artificial neurons for gravitational-wave inference
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
@@ -210,6 +209,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Luo et al. (2019) [@luo2020extraction] (Front. Phys.)]** - Extraction of gravitational wave signals with optimized convolutional neural network
     - **[Lin et al. (2019) [@2019LinBinaryNeutronStars] (Front. Phys.)]** - Binary Neutron Stars Gravitational Wave Detection Based on Wavelet Packet Analysis and Convolutional Neural Networks
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying extra high frequency gravitational waves generated from oscillons with cuspy potentials using deep neural networks
+    - **[Rebei et al. (2019) [@Rebei2018lzh] (PRD)]** - Fusing numerical relativity and deep learning to detect higher-order multipole waveforms from eccentric binary black hole mergers
     - **[Krastev (2020) [@2020KrastevRealtimeDetection] (PLB)]** - Real-time Detection of Gravitational Waves from Binary Neutron Stars Using Artificial Neural Networks
     - **[Mytidis et al. (2019) [@2019MytidisSensitivityStudyUsing] (PRD)]** - Sensitivity Study Using Machine Learning Algorithms on Simulated $r$-mode Gravitational Wave Signals from Newborn Neutron Stars
     - **[Gebhard et al. (2017) [@gebhard2017convwave] (Workshop)]** - Convwave: Searching for gravitational waves with fully convolutional neural nets
