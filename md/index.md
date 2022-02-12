@@ -165,7 +165,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chua et al. (2019) [@Chua2018woh] (PRL)]** - Reduced-oruder modeling with artificial neurons for gravitational-wave inference
     - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
     - **[Tiglio & Villanueva (2019) [@2021TiglioAbInitiobased] (Scientific Reports)]** - On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves
-    - **[Varma et al. (2019) [@2019VarmaHighaccuracyMass] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
     - **[Khan & Green (2020) [@2021KhanGravitationalwaveSurrogate] (PRD)]** - Gravitational-wave Surrogate Models Powered by Artificial Neural Networks
@@ -327,6 +326,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - Now that we have started to detect a population of black hole signals we can try to do population studies to try and understand signals formation mechanisms. Population properties paper from O1+02 **[Abbott et al. (2019) [@abbott2019binary] (ApJ)]** . Uses phenomenological models (like power laws) combined with Bayesian hierarchical modelling. Bayesian hierarchical modelling involves some assumptions of populations mass and spin distributions.  Does not scale well for high dimensional models and a large number of GW detections. 
 * We can use unmodelling clustering! In **[Powell et al. (2019) [@powell2019unmodelled] (Mon. Not. Roy. Astron. Soc.)]** we apply unmodelled clustering to masses and spins. Two of the populations have identical mass distributions and different spin. This is difficult because spin is poorly measured. Determine the number of populations and the number of CBC signals in each population.
 * (How do I try it myself?) The Gravitational Wave Open Science Center has the data, parameter estimates, and matched filtering tutorials that you can download. You can get [code](https://git.ligo.org/daniel.wysocki/synthetic-PE-posteriors) to produce synthetic parameter estimates for compact binaries.
+* **[Varma et al. (2019) [@2019VarmaHighaccuracyMass] (PRL)]** - High-Accuracy Mass, Spin, and Recoil Predictions of Generic Black-Hole Merger Remnants
 * **[Deligiannidis et al. (2019) [@deligiannidis2019case] (ICAI)]** - Case Study: Skymap Data Analysis
 * **[Wong & Gerosa (2019) [@wong2019machine] (PRD)]** - Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: A case study
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
