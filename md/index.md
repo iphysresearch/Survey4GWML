@@ -338,7 +338,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (2011.03564)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
 * **[Gerosa et al. (2020) [@2020GerosaGravitationalwaveSelection] (PRD)]** - Gravitational-wave Selection Effects Using Neural-network Classifiers
 * **[Talbot & Thrane (2020) [@talbot2022fast] (2012.01317)]** - Fast, Flexible, and Accurate Evaluation of Gravitational-Wave Malmquist Bias with Machine Learning
-* **[Álvares et al. (2021) [@2021AlvaresGravitationalwaveParameter] (IEEE)]** - Gravitational-wave Parameter Inference Using Deep Learning
+* **[Álvares et al. (2021) [@2021AlvaresGravitationalwaveParameter] (IEEE)]** - Gravitational-Wave Parameter Inference Using Deep Learning
 * **[Cheung et al. (2021) [@2021CheungTestingRobustnessSimulation] (2112.06707)]** - Testing the Robustness of Simulation-based Gravitational-wave Population Inference
 
 --- 
