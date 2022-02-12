@@ -600,17 +600,26 @@
 }
 
 @article{2020JadhavImprovingSignificanceBinary,
-  title = {Improving Significance of Binary Black Hole Mergers in Advanced {{LIGO}} Data Using Deep Learning : {{Confirmation}} of {{GW151216}}},
+  ids = {2021},
+  title = {Improving Significance of Binary Black Hole Mergers in {{Advanced LIGO}} Data Using Deep Learning: {{Confirmation}} of {{GW151216}}},
   author = {Jadhav, Shreejit and Mukund, Nikhil and Gadre, Bhooshan and Mitra, Sanjit and Abraham, Sheelu},
-  year = {2020},
-  month = oct,
-  journal = {arXiv preprint arXiv:2010.08584},
+  year = {2021},
+  month = sep,
+  journal = {Phys. Rev. D},
+  volume = {104},
+  number = {6},
   eprint = {2010.08584},
   eprinttype = {arxiv},
+  primaryclass = {gr-qc},
+  pages = {064051},
+  publisher = {{American Physical Society (APS)}},
+  issn = {2470-0029},
+  doi = {10.1103/PhysRevD.104.064051},
   abstract = {We present a novel Machine Learning (ML) based strategy to search for compact binary coalescences (CBCs) in data from ground-based gravitational wave (GW) observatories. This is the first ML-based search that not only recovers all the binary black hole mergers in the first GW transients calalog (GWTC-1), but also makes a clean detection of GW151216, which was not significant enough to be included in the catalogue. Moreover, we achieve this by only adding a new coincident ranking statistic (MLStat) to a standard analysis that was used for GWTC-1. In CBC searches, reducing contamination by terrestrial and instrumental transients, which create a loud noise background by triggering numerous false alarms, is crucial to improving the sensitivity for detecting true events. The sheer volume of data and and large number of expected detections also prompts the use of ML techniques. We perform transfer learning to train "InceptionV3", a pre-trained deep neural network, along with curriculum learning to distinguish GW signals from noisy events by analysing their continuous wavelet transform (CWT) maps. MLStat incorporates information from this ML classifier into the standard coincident search likelihood used by the conventional search. This leads to at least an order of magnitude improvement in the inverse false-alarm-rate (IFAR) for the previously "low significance" events GW151012, GW170729 and GW151216. The confidence in detection of GW151216 is further strengthened by performing its parameter estimation using . Considering the impressive ability of the statistic to distinguish signals from glitches, the list of marginal events from MLStat could be quite reliable for astrophysical population studies and further follow-up. This work demonstrates the immense potential and readiness of MLStat for finding new sources in current data and possibility of its adaptation in similar searches.},
   archiveprefix = {arXiv},
   keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc},
-  annotation = {ZSCC: NoCitationData[s0]}
+  annotation = {ZSCC: NoCitationData[s0]},
+  file = {/Users/herb/Zotero/storage/APK6PRSK/2021Jadhav_et_al-Improving_significance_of_binary_black_hole_mergers_in_Advanced_LIGO_data_using.pdf}
 }
 
 @article{2020JeffreySolvingHighdimensional,
@@ -1044,16 +1053,25 @@
 }
 
 @article{2020XiaImprovedDeepLearning,
+  ids = {2021},
   title = {Improved Deep Learning Techniques in Gravitational-Wave Data Analysis},
   author = {Xia, Heming and Shao, Lijing and Zhao, Junjie and Cao, Zhoujian},
-  year = {2020},
-  month = nov,
-  journal = {arXiv preprint arXiv:2011.04418},
+  year = {2021},
+  month = jan,
+  journal = {Phys. Rev. D},
+  volume = {103},
+  number = {2},
   eprint = {2011.04418},
   eprinttype = {arxiv},
+  primaryclass = {astro-ph.HE},
+  pages = {024040},
+  publisher = {{American Physical Society (APS)}},
+  issn = {2470-0029},
+  doi = {10.1103/PhysRevD.103.024040},
   abstract = {In recent years, convolutional neural network (CNN) and other deep learning models have been gradually introduced into the area of gravitational-wave (GW) data processing. Compared with the traditional matched-filtering techniques, CNN has significant advantages in efficiency in GW signal detection tasks. In addition, matched-filtering techniques are based on the template bank of the existing theoretical waveform, which makes it difficult to find GW signals beyond theoretical expectation. In this paper, based on the task of GW detection of binary black holes, we introduce the optimization techniques of deep learning, such as batch normalization and dropout, to CNN models. Detailed studies of model performance are carried out. Through this study, we recommend to use batch normalization and dropout techniques in CNN models in GW signal detection tasks. Furthermore, we investigate the generalization ability of CNN models on different parameter ranges of GW signals. We point out that CNN models are robust to the variation of the parameter range of the GW waveform. This is a major advantage of deep learning models over matched-filtering techniques.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc,stat.ML}
+  keywords = {astro-ph.HE,cs.LG,gr-qc,stat.ML},
+  file = {/Users/herb/Zotero/storage/CQJVFFYT/2021Xia_et_al-Improved_deep_learning_techniques_in_gravitational-wave_data_analysis.pdf}
 }
 
 @article{2020XuGwopsVotechnology,
@@ -1558,15 +1576,16 @@
 }
 
 @inproceedings{2021FanImprovingGravitationalWave,
-  title = {Improving Gravitational Wave Detection with 2d Convolutional Neural Networks},
+  title = {Improving Gravitational Wave Detection with {{2D}} Convolutional Neural Networks},
   booktitle = {2020 25th International Conference on Pattern Recognition ({{ICPR}})},
-  author = {Fan, S. and Wang, Y. and Luo, Y. and Schmitt, A. and Yu, S.},
+  author = {Fan, Siyu and Wang, Yisen and Luo, Yuan and Schmitt, Alexander and Yu, Shenghua},
   year = {2021},
   series = {2020 25th {{International Conference}} on {{Pattern Recognition}} ({{ICPR}})},
   pages = {7103--7110},
   issn = {1051-4651},
   doi = {10.1109/ICPR48806.2021.9412180},
-  abstract = {Sensitive gravitational wave (GW) detectors such as that of Laser Interferometer Gravitational-wave Observatory (LIGO) realize the direct observation of GW signals that confirm Einstein's general theory of relativity. However, it remains challenges to quickly detect faint GW signals from a large number of time series with background noise under unknown probability distributions. Traditional methods such as matched-filtering in general assume Additive White Gaussian Noise (AWGN) and are far from being real-time due to its high computational complexity. To avoid these weaknesses, one-dimensional (1D) Convolutional Neural Networks (CNNs) are introduced to achieve fast online detection in milliseconds but do not have enough consideration on the trade-off between the frequency and time features, which will be revisited in this paper through data pre-processing and subsequent two-dimensional (2D) CNNs during offline training to improve the online detection sensitivity. In this work, the input data is pre-processed to form a 2D spectrum by Short-time Fourier transform (STFT), where frequency features are extracted without learning. Then, carrying out two 1D convolutions across time and frequency axes respectively, and concatenating the time-amplitude and frequency-amplitude feature maps with equal proportion subsequently, the frequency and time features are treated equally as the input of our following two-dimensional CNNs. The simulation of our above ideas works on a generated data set with uniformly varying SNR (2-17), which combines the GW signal generated by PYCBC and the background noise sampled directly from LIGO. Satisfying the real-time online detection requirement without noise distribution assumption, the experiments of this paper demonstrate better performance on average compared to that of 1D CNNs, especially in the cases of lower SNR (4-9).}
+  abstract = {Sensitive gravitational wave (GW) detectors such as that of Laser Interferometer Gravitational-wave Observatory (LIGO) realize the direct observation of GW signals that confirm Einstein's general theory of relativity. However, it remains challenges to quickly detect faint GW signals from a large number of time series with background noise under unknown probability distributions. Traditional methods such as matched-filtering in general assume Additive White Gaussian Noise (AWGN) and are far from being real-time due to its high computational complexity. To avoid these weaknesses, one-dimensional (1D) Convolutional Neural Networks (CNNs) are introduced to achieve fast online detection in milliseconds but do not have enough consideration on the trade-off between the frequency and time features, which will be revisited in this paper through data pre-processing and subsequent two-dimensional (2D) CNNs during offline training to improve the online detection sensitivity. In this work, the input data is pre-processed to form a 2D spectrum by Short-time Fourier transform (STFT), where frequency features are extracted without learning. Then, carrying out two 1D convolutions across time and frequency axes respectively, and concatenating the time-amplitude and frequency-amplitude feature maps with equal proportion subsequently, the frequency and time features are treated equally as the input of our following two-dimensional CNNs. The simulation of our above ideas works on a generated data set with uniformly varying SNR (2-17), which combines the GW signal generated by PYCBC and the background noise sampled directly from LIGO. Satisfying the real-time online detection requirement without noise distribution assumption, the experiments of this paper demonstrate better performance on average compared to that of 1D CNNs, especially in the cases of lower SNR (4-9).},
+  file = {/Users/herb/Zotero/storage/IIHTVVXJ/2021Fan_et_al-Improving_gravitational_wave_detection_with_2D_convolutional_neural_networks.pdf}
 }
 
 @article{2021GabbardBayesianParameterEstimation,
