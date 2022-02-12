@@ -313,7 +313,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (PRL)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
     - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
     - **[Kuo & Lin (2021) [@kuo2021conditional] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
-    - **[Gunny et al. (2021) [@2021GunnyHardwareacceleratedInference] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
+    - **[Gunny et al. (2021) [@gunny2021hardwareaccelerated] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
     - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference
     - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
     - **[Kolmus et al. (2021) [@2021KolmusSwiftskylocalization] (2111.00833)]** - Swift Sky Localization of Gravitational Waves Using Deep Learning Seeded Importance Sampling
@@ -475,7 +475,7 @@ Some selected interesting works:
 
 - **[Funai et al. (2018) [@2018FunaiThermodynamicsFeatureExtraction] (PRR)]** - Thermodynamics and Feature Extraction by Machine Learning
 - **[Breen et al. (2019) [@2019BreenNewtonVsMachine] (Mon. Not. Roy. Astron. Soc.)]** - Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks | [深度学习求解「三体」问题，计算速度提高一亿倍](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495819&idx=3&sn=61d214da5c7d6e6b7dac1c4ba7b1b3b7&source=41#wechat_redirect) | [牛顿解决不了的问题，AI或许能搞定：用神经网络解决三体问题](https://mp.weixin.qq.com/s/zdj7Lcud51u0Grg3YWUUkg)
-- **[Greydanus et al. (2019) [@2019GreydanusHamiltonianNeuralNetworks] (1906.01563)]** - Hamiltonian Neural Networks
+- **[Greydanus et al. (2019) [@greydanus2019hamiltonian] (NeurIPS)]** - Hamiltonian Neural Networks
 - **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（1906.05301)]** - Learning Curves for Deep Neural Networks: A Gaussian Field Theory Perspective
 - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
 - **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of SNR of Pulsar Signals
