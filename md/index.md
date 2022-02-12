@@ -142,7 +142,6 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Alimohammadi et al. (2021) [@2021Akhshitemplatefreeapproachwaveform] (Scientific Reports)]** - A Template-Free Approach for Waveform Extraction of Gravitational Wave Events
     - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)]** - Noise Reduction in Gravitational-Wave Data via Deep Learning
     - **[Essick et al. (2020) [@2020EssickiDQStatisticalInference] (Mach. learn.: sci. technol.)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
-    - **[Badaracco et al. (2020) [@badaracco2020machine] (CQG)]** - Machine Learning for Gravitational-wave Detection: Surrogate Wiener Filtering for the Prediction and Optimized Cancellation of Newtonian Noise at Virgo
     - **[Kulkarni et al. (2019) [@2019KulkarniNnetfixNeuralNetwork] (APS)]** - NNETFIX: A Neural Network to 'fix' Gravitational Wave Signals Overlapping with Short-duration Glitches in Ligo-virgo Data.
     - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (Mach. learn.: sci. technol.)]** - NNETFIX: an artificial neural network-based denoising engine for gravitational-wave signals
     - **[Chatterjee et al. (2021) [@2021ChatterjeeExtractionBinaryBlack] (PRD)]** - Extraction of Binary Black Hole Gravitational Wave Signals from Detector Data Using Deep Learning
@@ -485,7 +484,7 @@ Some selected interesting works:
 - **[Liu & Tegmark (2021) [@2020LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
-- **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
+- **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (AIHEP)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (PNAS)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (PANS)]** - Machine Learning Accelerated Computational Fluid Dynamics
   >[机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](https://mp.weixin.qq.com/s/QmlYIIcG7pjzLfLmFdDnDQ)
