@@ -241,8 +241,8 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Menéndez-Vázquez et al. (2020) [@2021MenendezVazquezSearchesCompactBinary] (PRD)]** - Searches for Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Second Observation Period
     - **[Krastev et al. (2020) [@2021KrastevDetectionparameterestimation] (PLB)]** - Detection and Parameter Estimation of Gravitational Waves from Binary Neutron-Star Mergers in Real LIGO Data Using Deep Learning
     - **[Dodia (2021) [@2021DodiaDetectingResiduesCosmic] (2101.00195)]** - Detecting Residues of Cosmic Events Using Residual Neural Network
-    - **[Kulkarni et al. (2019) [@2019KulkarniRandomProjectionsGravitational] (PRD)]** - Random Projections in Gravitational Wave Searches of Compact Binaries
-    - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework
+    - **[Kulkarni et al. (2019) [@2019KulkarniRandomProjectionsGravitational] (PRD)]** - Random Projections in Gravitational Wave Searches of Compact Binaries (**Random projections**)
+    - **[Rzeza et al. (2021) [@2021RezaRandomProjectionsGravitational] (2101.03226)]** - Random Projections in Gravitational Wave Searches from Compact Binaries II: Efficient Reconstruction of Detection Statistic within LLOID Framework (**Random projections**)
     - **[Zhan et al. (2021) [@2021ZhanResponseConvolutionalNeural] (2103.03557)]** - The Response of the Convolutional Neural Network to the Transient Noise in Gravitational Wave Detection
     - **[Morawski et al. (2021) [@2021MorawskiAnomalyDetectionGravitational] (Mach. learn.: sci. technol.)]** - Anomaly Detection in Gravitational Waves Data Using Convolutional Autoencoders
     - **[Baltus et al. (2021) [@2021BaltusConvolutionalneuralnetworks] (PRD)]** - Convolutional Neural Networks for the Detection of the Early Inspiral of a Gravitational-wave Signal
@@ -481,7 +481,7 @@ Some selected interesting works:
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
 - **[Liu & Tegmark (2021) [@2020LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
-- **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
+- **[Yip et al. (2020) [@2020YipPeekingBlackBox] (ApJ)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (AIHEP)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (PNAS)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (PANS)]** - Machine Learning Accelerated Computational Fluid Dynamics
