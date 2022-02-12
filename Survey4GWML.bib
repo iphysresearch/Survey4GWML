@@ -126,18 +126,25 @@
 }
 
 @article{2019BreenNewtonVsMachine,
-  title = {Newton vs the Machine: {{Solving}} the Chaotic Three-Body Problem Using Deep Neural Networks},
-  author = {Breen, Philip G. and Foley, Christopher N. and Boekholt, Tjarda and Zwart, Simon Portegies},
-  year = {2019},
-  month = oct,
+  ids = {2020},
+  title = {Newton versus the Machine: Solving the Chaotic Three-Body Problem Using Deep Neural Networks},
+  author = {Breen, Philip G and Foley, Christopher N and Boekholt, Tjarda and Zwart, Simon Portegies},
+  year = {2020},
+  month = may,
   journal = {Monthly Notices of the Royal Astronomical Society},
+  volume = {494},
+  number = {2},
   eprint = {1910.07291},
   eprinttype = {arxiv},
   primaryclass = {astro-ph.GA},
+  pages = {2465--2470},
+  publisher = {{Oxford University Press (OUP)}},
+  issn = {0035-8711},
   doi = {10.1093/mnras/staa713},
-  abstract = {Since its formulation by Sir Isaac Newton, the problem of solving the equations of motion for three bodies under their own gravitational force has remained practically unsolved. Currently, the solution for a given initialization can only be found by performing laborious iterative calculations that have unpredictable and potentially infinite computational cost, due to the system's chaotic nature. We show that an ensemble of solutions obtained using an arbitrarily precise numerical integrator can be used to train a deep artificial neural network (ANN) that, over a bounded time interval, provides accurate solutions at fixed computational cost and up to 100 million times faster than a state-of-the-art solver. Our results provide evidence that, for computationally challenging regions of phase-space, a trained ANN can replace existing numerical solvers, enabling fast and scalable simulations of many-body systems to shed light on outstanding phenomena such as the formation of black-hole binary systems or the origin of the core collapse in dense star clusters.},
+  abstract = {Since its formulation by Sir Isaac Newton, the problem of solving the equations of motion for three bodies under their own gravitational force has remained practically unsolved. Currently, the solution for a given initialization can only be found by performing laborious iterative calculations that have unpredictable and potentially infinite computational cost, due to the system's chaotic nature. We show that an ensemble of converged solutions for the planar chaotic three-body problem obtained using an arbitrarily precise numerical integrator can be used to train a deep artificial neural network (ANN) that, over a bounded time interval, provides accurate solutions at a fixed computational cost and up to 100 million times faster than the numerical integrator. In addition, we demonstrate the importance of training an ANN using converged solutions from an arbitrary precise integrator, relative to solutions computed by a conventional fixed precision integrator, which can introduce errors in the training data, due to numerical round-off and time discretization, that are learned by the ANN. Our results provide evidence that, for computationally challenging regions of phase space, a trained ANN can replace existing numerical solvers, enabling fast and scalable simulations of many-body systems to shed light on outstanding phenomena such as the formation of black hole binary systems or the origin of the core collapse in dense star clusters.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.GA,astro-ph.SR,cs.LG,physics.comp-ph}
+  keywords = {astro-ph.GA,astro-ph.SR,cs.LG,physics.comp-ph},
+  file = {/Users/herb/Zotero/storage/26HKQ3LS/2020Breen_et_al-Newton_versus_the_machine.pdf}
 }
 
 @article{2019BrestenDetectionGravitationalWaves,
@@ -214,20 +221,6 @@
   archiveprefix = {arXiv},
   keywords = {astro-ph.IM,cs.LG},
   annotation = {ZSCC: 0000007}
-}
-
-@inproceedings{2019KulkarniNnetfixNeuralNetwork,
-  title = {{{NNETFIX}}: {{A}} Neural Network to 'fix' Gravitational Wave Signals Overlapping with Short-Duration Glitches in {{LIGO-Virgo}} Data.},
-  booktitle = {{{APS}} April Meeting Abstracts},
-  author = {Kulkarni, Sumeet and Cavaglia, Marco and Team, LIGO-V.I.R.G.O. Scientific Collaboration},
-  year = {2019},
-  month = jan,
-  series = {{{APS}} Meeting Abstracts},
-  volume = {2019},
-  pages = {Y10.002},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {https://ui.adsabs.harvard.edu/abs/2019APS..APRY10002K},
-  eid = {Y10.002}
 }
 
 @article{2019KulkarniRandomProjectionsGravitational,
@@ -1466,17 +1459,25 @@
   file = {/Users/herb/Zotero/storage/4GVTXTZL/2021Cranmer_et_al-A_Bayesian_neural_network_predicts_the_dissolution_of_compact_planetary_systems.pdf}
 }
 
-@article{2021CuocoMultimodalAnalysisGravitational,
-  title = {Multimodal Analysis of Gravitational Wave Signals and Gamma-Ray Bursts from Binary Neutron Star Mergers},
+@article{2021CuocoMultimodalAnalysisGravitationa,
+  ids = {2021CuocoMultimodalAnalysisGravitationalb,cuoco2021multimodal},
+  title = {Multimodal {{Analysis}} of {{Gravitational Wave Signals}} and {{Gamma-Ray Bursts}} from {{Binary Neutron Star Mergers}}},
   author = {Cuoco, Elena and Patricelli, Barbara and Iess, Alberto and Morawski, Filip},
   year = {2021},
   month = oct,
-  journal = {arXiv preprint arXiv:2110.09833},
+  journal = {Universe},
+  volume = {7},
+  number = {11},
   eprint = {2110.09833},
   eprinttype = {arxiv},
-  abstract = {A major boost in the understanding of the universe was given by the revelation of the first coalescence event of two neutron stars (GW170817) and the observation of the same event across the entire electromagnetic spectrum. With 3rd Generation gravitational wave detectors and the new astronomical facilities, we expect many multi messenger events of the same type. We anticipate the need to analyse the data provided to us by such events, to fulfill the requirements of real-time analysis, but also in order to decipher the event in its entirety through the information emitted in the different messengers using Machine Learning. We propose a change in the paradigm in the way we will do multi-messenger astronomy, using simultaneously the complete information generated by violent phenomena in the Universe. What we propose is the application of a multimodal machine learning approach to characterize these events.},
+  primaryclass = {astro-ph.HE},
+  issn = {2218-1997},
+  doi = {10.3390/universe7110394},
+  abstract = {A major boost in the understanding of the universe was given by the revelation of the first coalescence event of two neutron stars (GW170817) and the observation of the same event across the entire electromagnetic spectrum. With third-generation gravitational wave detectors and the new astronomical facilities, we expect many multi-messenger events of the same type. We anticipate the need to analyse the data provided to us by such events not only to fulfil the requirements of real-time analysis, but also in order to decipher the event in its entirety through the information emitted in the different messengers using machine learning. We propose a change in the paradigm in the way we do multi-messenger astronomy, simultaneously using the complete information generated by violent phenomena in the Universe. What we propose is the application of a multimodal machine learning approach to characterize these events.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE}
+  keywords = {astro-ph.HE,gamma-ray bursts,gravitational waves,multi-messenger astronomy,multimodal analysis,neutron stars},
+  annotation = {ZSCC: 0000000},
+  file = {/Users/herb/Zotero/storage/3PDUFA74/2021Cuoco_et_al-Multimodal_Analysis_of_Gravitational_Wave_Signals_and_Gamma-Ray_Bursts_from.pdf}
 }
 
 @article{2021DaxGroupEquivariantNeural,
@@ -2228,10 +2229,11 @@
 }
 
 @article{2021MogushiNnetfixArtificialNeural,
-  title = {{{NNETFIX}}: {{An}} Artificial Neural Network-Based Denoising Engine for Gravitational-Wave Signals},
+  ids = {mogushi2021nnetfix},
+  title = {{{NNETFIX}}: An Artificial Neural Network-Based Denoising Engine for Gravitational-Wave Signals},
   author = {Mogushi, Kentaro and {Quitzow-James}, Ryan and Cavagli{\`a}, Marco and Kulkarni, Sumeet and Hayes, Fergus},
   year = {2021},
-  month = jan,
+  month = jun,
   journal = {Machine Learning: Science and Technology},
   volume = {2},
   number = {3},
@@ -2244,7 +2246,8 @@
   doi = {10.1088/2632-2153/abea69},
   abstract = {Instrumental and environmental transient noise bursts in gravitational-wave (GW) detectors, or glitches, may impair astrophysical observations by adversely affecting the sky localization and the parameter estimation of GW signals. Denoising of detector data is especially relevant during low-latency operations because electromagnetic follow-up of candidate detections requires accurate, rapid sky localization and inference of astrophysical sources. NNETFIX is a machine learning, artificial neural network-based algorithm designed to estimate the data containing a transient GW signal with an overlapping glitch as though the glitch was absent. The sky localization calculated from the denoised data may be significantly more accurate than the sky localization obtained from the original data or by removing the portion of the data impacted by the glitch. We test NNETFIX in simulated scenarios of binary black hole coalescence signals and discuss the potential for its use in future low-latency LIGO-Virgo-KAGRA searches. In the majority of cases for signals with a high signal-to-noise ratio, we find that the overlap of the sky maps obtained with the denoised data and the original data is better than the overlap of the sky maps obtained with the original data and the data with the glitch removed.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.CO,astro-ph.HE,astro-ph.IM,gr-qc}
+  keywords = {astro-ph.CO,astro-ph.HE,astro-ph.IM,gr-qc},
+  file = {/Users/herb/Zotero/storage/Y7P536LS/2021Mogushi_et_al-NNETFIX.pdf}
 }
 
 @article{2021MogushiReductionTransientNoise,
@@ -2392,6 +2395,7 @@
 }
 
 @article{2021RouhiainenNormalizingFlowsRandom,
+  ids = {rouhiainen2021normalizing},
   title = {Normalizing Flows for Random Fields in Cosmology},
   author = {Rouhiainen, Adam and Giri, Utkarsh and M{\"u}nchmeyer, Moritz},
   year = {2021},
@@ -2401,7 +2405,8 @@
   eprinttype = {arxiv},
   abstract = {Normalizing flows are a powerful tool to create flexible probability distributions with a wide range of potential applications in cosmology. Here we are studying normalizing flows which represent cosmological observables at field level, rather than at the level of summary statistics such as the power spectrum. We evaluate the performance of different normalizing flows for both density estimation and sampling of near-Gaussian random fields, and check the quality of samples with different statistics such as power spectrum and bispectrum estimators. We explore aspects of these flows that are specific to cosmology, such as flowing from a physical prior distribution and evaluating the density estimation results in the analytically tractable correlated Gaussian case.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.CO,astro-ph.IM}
+  keywords = {astro-ph.CO,astro-ph.IM},
+  file = {/Users/herb/Zotero/storage/2SUWNKGQ/2021Rouhiainen_et_al-Normalizing_flows_for_random_fields_in_cosmology.pdf}
 }
 
 @article{2021RozetArbitraryMarginalNeural,
@@ -2711,6 +2716,7 @@
 }
 
 @article{2021WilliamsNestedSamplingNormalizing,
+  ids = {2021,PhysRevD.103.103006},
   title = {Nested Sampling with Normalizing Flows for Gravitational-Wave Inference},
   author = {Williams, Michael J. and Veitch, John and Messenger, Chris},
   year = {2021},
@@ -2723,10 +2729,12 @@
   primaryclass = {gr-qc},
   pages = {103006},
   publisher = {{American Physical Society}},
+  issn = {2470-0029},
   doi = {10.1103/PhysRevD.103.103006},
   abstract = {We present a novel method for sampling iso-likelihood contours in nested sampling using a type of machine learning algorithm known as normalising flows and incorporate it into our sampler nessai. Nessai is designed for problems where computing the likelihood is computationally expensive and therefore the cost of training a normalising flow is offset by the overall reduction in the number of likelihood evaluations. We validate our sampler on 128 simulated gravitational wave signals from compact binary coalescence and show that it produces unbiased estimates of the system parameters. Subsequently, we compare our results to those obtained with dynesty and find good agreement between the computed log-evidences whilst requiring 2.32 times fewer likelihood evaluations. We also highlight how the likelihood evaluation can be parallelised in nessai without any modifications to the algorithm. Finally, we outline diagnostics included in nessai and how these can be used to tune the sampler's settings.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc}
+  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  file = {/Users/herb/Zotero/storage/CLK35MH7/2021Williams_et_al-Nested_sampling_with_normalizing_flows_for_gravitational-wave_inference.pdf}
 }
 
 @article{2021YanGeneralizedApproachMatched,
@@ -2939,20 +2947,7 @@
 }
 
 @article{astone2018new,
-  title = {New Method to Observe Gravitational Waves Emitted by Core Collapse Supernovae},
-  author = {Astone, P. and {Cerd{\'a}-Dur{\'a}n}, P. and Di Palma, I. and Drago, M. and Muciaccia, F. and Palomba, C. and Ricci, F.},
-  year = {2018},
-  month = dec,
-  journal = {Phys. Rev. D},
-  volume = {98},
-  number = {12},
-  pages = {122002},
-  publisher = {{American Physical Society}},
-  doi = {10.1103/PhysRevD.98.122002},
-  annotation = {ZSCC: 0000031}
-}
-
-@article{Astone2018uge,
+  ids = {2018,Astone2018uge},
   title = {New Method to Observe Gravitational Waves Emitted by Core Collapse Supernovae},
   author = {Astone, P. and {Cerd{\'a}-Dur{\'a}n}, P. and Di Palma, I. and Drago, M. and Muciaccia, F. and Palomba, C. and Ricci, F.},
   year = {2018},
@@ -2963,8 +2958,10 @@
   eprint = {1812.05363},
   pages = {122002},
   publisher = {{American Physical Society}},
+  issn = {2470-0029},
   doi = {10.1103/PhysRevD.98.122002},
-  annotation = {ZSCC: 0000031}
+  annotation = {ZSCC: 0000031},
+  file = {/Users/herb/Zotero/storage/3SNRL9HT/2018Astone_et_al-New_method_to_observe_gravitational_waves_emitted_by_core_collapse_supernovae.pdf}
 }
 
 @inproceedings{bahaadini2017deep,
@@ -3017,6 +3014,7 @@
 }
 
 @article{baker2015multivariate,
+  ids = {2015,2015BakerMultivariateclassificationrandom},
   title = {Multivariate Classification with Random Forests for Gravitational Wave Searches of Black Hole Binary Coalescence},
   author = {Baker, Paul T. and Caudill, Sarah and Hodge, Kari A. and Talukder, Dipongkar and Capano, Collin and Cornish, Neil J.},
   year = {2015},
@@ -3024,10 +3022,17 @@
   journal = {Phys. Rev. D},
   volume = {91},
   number = {6},
+  eprint = {1412.6479},
+  eprinttype = {arxiv},
+  primaryclass = {gr-qc},
   pages = {062004},
   publisher = {{American Physical Society}},
+  issn = {1550-2368},
   doi = {10.1103/PhysRevD.91.062004},
-  annotation = {ZSCC: 0000021}
+  archiveprefix = {arXiv},
+  langid = {english},
+  annotation = {ZSCC: 0000021},
+  file = {/Users/herb/Zotero/storage/7CKKJDHA/2015Baker_et_al-Multivariate_classification_with_random_forests_for_gravitational_wave_searches.pdf}
 }
 
 @article{barsotti2021gravitational,
@@ -3068,10 +3073,12 @@
   author = {Bayley, Joseph Charles},
   year = {2020},
   month = jul,
-  abstract = {The field of gravitational wave astronomy is still in its early stages, with published detections of compact binary coalescences numbering 14 and the most recent observing run (O3) providing 50 more candidates. Another possible source of gravitational waves is rapidly rotating neutron stars which can emit gravitational waves if they have some asymmetry around their rotation axis. These are predicted to emit long duration quasi-sinusoidal signals known as continuous gravitational waves.All-sky and wide parameter space searches for continuous gravitational waves are generally template-matching schemes which test a bank of signal waveforms against data from a gravitational wave detector. Often these searches are highly-tuned to specific signal types and are computationally expensive. We have developed a search method (entitled SOAP) based on the Viterbi algorithm which is model-agnostic and has a computational cost several orders of magnitude lower than template methods and with a comparable sensitivity. In particular, this method can search for signals which have an unknown frequency evolution. We test the algorithm on three simulated and real data sets: gapless Gaussian noise, Gaussian noise with gaps and real data from the final run of initial LIGO (S6). We show that at 95\% efficiency, with a 1\% false alarm rate, the algorithm achieves a sensitivity of 60, 72 and 74 in the optimal coherent signal to noise ratio in each of these datasets. We discuss the use of this algorithm for detecting a wide range of quasi-monochromatic gravitational wave signals and instrumental artefacts, and demonstrate that it can also identify shorter duration signals such as compact binary coalescences.Many continuous gravitational wave searches are affected by instrumental lines as the long duration narrowband nature of a line can appear to be very similar to a real continuous gravitational wave signal. This has led to the development of techniques to try and limit the effect of instrumental lines, which mostly involve developing a statistic to penalise signals that appear in only a single detector. Whilst these statistics limit the effect of instrumental lines, in the SOAP search described above, many lines still contaminate the statistics and have to be manually removed by investigating other search outputs. We have developed a method using convolutional neural networks to reduce the impact of instrumental artefacts on the SOAP search described above. This has the ability to identify features in each of the detectors spectrograms such that a frequency band can be classified into a signal or noise class. This limits the amount of manual investigation of frequency bands and allowed the SOAP search to be fully automated without a reduction in the sensitivity.Once a continuous gravitational wave is detected, we would want to extract some parameters associated with the source to help understand more about its structure and evolution. We describe a Bayesian method which extracts the sky location, frequency, frequency derivative and signal to noise ratio of a source associated with the frequency evolution returned by the SOAP algorithm. This has the aim of limiting the size of the parameter space for a more sensitive fully coherent follow up search. We tested this approach on 200 simulations in Gaussian noise, generating posterior distributions for the parameters described above. In 90\% of these simulations we limit the sky area to 45 deg{$^2$} with a 95\% confidence contour. However, we find that this contour contains the true parameter only 42\% of the time. We present these results and describe the features and shortcomings of our approach.As mentioned above, we limit the effect of instrumental lines on the SOAP search using machine learning, however we can also identify and mitigate these lines separately before a search is run. We demonstrate how we can use SOAP in a simple configuration to identify instrumental lines. We compare this method to existing line identification tools used in the LIGO collaboration, and find that using the Viterbi statistic SOAP identifies 37\% of the same lines as these methods, where for many of the lines which were not identified, other SOAP outputs do show evidence of a line. With further investigation, we expect to identify many more lines in common with existing methods. As well as these common lines, the SOAP algorithm returned 150 more 0.1 Hz wide bands which potentially contain an instrumental line and did not appear on LIGO line-lists.},
+  abstract = {The field of gravitational wave astronomy is still in its early stages, with published detections of compact binary coalescences numbering 14 and the most recent observing run (O3) providing 50 more candidates. Another possible source of gravitational waves is rapidly rotating neutron stars which can emit gravitational waves if they have some asymmetry around their rotation axis. These are predicted to emit long duration quasi-sinusoidal signals known as continuous gravitational waves. All-sky and wide parameter space searches for continuous gravitational waves are generally template-matching schemes which test a bank of signal waveforms against data from a gravitational wave detector. Often these searches are highly-tuned to specific signal types and are computationally expensive. We have developed a search method (entitled SOAP) based on the Viterbi algorithm which is model-agnostic and has a computational cost several orders of magnitude lower than template methods and with a comparable sensitivity. In particular, this method can search for signals which have an unknown frequency evolution. We test the algorithm on three simulated and real data sets: gapless Gaussian noise, Gaussian noise with gaps and real data from the final run of initial LIGO (S6). We show that at 95\% efficiency, with a 1\% false alarm rate, the algorithm achieves a sensitivity of 60, 72 and 74 in the optimal coherent signal to noise ratio in each of these datasets. We discuss the use of this algorithm for detecting a wide range of quasi-monochromatic gravitational wave signals and instrumental artefacts, and demonstrate that it can also identify shorter duration signals such as compact binary coalescences. Many continuous gravitational wave searches are affected by instrumental lines as the long duration narrowband nature of a line can appear to be very similar to a real continuous gravitational wave signal. This has led to the development of techniques to try and limit the effect of instrumental lines, which mostly involve developing a statistic to penalise signals that appear in only a single detector. Whilst these statistics limit the effect of instrumental lines, in the SOAP search described above, many lines still contaminate the statistics and have to be manually removed by investigating other search outputs. We have developed a method using convolutional neural networks to reduce the impact of instrumental artefacts on the SOAP search described above. This has the ability to identify features in each of the detectors spectrograms such that a frequency band can be classified into a signal or noise class. This limits the amount of manual investigation of frequency bands and allowed the SOAP search to be fully automated without a reduction in the sensitivity. Once a continuous gravitational wave is detected, we would want to extract some parameters associated with the source to help understand more about its structure and evolution. We describe a Bayesian method which extracts the sky location, frequency, frequency derivative and signal to noise ratio of a source associated with the frequency evolution returned by the SOAP algorithm. This has the aim of limiting the size of the parameter space for a more sensitive fully coherent follow up search. We tested this approach on 200 simulations in Gaussian noise, generating posterior distributions for the parameters described above. In 90\% of these simulations we limit the sky area to 45 deg\^2 with a 95\% confidence contour. However, we find that this contour contains the true parameter only 42\% of the time. We present these results and describe the features and shortcomings of our approach. As mentioned above, we limit the effect of instrumental lines on the SOAP search using machine learning, however we can also identify and mitigate these lines separately before a search is run. We demonstrate how we can use SOAP in a simple configuration to identify instrumental lines. We compare this method to existing line identification tools used in the LIGO collaboration, and find that using the Viterbi statistic SOAP identifies 37\% of the same lines as these methods, where for many of the lines which were not identified, other SOAP outputs do show evidence of a line. With further investigation, we expect to identify many more lines in common with existing methods. As well as these common lines, the SOAP algorithm returned 150 more 0.1 Hz wide bands which potentially contain an instrumental line and did not appear on LIGO line-lists.},
+  copyright = {Copyright of this thesis is held by the author.},
   school = {University of Glasgow},
   keywords = {continuous gravitational waves,gravitational waves,LIGO.,Machine learning},
-  annotation = {ZSCC: 0000002}
+  annotation = {ZSCC: 0000002},
+  file = {/Users/herb/Zotero/storage/Q49FFRFS/2020Bayley-Non-parametric_and_machine_learning_techniques_for_continuous_gravitational.pdf}
 }
 
 @article{Beheshtipour2020zhb,
@@ -3134,9 +3141,11 @@
 }
 
 @article{biswas2020new,
+  ids = {2020},
   title = {New Methods to Assess and Improve {{LIGO}} Detector Duty Cycle},
-  author = {Biswas, A. and McIver, J. and Mahabal, A.},
-  year = {2019-10-26, 2020-08},
+  author = {Biswas, A and McIver, J and Mahabal, A},
+  year = {2020},
+  month = aug,
   journal = {Classical and Quantum Gravity (2020), 37(17), p.175008},
   volume = {37},
   number = {17},
@@ -3145,11 +3154,13 @@
   primaryclass = {astro-ph.IM},
   pages = {175008},
   publisher = {{IOP Publishing}},
+  issn = {0264-9381},
   doi = {10.1088/1361-6382/ab8650},
   abstract = {A network of three or more gravitational wave detectors simultaneously taking data is required to generate a well-localized sky map for gravitational wave sources, such as GW170817. Local seismic disturbances often cause the LIGO and Virgo detectors to lose light resonance in one or more of their component optic cavities, and the affected detector is unable to take data until resonance is recovered. In this paper, we use machine learning techniques to gain insight into the predictive behavior of the LIGO detector optic cavities during the second LIGO\textendash Virgo observing run. We identify a minimal set of optic cavity control signals and data features which capture interferometer behavior leading to a loss of light resonance, or lockloss. We use these channels to accurately distinguish between lockloss events and quiet interferometer operating times via both supervised and unsupervised machine learning methods. This analysis yields new insights into how components of the LIGO detectors contribute to lockloss events, which could inform detector commissioning efforts to mitigate the associated loss of uptime. Particularly, we find that the state of the component optical cavities is a better predictor of loss of lock than ground motion trends. We report prediction accuracies of 98\% for times just prior to lock loss, and 90\% for times up to 30 s prior to lockloss, which shows promise for this method to be applied in near-real time to trigger preventative detector state changes. This method can be extended to target other auxiliary subsystems or times of interest, such as transient noise or loss in detector sensitivity. Application of these techniques during the third LIGO\textendash Virgo observing run and beyond would maximize the potential of the global detector network for multi-messenger astronomy with gravitational waves.},
   archiveprefix = {arXiv},
   keywords = {astro-ph.IM,cs.LG,physics.data-an},
-  annotation = {ZSCC: NoCitationData[s0]}
+  annotation = {ZSCC: NoCitationData[s0]},
+  file = {/Users/herb/Zotero/storage/Z9869J7W/2020Biswas_et_al-New_methods_to_assess_and_improve_LIGO_detector_duty_cycle.pdf}
 }
 
 @article{Blackman2017dfb,
@@ -3450,21 +3461,6 @@
   file = {/Users/herb/Zotero/storage/Q25A37M2/2020Coughlin-Lessons_from_counterpart_searches_in_LIGO_and_Virgo’s_third_observing_campaign.pdf}
 }
 
-@article{covas2019new,
-  title = {New Method to Search for Continuous Gravitational Waves from Unknown Neutron Stars in Binary Systems},
-  author = {Covas, P. B. and Sintes, Alicia M.},
-  year = {2019},
-  month = jun,
-  journal = {Phys. Rev. D},
-  volume = {99},
-  number = {12},
-  eprint = {1904.04873},
-  pages = {124019},
-  publisher = {{American Physical Society}},
-  doi = {10.1103/PhysRevD.99.124019},
-  annotation = {ZSCC: 0000013}
-}
-
 @article{cuoco2001line,
   title = {On-Line Power Spectra Identification and Whitening for the Noise in Interferometric Gravitational Wave Detectors},
   author = {Cuoco, Elena and Calamai, Giovanni and Fabbroni, Leonardo and Losurdo, Giovanni and Mazzoni, Massimo and Stanga, Ruggero and Vetrano, Flavio},
@@ -3633,6 +3629,7 @@
 }
 
 @article{engels2014multivariate,
+  ids = {2014},
   title = {Multivariate Regression Analysis of Gravitational Waves from Rotating Core Collapse},
   author = {Engels, William J. and Frey, Raymond and Ott, Christian D.},
   year = {2014},
@@ -3640,10 +3637,16 @@
   journal = {Phys. Rev. D},
   volume = {90},
   number = {12},
+  eprint = {1406.1164},
+  eprinttype = {arxiv},
+  primaryclass = {gr-qc},
   pages = {124026},
   publisher = {{American Physical Society}},
+  issn = {1550-2368},
   doi = {10.1103/PhysRevD.90.124026},
-  annotation = {ZSCC: 0000017}
+  archiveprefix = {arXiv},
+  annotation = {ZSCC: 0000017},
+  file = {/Users/herb/Zotero/storage/N7L4DVLL/2014Engels_et_al-Multivariate_regression_analysis_of_gravitational_waves_from_rotating_core.pdf}
 }
 
 @article{essick2013optimizing,
@@ -4572,7 +4575,7 @@
 
 @article{skilling2006nested,
   title = {Nested Sampling for General {{Bayesian}} Computation},
-  author = {Skilling, John},
+  author = {{John Skilling}},
   year = {2006},
   month = dec,
   journal = {Bayesian Anal.},
@@ -4581,8 +4584,10 @@
   pages = {833--859},
   publisher = {{International Society for Bayesian Analysis}},
   doi = {10.1214/06-BA127},
+  abstract = {Nested sampling estimates directly how the likelihood function relates to prior mass. The evidence (alternatively the marginal likelihood, marginal density of the data, or the prior predictive) is immediately obtained by summation. It is the prime result of the computation, and is accompanied by an estimate of numerical uncertainty. Samples from the posterior distribution are an optional by-product, obtainable for any temperature. The method relies on sampling within a hard constraint on likelihood value, as opposed to the softened likelihood of annealing methods. Progress depends only on the shape of the "nested" contours of likelihood, and not on the likelihood values. This invariance (over monotonic re-labelling) allows the method to deal with a class of phase-change problems which effectively defeat thermal annealing.},
   fjournal = {Bayesian Analysis},
-  annotation = {ZSCC: 0001205}
+  annotation = {ZSCC: 0001205},
+  file = {/Users/herb/Zotero/storage/3F7R63BL/2006Skilling-Nested_sampling_for_general_Bayesian_computation.pdf}
 }
 
 @article{stachie2020using,
