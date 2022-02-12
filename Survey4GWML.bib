@@ -1862,16 +1862,23 @@
 }
 
 @article{2021KochkovMachineLearningAccelerated,
-  title = {Machine Learning Accelerated Computational Fluid Dynamics},
+  ids = {kochkov2021machine},
+  title = {Machine Learning\textendash Accelerated Computational Fluid Dynamics},
   author = {Kochkov, Dmitrii and Smith, Jamie A. and Alieva, Ayya and Wang, Qing and Brenner, Michael P. and Hoyer, Stephan},
   year = {2021},
-  month = jan,
-  journal = {arXiv preprint arXiv:2102.01010},
+  month = may,
+  journal = {Proc Natl Acad Sci USA},
+  volume = {118},
+  number = {21},
   eprint = {2102.01010},
   eprinttype = {arxiv},
-  abstract = {Numerical simulation of fluids plays an essential role in modeling many physical phenomena, such as weather, climate, aerodynamics and plasma physics. Fluids are well described by the Navier-Stokes equations, but solving these equations at scale remains daunting, limited by the computational cost of resolving the smallest spatiotemporal features. This leads to unfavorable trade-offs between accuracy and tractability. Here we use end-to-end deep learning to improve approximations inside computational fluid dynamics for modeling two-dimensional turbulent flows. For both direct numerical simulation of turbulence and large eddy simulation, our results are as accurate as baseline solvers with 8-10x finer resolution in each spatial dimension, resulting in 40-80x fold computational speedups. Our method remains stable during long simulations, and generalizes to forcing functions and Reynolds numbers outside of the flows where it is trained, in contrast to black box machine learning approaches. Our approach exemplifies how scientific computing can leverage machine learning and hardware accelerators to improve simulations without sacrificing accuracy or generalization.},
+  primaryclass = {physics.flu-dyn},
+  pages = {e2101784118},
+  doi = {10.1073/pnas.2101784118},
+  abstract = {Accurate simulation of fluids is important for many science and engineering problems but is very computationally demanding. In contrast, machine-learning models can approximate physics very quickly but at the cost of accuracy. Here we show that using machine learning inside traditional fluid simulations can improve both accuracy and speed, even on examples very different from the training data. Our approach opens the door to applying machine learning to large-scale physical modeling tasks like airplane design and climate prediction.Numerical simulation of fluids plays an essential role in modeling many physical phenomena, such as weather, climate, aerodynamics, and plasma physics. Fluids are well described by the Navier\textendash Stokes equations, but solving these equations at scale remains daunting, limited by the computational cost of resolving the smallest spatiotemporal features. This leads to unfavorable trade-offs between accuracy and tractability. Here we use end-to-end deep learning to improve approximations inside computational fluid dynamics for modeling two-dimensional turbulent flows. For both direct numerical simulation of turbulence and large-eddy simulation, our results are as accurate as baseline solvers with 8 to 10\texttimes{} finer resolution in each spatial dimension, resulting in 40- to 80-fold computational speedups. Our method remains stable during long simulations and generalizes to forcing functions and Reynolds numbers outside of the flows where it is trained, in contrast to black-box machine-learning approaches. Our approach exemplifies how scientific computing can leverage machine learning and hardware accelerators to improve simulations without sacrificing accuracy or generalization.Source code for our models, including learned components, and training and evaluation datasets are available at GitHub (https://github.com/google/jax-cfd).},
   archiveprefix = {arXiv},
-  keywords = {cs.LG,physics.flu-dyn}
+  keywords = {cs.LG,physics.flu-dyn},
+  file = {/Users/herb/Zotero/storage/PTN2GSHP/2021Kochkov_et_al-Machine_learning–accelerated_computational_fluid_dynamics.pdf}
 }
 
 @article{2021KolmusSwiftskylocalization,

@@ -487,7 +487,7 @@ Some selected interesting works:
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (2011.11284)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (2012.08520)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (PNAS)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
-- **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (2102.01010)]** - Machine Learning Accelerated Computational Fluid Dynamics
+- **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (PANS)]** - Machine Learning Accelerated Computational Fluid Dynamics
   >[机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](https://mp.weixin.qq.com/s/QmlYIIcG7pjzLfLmFdDnDQ)
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: an efficient NN-based PDE solver
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (2106.00026)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
