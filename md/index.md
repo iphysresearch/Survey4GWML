@@ -208,7 +208,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Fan et al. (2019) [@fan2019applying] (SCI CHINA PHYS MECH)]** - Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors
     - **[Luo et al. (2019) [@luo2020extraction] (Front. Phys.)]** - Extraction of gravitational wave signals with optimized convolutional neural network
     - **[Lin et al. (2019) [@2019LinBinaryNeutronStars] (Front. Phys.)]** - Binary Neutron Stars Gravitational Wave Detection Based on Wavelet Packet Analysis and Convolutional Neural Networks
-    - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying extra high frequency gravitational waves generated from oscillons with cuspy potentials using deep neural networks
+    - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Rebei et al. (2019) [@Rebei2018lzh] (PRD)]** - Fusing numerical relativity and deep learning to detect higher-order multipole waveforms from eccentric binary black hole mergers
     - **[Krastev (2020) [@2020KrastevRealtimeDetection] (PLB)]** - Real-time Detection of Gravitational Waves from Binary Neutron Stars Using Artificial Neural Networks
     - **[Mytidis et al. (2019) [@2019MytidisSensitivityStudyUsing] (PRD)]** - Sensitivity Study Using Machine Learning Algorithms on Simulated $r$-mode Gravitational Wave Signals from Newborn Neutron Stars
@@ -234,7 +234,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wong et al. (2020) [@wong2020gravitationalwave] (2007.10350)]** - Gravitational-wave signal-to-noise interpolation via neural networks
     - **[Wei et al. (2021) [@2021WeiDeepLearningGravitational] (PLB)]** - Deep Learning for Gravitational Wave Forecasting of Neutron Star Mergers
     - **[Cabero et al. (2020) [@2020CaberoGwskynetRealtime] (ApJ)]** - GWSkyNet: A Real-time Classifier for Public Gravitational-wave Candidates
-    - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (2010.12093)]** - Identification of Lensed Gravitational Waves with Deep Learning
+    - **[Kim et al. (2020) [@2020KimIdentificationLensedGravitational] (ApJ)]** - Identification of Lensed Gravitational Waves with Deep Learning
     - **[Wei et al. (2021) [@2021WeiDeepLearningEnsemble] (PLB)]** - Deep Learning Ensemble for Real-time Gravitational Wave Detection of Spinning Binary Black Hole Mergers
     - **[Xia et al. (2020) [@2020XiaImprovedDeepLearning] (PRD)]** - Improved Deep Learning Techniques in Gravitational-wave Data Analysis
     - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
