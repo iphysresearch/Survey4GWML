@@ -442,7 +442,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * Real-time detection and characterization of binary black hole mergers + Classification and regression of galaxies across redshift in DES/LSST-type surveys => Hubble constant measurements with probabilistic neural network models **[Wei et al. (2020) [@Wei2019voi] (Mon. Not. Roy. Astron. Soc.)].** Star cluster classification has been predominantly done by human experts; We have designed neural network models that outperform, for the first time, human performance for star cluster classification; Worldwide collaboration of experts in deep learning, astronomy, software and data.
 * **[Alexander et al. (2020) [@Alexander2019puy] (ApJ)]** - Deep Learning the Morphology of Dark Matter Substructure
 * **[Gupta & Reichardt (2020) [@Gupta2020yvd] (2003.06135)]** - Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect
-* **[Sadr & Farsian (2020) [@Sadr2020rje] (2004.04177)]** - Inpainting via Generative Adversarial Networks for CMB data analysis
+* **[Sadr & Farsian (2020) [@Sadr2020rje] (JCAP)]** - Inpainting via Generative Adversarial Networks for CMB data analysis
 * **[Philip et al. (2002) [@Philip2002xe] (Astron. Astrophys.)]** - A difference boosting neural network for automated star-galaxy classification
 * **[Philip et al. (2012) [@Philip2012vr] (1211.3607)]** - Classification by Boosting Differences in Input Vectors: An application to datasets from Astronomy
 * **[Sadeh (2020) [@sadeh2020data] (ApJ)]** - Data-driven Detection of Multimessenger Transients
