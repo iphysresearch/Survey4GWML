@@ -476,7 +476,7 @@ Some selected interesting works:
 - **[Funai et al. (2018) [@2018FunaiThermodynamicsFeatureExtraction] (PRR)]** - Thermodynamics and Feature Extraction by Machine Learning
 - **[Breen et al. (2019) [@2019BreenNewtonVsMachine] (Mon. Not. Roy. Astron. Soc.)]** - Newton Vs the Machine: Solving the Chaotic Three-body Problem Using Deep Neural Networks | [深度学习求解「三体」问题，计算速度提高一亿倍](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495819&idx=3&sn=61d214da5c7d6e6b7dac1c4ba7b1b3b7&source=41#wechat_redirect) | [牛顿解决不了的问题，AI或许能搞定：用神经网络解决三体问题](https://mp.weixin.qq.com/s/zdj7Lcud51u0Grg3YWUUkg)
 - **[Greydanus et al. (2019) [@greydanus2019hamiltonian] (NeurIPS)]** - Hamiltonian Neural Networks
-- **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（1906.05301)]** - Learning Curves for Deep Neural Networks: A Gaussian Field Theory Perspective
+- **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（PRR)]** - Learning Curves for Overparametrized Deep Neural Networks: A Field Theory Perspective
 - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
 - **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of SNR of Pulsar Signals
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
