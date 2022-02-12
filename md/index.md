@@ -56,7 +56,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (Handbook of Gravitational Wave Astronomy)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
 - **[Agrawal et al. (2020) [@2020AgrawalMachineLearningBased] (Springer Singapore)]** - Machine Learning Based Analysis of Gravitational Waves
 - **[Huerta et al. (2021) [@2021HuertaAcceleratedScalableReproducible] (Nature Astronomy)]** - Accelerated, Scalable and Reproducible AI-driven Gravitational Wave Detection
-- **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in Ligo and Virgo’s Third Observing Campaign
+- **[Coughlin (2020) [@coughlin2020lessons] (Nature Astronomy)]** - Lessons from Counterpart Searches in LIGO and Virgo's Third Observing Campaign
 - **[Zdeborová (2020) [@zdeborova2020understanding] (Nature Physics)]** - Understanding Deep Learning Is Also a Job for Physicists
 - **[Cuoco et al. (2020) [@cuoco2020enhancing] (Mach. learn.: sci. technol.)]** - Enhancing Gravitational-wave Science with Machine Learning
 - **[Huerta et al. (2020) [@huerta2020convergence] (J. Big Data)]** - Convergence of Artificial Intelligence and High Performance Computing on NSF-supported Cyberinfrastructure
@@ -300,8 +300,8 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (Mon. Not. Roy. Astron. Soc.)]** - A Scalable Random Forest Regressor for Combining Neutron-Star Equation of State Measurements: A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
+    - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-Fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
-    - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (2011.05991)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
     - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
