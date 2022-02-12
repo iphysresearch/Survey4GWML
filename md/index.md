@@ -51,7 +51,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
 
-- **[Smith (2021) [@2021SmithOkComputer] (Nature Physics)]** - OK Computer
+- **[Smith (2021) [@2022SmithOKComputer] (Nature Physics)]** - OK Computer
 - **[Ntampaka et al. (2021) [@2021NtampakaBuildingTrustworthyMachine] (2111.14566)]** - Building Trustworthy Machine Learning Models for Astronomy
 - **[Huerta & Zhao (2021) [@2021HuertaAdvancesMachineDeep] (Handbook of Gravitational Wave Astronomy)]** - Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-messenger Sources
 - **[Agrawal et al. (2020) [@2020AgrawalMachineLearningBased] (Springer Singapore)]** - Machine Learning Based Analysis of Gravitational Waves
@@ -73,7 +73,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 # 3. Improving Data Quality
 
-Machine learning techniques have proved to be powerful tools in analyzing complex problems by learning from large example datasets. They have been applied in GW science from as early as **[Lightman et al. (2006) [@lightman2006prospects] (JPCS)]** to the study of glitches  **[Essick et al. (2013) [@essick2013optimizing] (CQG); Biswas et al. (2013) [@biswas2013application] (PRD)]** and other problems, such as signal characterization  **[Baker et al. (2015) [@baker2015multivariate] (PRD)]** . For example, Gstlal-iDQ **[Vaulin et al. (2013) [@2013RuslanVauliniDQRealTime]]** (a streaming machine learning pipeline based on **[Essick et al. (2013) [@essick2013optimizing] (CQG)]** and **[Biswas et al. (2013) [@biswas2013application] (PRD)]** reported the probability that there was a glitch in $h(t)$ based on the presence of glitches in witness sensors at the time of the event. In O2, iDQ was used to vet unmodeled low-latency pipeline triggers automatically. 
+Machine learning techniques have proved to be powerful tools in analyzing complex problems by learning from large example datasets. They have been applied in GW science from as early as **[Lightman et al. (2006) [@lightman2006prospects] (JPCS)]** to the study of glitches  **[Essick et al. (2013) [@2013EssickOptimizingvetoesgravitationalwave] (CQG); Biswas et al. (2013) [@biswas2013application] (PRD)]** and other problems, such as signal characterization  **[Baker et al. (2015) [@baker2015multivariate] (PRD)]** . For example, Gstlal-iDQ **[Vaulin et al. (2013) [@2013RuslanVauliniDQRealTime]]** (a streaming machine learning pipeline based on **[Essick et al. (2013) [@2013EssickOptimizingvetoesgravitationalwave] (CQG)]** and **[Biswas et al. (2013) [@biswas2013application] (PRD)]** reported the probability that there was a glitch in $h(t)$ based on the presence of glitches in witness sensors at the time of the event. In O2, iDQ was used to vet unmodeled low-latency pipeline triggers automatically. 
 
 
 ## Glitch Classification
@@ -170,7 +170,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Lee et al. (2021) [@2021LeeDeepLearningModel] (PRD)]** - Deep Learning Model on Gravitational Waveforms in Merging and Ringdown Phases of Binary Black Hole Coalescences
     - **[Liao & Lin (2021) [@2021LiaoDeepGenerativeModels] (PRD)]** - Deep Generative Models of Gravitational Waveforms via Conditional Autoencoder
     - **[Chua et al. (2021) [@2021ChuaRapidGenerationFully] (PRL)]** - Rapid Generation of Fully Relativistic Extreme-mass-ratio-inspiral Waveform Templates for LISA Data Analysis
-    - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (2102.12695)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
+    - **[Keith et al. (2021) [@2021KeithOrbitalDynamicsBinary] (PRR)]** - Orbital Dynamics of Binary Black Hole Systems Can Be Learned from Gravitational Wave Measurements
     - **[McGinn et al. (2021) [@2021McGinnGeneralisedgravitationalwave] (CQG)]** - Generalised Gravitational Burst Generation with Generative Adversarial Networks
     - **[Nousi et al. (2021) [@2021NousiAutoencoderdrivenSpiral] (2107.04312)]**
     - **[Barsotti et al. (2021) [@barsotti2021gravitational] (2110.08901)]** - Gravitational Wave Surrogates through Automated Machine Learning
@@ -448,7 +448,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - 实现的是对应观测数据集的宇宙学参数估计
 * **[Xu et al. (2020) [@2020XuGwopsVotechnology] (PASP)]** - GWOPS: A Vo-technology Driven Tool to Search for the Electromagnetic Counterpart of Gravitational Wave Event
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (A&A)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
-* **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
+* **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (PRD)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (PRD)]** - Interpreting Deep Learning Models for Weak Lensing
 * **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
 * **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
