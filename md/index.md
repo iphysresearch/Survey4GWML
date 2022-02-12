@@ -220,7 +220,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Marulanda et al. (2020) [@2020MarulandaDeeplearningGravitational] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
-    - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-wave signal recognition of LIGO data by deep learning
+    - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-Wave Signal Recognition of LIGO Data by Deep Learning
     - **[Kim et al. (2020) [@2020KimRankingCandidateSignals] (PRD)]** - Ranking Candidate Signals with Machine Learning in Low-latency Searches for Gravitational Waves from Compact Binary Mergers
     - **[Schäfer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
     - **[Schäfer et al. (2020) [@2020SchaeferDetectionGravitationalwave] (PRD)]** - Detection of Gravitational-wave Signals from Binary Neutron Star Mergers Using Machine Learning
