@@ -451,7 +451,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Xu et al. (2020) [@2020XuGwopsVotechnology] (PASP)]** - GWOPS: A Vo-technology Driven Tool to Search for the Electromagnetic Counterpart of Gravitational Wave Event
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (A&A)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (1911.08508)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
-* **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (2007.06529)]** - Interpreting Deep Learning Models for Weak Lensing
+* **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (PRD)]** - Interpreting Deep Learning Models for Weak Lensing
 * **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
 * **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
