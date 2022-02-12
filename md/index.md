@@ -307,10 +307,9 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Williams et al. (2021) [@2021WilliamsNestedSamplingNormalizing] (PRD)]** - Nested Sampling with Normalising Flows for Gravitational-wave Inference
     - **[D'Emilio et al. (2021) [@2021DEmilioDensityEstimationGaussian] (Mon. Not. Roy. Astron. Soc.)]** - Density Estimation with Gaussian Processes for Gravitational-wave Posteriors
     - **[Dax et al. (2021) [@2021DaxRealtimeGravitational] (PRL)]** - Real-time Gravitational-wave Science with Neural Posterior Estimation
-    - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (2103.08663)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
     - **[Kuo & Lin (2021) [@kuo2021conditional] (2107.10730)]** - Conditional Noise Deep Learning for Parameter Estimation of Gravitational Wave Events
     - **[Gunny et al. (2021) [@gunny2021hardwareaccelerated] (2108.12430)]** - Hardware-accelerated Inference for Real-time Gravitational-wave Astronomy
-    - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference
+    - **[Rozet & Louppe (2021) [@2021RozetArbitraryMarginalNeural] (2110.00449)]** - Arbitrary Marginal Neural Ratio Estimation for Simulation-based Inference就是
     - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
     - **[Kolmus et al. (2021) [@2021KolmusSwiftskylocalization] (2111.00833)]** - Swift Sky Localization of Gravitational Waves Using Deep Learning Seeded Importance Sampling
     - **[Dax et al. (2021) [@2021DaxGroupEquivariantNeural] (2111.13139)]** - Group Equivariant Neural Posterior Estimation
@@ -450,7 +449,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Milosevic et al. (2020) [@2020MilosevicBayesianDecompositionGalactic] (A&A)]** - Bayesian Decomposition of the Galactic Multi-frequency Sky Using Probabilistic Autoencoders
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (PRD)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (PRD)]** - Interpreting Deep Learning Models for Weak Lensing
-* **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (2101.01214)]** - Reconstructing Patchy Reionization with Deep Learning
+* **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (PRD))]** - Reconstructing Patchy Reionization with Deep Learning
 * **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
@@ -486,6 +485,7 @@ Some selected interesting works:
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (PNAS)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (PANS)]** - Machine Learning Accelerated Computational Fluid Dynamics
   >[机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](https://mp.weixin.qq.com/s/QmlYIIcG7pjzLfLmFdDnDQ)
+- **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (Mach. learn.: sci. technol.)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: an efficient NN-based PDE solver
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (PRE)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
 
