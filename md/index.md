@@ -467,6 +467,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Cañas-Herrera et al. (2021) [@2021CanasHerreraLearningHowSurf] (ApJ)]** - Learning How to Surf: Reconstructing the Propagation and Origin of Gravitational Waves with Gaussian Processes
 * **[Rouhiainen et al. (2021) [@2021RouhiainenNormalizingFlowsRandom] (2105.12024)]** - Normalizing Flows for Random Fields in Cosmology
 * **[Utina et al. (2021) [@2021UtinaDeepLearningSearches] (IEEE)]** - Deep Learning Searches for Gravitational Wave Stochastic Backgrounds
+* **[Mancarella et al. (2022) [@2022MancarellaSeekingNewPhysics] (PRD)]** - Seeking New Physics in Cosmology with Bayesian Neural Networks: Dark Energy and Modified Gravity
 
 # 8. Physics related
 

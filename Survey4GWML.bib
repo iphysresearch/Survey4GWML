@@ -3081,6 +3081,26 @@
   file = {/Users/herb/Zotero/storage/FNFPILVW/2022Khan_et_al-Interpretable_AI_forecasting_for_numerical_relativity_waveforms_of.pdf}
 }
 
+@article{2022MancarellaSeekingNewPhysics,
+  title = {Seeking New Physics in Cosmology with {{Bayesian}} Neural Networks: {{Dark}} Energy and Modified Gravity},
+  shorttitle = {Seeking {{New Physics}} in {{Cosmology}} with {{Bayesian Neural Networks}}},
+  author = {Mancarella, M. and Kennedy, J. and Bose, B. and Lombriser, L.},
+  year = {2022},
+  month = jan,
+  journal = {Phys. Rev. D},
+  volume = {105},
+  number = {2},
+  eprint = {2012.03992},
+  eprinttype = {arxiv},
+  pages = {023531},
+  doi = {10.1103/PhysRevD.105.023531},
+  abstract = {We study the potential of Bayesian Neural Networks (BNNs) to detect new physics in the dark matter power spectrum, concentrating here on evolving dark energy and modifications to General Relativity. After introducing a new technique to quantify classification uncertainty in BNNs, we train two BNNs on mock matter power spectra produced using the publicly available code \$\textbackslash tt\{ReACT\}\$ in the \$k\$-range \$\textbackslash left(0.01 - 2.5\textbackslash right) \textbackslash, h \textbackslash mathrm\{Mpc\}\^\{-1\} \$ and redshift bins \$\textbackslash left(0.1,0.478,0.783,1.5\textbackslash right)\$ with Euclid-like noise. The first network classifies spectra into five labels including \$\textbackslash Lambda\$CDM, \$f(R)\$, \$w\$CDM, Dvali-Gabadaze-Porrati (DGP) gravity and a "random" class whereas the second is trained to distinguish \$\textbackslash Lambda\$CDM from non-\$\textbackslash Lambda\$CDM. Both networks achieve a comparable training, validation and test accuracy of \$\textbackslash sim 95\textbackslash\%\$. Each network is also capable of detecting deviations from \$\textbackslash Lambda\$CDM that were not included in the training set, demonstrated with spectra generated using the growth-index \$\textbackslash gamma\$. We then quantify the constraining power of each network by computing the smallest deviation from \$\textbackslash Lambda\$CDM such that the noise-averaged non-\$\textbackslash Lambda\$CDM classification probability is at least \$2\textbackslash sigma\$, finding these bounds to be \$f\_\{R0\} \textbackslash lesssim 10\^\{-7\}\$, \$\textbackslash Omega\_\{rc\} \textbackslash lesssim 10\^\{-2\} \$, \$-1.05 \textbackslash lesssim w\_0 \textbackslash lesssim 0.95 \$, \$-0.2 \textbackslash lesssim w\_a \textbackslash lesssim 0.2 \$, \$0.52 \textbackslash lesssim \textbackslash gamma \textbackslash lesssim 0.59 \$. The bounds on \$f(R)\$ can be improved by training a specialist network to distinguish solely between \$\textbackslash Lambda\$CDM and \$f(R)\$ power spectra which can detect a non-zero \$f\_\{R0\}\$ at \$\textbackslash mathcal\{O\}\textbackslash left(10\^\{-8\}\textbackslash right)\$ with a confidence \${$>$}2\textbackslash sigma\$. We expect that further developments, such as the inclusion of smaller length scales or additional extensions to \$\textbackslash Lambda\$CDM, will only improve the potential of BNNs to detect new physics using cosmological datasets.},
+  archiveprefix = {arXiv},
+  keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
+  note = {Comment: 19+9 pages, 16 figures, code available at https://github.com/Mik3M4n/BaCoN, data available at https://doi.org/10.5281/zenodo.4309918. v2: matches version accepted for publication in PRD. v3: title matches published version},
+  file = {/Users/herb/Zotero/storage/LCMUJM8R/2022Mancarella_et_al-Seeking_new_physics_in_cosmology_with_Bayesian_neural_networks.pdf}
+}
+
 @article{2022McLeodRapidMassParameter,
   title = {Rapid {{Mass Parameter Estimation}} of {{Binary Black Hole Coalescences Using Deep Learning}}},
   author = {McLeod, Alistair and Jacobs, Daniel and Chatterjee, Chayan and Wen, Linqing and Panther, Fiona},
@@ -3140,6 +3160,21 @@
   pages = {53--63},
   doi = {10.26599/BDMA.2021.9020018},
   file = {/Users/herb/Zotero/storage/PX3EJ7DS/2022Wang_et_al-Sampling_with_prior_knowledge_for_high-dimensional_gravitational_wave_data.pdf}
+}
+
+@article{2022WhittakerUsingmachinelearning,
+  title = {Using Machine Learning to Parametrize Postmerger Signals from Binary Neutron Stars},
+  author = {Whittaker, Tim and East, William E. and Green, Stephen R. and Lehner, Luis and Yang, Huan},
+  year = {2022},
+  month = jan,
+  journal = {arXiv:2201.06461 [astro-ph, physics:gr-qc, stat]},
+  eprint = {2201.06461},
+  eprinttype = {arxiv},
+  primaryclass = {astro-ph, physics:gr-qc, stat},
+  abstract = {There is growing interest in the detection and characterization of gravitational waves from postmerger oscillations of binary neutron stars. These signals contain information about the nature of the remnant and the high-density and out-of-equilibrium physics of the postmerger processes, which would complement any electromagnetic signal. However, the construction of binary neutron star postmerger waveforms is much more complicated than for binary black holes: (i) there are theoretical uncertainties in the neutron-star equation of state and other aspects of the high-density physics, (ii) numerical simulations are expensive and available ones only cover a small fraction of the parameter space with limited numerical accuracy, and (iii) it is unclear how to parametrize the theoretical uncertainties and interpolate across parameter space. In this work, we describe the use of a machine-learning method called a conditional variational autoencoder (CVAE) to construct postmerger models for hyper/massive neutron star remnant signals based on numerical-relativity simulations. The CVAE provides a probabilistic model, which encodes uncertainties in the training data within a set of latent parameters. We estimate that training such a model will ultimately require \$\textbackslash sim 10\^4\$ waveforms. However, using synthetic training waveforms as a proof-of-principle, we show that the CVAE can be used as an accurate generative model and that it encodes the equation of state in a useful latent representation.},
+  archiveprefix = {arXiv},
+  keywords = {Astrophysics - High Energy Astrophysical Phenomena,Computer Science - Machine Learning,General Relativity and Quantum Cosmology,Statistics - Machine Learning},
+  file = {/Users/herb/Zotero/storage/RKJ55K5V/2022Whittaker_et_al-Using_machine_learning_to_parametrize_postmerger_signals_from_binary_neutron.pdf;/Users/herb/Zotero/storage/G8USRIFR/2201.html}
 }
 
 @article{abbott2019binary,
