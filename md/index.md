@@ -119,7 +119,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Bahaadini et al. (2018) [@bahaadini2018direct] (IEEE)]** - DIRECT: Deep Discriminative Embedding for Clustering of LIGO Data
      * Young-Min Kim - Noise Identification in Gravitational wave search using Artificial Neural Networks ([PDF](https://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0017/G1301718/003/KJ-KAGRA_20130610_YMKIM.pdf))  (4th K-J workshop on KAGRA @ Osaka Univ.)
      * **[Biswas et al. (2020) [@biswas2020new] (CQG)]** - New Methods to Assess and Improve LIGO Detector Duty Cycle
-     * **[Morales-Alvarez et al. (2020) [@2020MoralesAlvarezScalableVariationalGaussian] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
+     * **[Morales-Alvarez et al. (2020) [@moralesálvarez2019scalable] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
      * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
      * **[Mesuga & Bayanay (2021) [@2021MesugaEfficiencyVariousDeep] (2107.01863)]** - On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-wave Data
      * **[Sankarapandian & Kulis (2021) [@2021Sankarapandian$β$annealedVariational] (2107.10667)]** - $β$-Annealed Variational Autoencoder for Glitches
@@ -144,7 +144,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Essick et al. (2020) [@2020EssickiDQStatisticalInference] (Mach. learn.: sci. technol.)]** - iDQ: Statistical Inference of Non-gaussian Noise with Auxiliary Degrees of Freedom in Gravitational-wave Detectors
     - **[Mogushi et al. (2021) [@2021MogushiNNETFIXartificialneural] (Mach. learn.: sci. technol.)]** - NNETFIX: an artificial neural network-based denoising engine for gravitational-wave signals
     - **[Chatterjee et al. (2021) [@2021ChatterjeeExtractionBinaryBlack] (PRD)]** - Extraction of Binary Black Hole Gravitational Wave Signals from Detector Data Using Deep Learning
-    - **[Mogushi (2021) [@2021MogushiReductionTransientNoise] (2105.10522)]** - Reduction of Transient Noise Artifacts in Gravitational-wave Data Using Deep Learning
+    - **[Mogushi (2021) [@mogushi2021reduction] (2105.10522)]** - Reduction of Transient Noise Artifacts in Gravitational-wave Data Using Deep Learning
 
 
 ---
@@ -213,7 +213,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Gebhard et al. (2019) [@2019GebhardConvolutionalNeuralNetworks] (PRD)]** - Convolutional Neural Networks: A Magic Bullet for Gravitational-wave Detection?
     - **[Bresten & Jung (2019) [@2019BrestenDetectionGravitationalWaves] (1910.08245)]** - Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network: An Improved Approach
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
-    - **[Corizzo et al. (2020) [@corizzo2020scalable] (Expert Syst. Appl.)]** - Scalable auto-encoders for gravitational waves detection from time series data
+    - **[Corizzo et al. (2020) [@2020CorizzoScalableautoencodersgravitational] (Expert Syst. Appl.)]** - Scalable Auto-Encoders for Gravitational Waves Detection from Time Series Data
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
     - **[Marulanda et al. (2020) [@2020MarulandaDeeplearningGravitational] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-Wave Signal Recognition of LIGO Data by Deep Learning
@@ -367,7 +367,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (PRD)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
 - **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-Wave Data Analysis with General Purpose Computing on Graphic Processing Units
 - **[Melatos et al. (2021) [@2021MelatosHiddenMarkovModel] (PRD)]** - Hidden Markov Model Tracking of Continuous Gravitational Waves from a Neutron Star with Wandering Spin. III. Rotational Phase Tracking
-- **[Songsheng et al. (2021) [@2021SongshengSearchContinuousGravitational] (2109.00367)]** - Search for Continuous Gravitational Wave Signals in Pulsar Timing Residuals: A New Scalable Approach with Diffusive Nested Sampling
+- **[Songsheng et al. (2021) [@2021SongshengSearchContinuousGravitational] (ApJ)]** - Search for Continuous Gravitational Wave Signals in Pulsar Timing Residuals: A New Scalable Approach with Diffusive Nested Sampling
 
 
 ---
@@ -450,7 +450,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Hortua et al. (2019) [@2019HortuaParametersEstimationCosmic] (PRD)]** - Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks
 * **[Matilla et al. (2020) [@2020MatillaInterpretingDeepLearning] (PRD)]** - Interpreting Deep Learning Models for Weak Lensing
 * **[Guzman & Meyers (2021) [@2021GuzmanReconstructingPatchyReionization] (PRD))]** - Reconstructing Patchy Reionization with Deep Learning
-* **[Boilla et al. (2021) [@2021BonillaReconstructionDarkSectors] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
+* **[Boilla et al. (2021) [@bonilla2021reconstruction] (2102.06149)]** - Reconstruction of the Dark Sectors' Interaction: A Model-independent Inference and Forecast from GW Standard Sirens
 * **[Ren et al. (2021) [@2021RenDatadrivenReconstruction] (2103.01260)]** - Data-driven Reconstruction of the Late-time Cosmic Acceleration with F(t) Gravity
 * **[Yang (2021) [@2021YangGravitationalwaveDetector] (2103.01923)]** - Gravitational-wave Detector Networks: Standard Sirens on Cosmology and Modified Gravity Theory
 * **[Han et al. (2021) [@2021HanBayesianNonparametricInference] (ApJ)]** - Bayesian Nonparametric Inference of Neutron Star Equation of State Via Neural Network
