@@ -300,7 +300,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-Fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
-    - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (2011.05991)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
+    - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (NeurIPS)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
     - **[Alvares et al. (2020) [@2021AlvaresExploringGravitationalwave] (CQG)]** - Exploring Gravitational-wave Detection and Parameter Inference Using Deep Learning Methods
     - **[Wang et al. (2019) [@2019WangIdentifyingExtraHigh] (New J. Phys.)]** - Identifying Extra High Frequency Gravitational Waves Generated from Oscillons with Cuspy Potentials Using Deep Neural Networks
     - **[Bhagwat & Pacilio (2021) [@2021BhagwatMergerringdownConsistency] (PRD)]** - Merger-Ringdown Consistency: A New Test of Strong Gravity Using Deep Learning
