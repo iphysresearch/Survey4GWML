@@ -60,9 +60,9 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - **[Zdeborová (2020) [@zdeborova2020understanding] (Nature Physics)]** - Understanding Deep Learning Is Also a Job for Physicists
 - **[Cuoco et al. (2020) [@cuoco2020enhancing] (Mach. learn.: sci. technol.)]** - Enhancing Gravitational-wave Science with Machine Learning
 - **[Huerta et al. (2020) [@huerta2020convergence] (J. Big Data)]** - Convergence of Artificial Intelligence and High Performance Computing on NSF-supported Cyberinfrastructure
-- **[Fluke et al. (2020) [@fluke2020surveying] (WIRDMKD)]** - Surveying the reach and maturity of machine learning and artificial intelligence in astronomy
+- **[Fluke et al. (2020) [@2020FlukeSurveyingreachmaturity] (WIRDMKD)]** - Surveying the reach and maturity of machine learning and artificial intelligence in astronomy
 - [Viewpoint: Machine Learning Tackles Spacetime](https://physics.aps.org/articles/v13/40) By [Enrico Rinaldi](https://physics.aps.org/authors/enrico_rinaldi)  March 23, 2020 - Physics 13, 40
-- **[Huerta et al. (2019) [@huerta2019supporting] (CSBS)]** - Supporting High-Performance and High-Throughput Computing for Experimental Science
+- **[Huerta et al. (2019) [@2019HuertaSupportingHighPerformanceHighThroughput] (CSBS)]** - Supporting High-Performance and High-Throughput Computing for Experimental Science
 -  **[Huerta et al. (2019) [@huerta2019enabling] (Nature Reviews Physics)]** - Enabling Real-Time Multi-Messenger Astrophysics Discoveries with Deep Learning
 - **[Allen et al. (2019) [@allen2019deep] (1902.00522)]** - Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era
 - **[Eadie et al. (2019) [@eadie2019realizing] (1909.11714)]** - Realizing the Potential of Astrostatistics and Astroinformatics
@@ -278,7 +278,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * Machine Learning Parameter Estimation
 
     * **The current “holy grail” of machine learning for GWs.**
-    * BAMBI: blind accelerated multimodal Bayesian inference combines the benefits of nested sampling and artificial neural networks. **[Graff et al. (2012) [@graff2012bambi] (Mon. Not. Roy. Astron. Soc.)]** An artificial neural network learns the likelihood function to increase significantly the speed of the analysis. @2015Veitch-Parameterestimationcompact
+    * BAMBI: blind accelerated multimodal Bayesian inference combines the benefits of nested sampling and artificial neural networks. **[Graff et al. (2012) [@graff2012bambi] (Mon. Not. Roy. Astron. Soc.)]** An artificial neural network learns the likelihood function to increase significantly the speed of the analysis. **[Graff (2012) [@graff2012bayesian] (PhD Thesis)]**
     * Chua et al. **[Chua & Vallisneri (2020) [@chua2020learning] (PRL)]** produce Bayesian posteriors using neural networks.
     * Gabbard et al. **[Gabbard et al. (2019) [@2021GabbardBayesianParameterEstimation] (Nature Physics)]** use a conditional variational autoencoder pre-trained on binary black hole signals. We use a variation inference approach to produce samples from the posterior. It does NOT need to be trained on precomputed posteriors. It is ~6 orders of magnitude faster than existing sampling techniques. For Chris Messenger, it seems completely obvious that all data analysis will be ML in 5-10 years.
     - **[Chatterjee et al. (2020) [@chatterjee2020machine] (ApJ)]** - A Machine Learning-based Source Property Inference for Compact Binary Mergers
@@ -295,9 +295,9 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Nakano et al. (2019) [@2019NakanoComparisonVariousMethods] (PRD)]** - Comparison of Various Methods to Extract Ringdown Frequency from Gravitational Wave Data
     - **[Engels et al. (2014) [@engels2014multivariate] (PRD)]** - Multivariate regression analysis of gravitational waves from rotating core collapse
     - **[Green & Gair (2021) [@2021GreenCompleteParameterInference] (Mach. learn.: sci. technol.)]** - Complete Parameter Inference for GW150914 Using Deep Learning
-    - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
     - **[Vivanco et al. (2020) [@2020VivancoScalableRandomForest] (Mon. Not. Roy. Astron. Soc.)]** - A Scalable Random Forest Regressor for Combining Neutron-Star Equation of State Measurements: A Case Study with GW170817 and GW190425
     - **[Delaunoy (2020) [@2020DelaunoyMastersThesis] (Master Thesis)]** - Lightning Gravitational Wave Parameter Inference through Neural Amortization
+    - **[Pacilio (2019) [@pacilio2019multioutput] (Master Thesis)]** - Multioutput Regression of Noisy Time Series Using Convolutional Neural Networks with Applications to Gravitational Waves
     - **[Delaunoy et al. (2020) [@2020DelaunoyLightningfastGravitational] (2010.12931)]** - Lightning-Fast Gravitational Wave Parameter Inference through Neural Amortization
     - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep Learning Merger Masses Estimation from Gravitational Waves Signals in the Frequency Domain
     - **[Jeffrey & Wandelt (2020) [@2020JeffreySolvingHighdimensional] (NeurIPS)]** - Solving High-dimensional Parameter Inference: Marginal Posterior Densities & Moment Networks
@@ -327,7 +327,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong & Gerosa (2019) [@wong2019machine] (PRD)]** - Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: A case study
 * **[Wong et al. (2020) [@wong2020gravitational] (PRD)]** - Gravitational-wave population inference with deep flow-based generative network
 * **[Fasano et al. (2020) [@fasano2020distinguishing] (PRD)]** - Distinguishing Double Neutron Star from Neutron Star-black Hole Binary Populations with Gravitational Wave Observations
-* **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (2006.15047)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
+* **[Tiwari (2020) [@2020TiwariVamanaModelingBinary] (CQG)]** - VAMANA: Modeling Binary Black Hole Population with Minimal Assumptions
 * **[Vernardos et al. (2020) [@2020VernardosQuantifyingStructureStrong] (Mon. Not. Roy. Astron. Soc.)]** - Quantifying the Structure of Strong Gravitational Lens Potentials with Uncertainty-aware Deep Neural Networks
 * **[Wong et al. (2020) [@2020WongConstrainingPrimordialBlack] (PRD)]** - Constraining the Primordial Black Hole Scenario with Bayesian Inference and Machine Learning: The GWTC-2 Gravitational Wave Catalog
 * **[Arjona et al. (2021) [@2021ArjonaMachineLearningForecasts] (PRD)]** - Machine Learning Forecasts of the Cosmic Distance Duality Relation with Strongly Lensed Gravitational Wave Events
@@ -362,7 +362,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Abbott et al. (2019) [@ligo2020search] (PRD)]** - Search for Gravitational Waves from Scorpius X-1 in the Second Advanced LIGO Observing Run with an Improved Hidden Markov Model
 - **[C. Dreißigacker (2020) [@2020DreissigackerSearchesContinuousGravitational] (PhD Thesis)]** - Searches for Continuous Gravitational Waves : Sensitivity Estimation and Deep Learning As a Novel Search Method
 - **[Morawski et al. (2020) [@2020MorawskiMachineLearningClassification] (Proceedings)]** - achine Learning Classification of Continuous Gravitational-wave Signal Candidates
-- **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (2011.12522)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
+- **[Yamamoto & Tanaka (2020) [@2020YamamotoUseExcessPower] (PRD)]** - Use of Excess Power Method and Convolutional Neural Network in All-sky Search for Continuous Gravitational Waves
 - **[Behechtipour & Papa [@2021BeheshtipourDeepLearningClustering] (PRD)]** - Deep Learning for Clustering of Continuous Gravitational Wave Candidates II: Identification of low-SNR Candidates
 - **[Beniwal et al. (2021) [@2021BeniwalSearchContinuousGravitational] (PRD)]** - Search for Continuous Gravitational Waves from Ten H.E.S.S. Sources Using a Hidden Markov Model
 - **[La Rosa et al. (2021) [@2021LaRosaContinuousGravitationalwave] (Universe)]** - Continuous Gravitational-Wave Data Analysis with General Purpose Computing on Graphic Processing Units
@@ -415,7 +415,6 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Rover et al. (2009) [@rover2009bayesian] (PRD)]** - Bayesian reconstruction of gravitational wave burst signals from simulations of rotating stellar core collapse and bounce
     - **[Kovačević et al. (2019) [#Kovacevic2019wpy] (Mon. Not. Roy. Astron. Soc.)]** - Optimizing neural network techniques in classifying Fermi-LAT gamma-ray sources
     - **[Kim et al. (2015) [@2015KimApplicationartificialneural] (CQG)]** - Application of Artificial Neural Network to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
-    - **[Oh et al. (2015) [@oh2014application] (J KOREAN ASTRON SOC)]** - Application of Artificial Neural Networks to Search for Gravitational-Wave Signals Associated with Short Gamma-Ray Bursts
     - **[Gayathri et al. (2020) [@2020GayathriEnhancingsensitivitytransient] (PRD)]** - Enhancing the Sensitivity of Transient Gravitational Wave Searches with Gaussian Mixture Models
     - **[L\'opez et al. (2021) [@2021LopezDeepLearningCore] (PRD)]** - Deep Learning for Core-collapse Supernova Detection
     - **[Skliris et al. (2020) [@2020SklirisRealtimeDetection] (2009.14611)]** - Real-time Detection of Unmodeled Gravitational-wave Transients Using Convolutional Neural Networks
@@ -459,7 +458,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Elizalde et al. (2021) [@2021ElizaldeApproachColdDark] (2104.01077)]** - An Approach to Cold Dark Matter Deviation and the $H_{0}$ Tension Problem by Using Machine Learning
 * **[Gómez-Vargas et al. (2021) [@2021GomezVargasCosmologicalReconstructionsArtificial] (2104.00595)]** - Cosmological Reconstructions with Artificial Neural Networks
 * **[Tilaver et al. (2021) [@2021TilaverDeepLearningApproach] (Comput. Phys. Commun)]** - Deep Learning Approach to Hubble Parameter
-* **[Gerardi et al. (2021) [@2021GerardiUnbiasedLikelihoodfree] (2104.02728)]** - Unbiased Likelihood-free Inference of the Hubble Constant from Light Standard Sirens
+* **[Gerardi et al. (2021) [@2021GerardiUnbiasedLikelihoodfree] (PRD)]** - Unbiased Likelihood-free Inference of the Hubble Constant from Light Standard Sirens
 * **[Velasquez-Toribio et al. (2021) [@2021VelasquezToribioConstraintsCosmographicFunctions] (2104.07356)]** - Constraints on Cosmographic Functions Using Gaussian Processes
 * **[Cañas-Herrera et al. (2021) [@2021CanasHerreraLearningHowSurf] (ApJ)]** - Learning How to Surf: Reconstructing the Propagation and Origin of Gravitational Waves with Gaussian Processes
 * **[Rouhiainen et al. (2021) [@2021RouhiainenNormalizingFlowsRandom] (2105.12024)]** - Normalizing Flows for Random Fields in Cosmology
@@ -474,13 +473,13 @@ Some selected interesting works:
 - **[Greydanus et al. (2019) [@greydanus2019hamiltonian] (NeurIPS)]** - Hamiltonian Neural Networks
 - **[Cohen et al. (2019) [@2019CohenLearningCurvesDeep]（PRR)]** - Learning Curves for Overparametrized Deep Neural Networks: A Field Theory Perspective
 - **[Rosofsky & Huerta (2020) [@Rosofsky2020zsl] (PRD)]** - Artificial Neural Network Subgrid Models of 2D Compressible Magnetohydrodynamic Turbulence
-- **[Singh & Pathak (2020) [@2020SinghMachineLearningbased] (2011.14388)]** - A Machine Learning-based Approach Towards the Improvement of SNR of Pulsar Signals
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
 - **[Liu & Tegmark (2021) [@2020LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (ApJ)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
+- **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
 - **[Rousseau et al. (2020) [@2020RousseauMachineLearningScientific] (AIHEP)]** - Machine Learning Scientific Competitions and Datasets
 - **[Cranmer et al. (2021) [@2021CranmerBayesianNeuralNetwork] (PNAS)]** - A Bayesian Neural Network Predicts the Dissolution of Compact Planetary Systems
 - **[Kochkov et al. (2021) [@2021KochkovMachineLearningAccelerated] (PANS)]** - Machine Learning Accelerated Computational Fluid Dynamics
