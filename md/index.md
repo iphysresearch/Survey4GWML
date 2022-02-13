@@ -122,7 +122,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Morales-Alvarez et al. (2020) [@moralesálvarez2019scalable] (IEEE)]** - Scalable Variational Gaussian Processes for Crowdsourcing: Glitch Detection in LIGO
      * **[Marianer et al. (2020) [@2020MarianerSemisupervisedMachineLearning] (Mon. Not. Roy. Astron. Soc.)]** - A Semisupervised Machine Learning Search for Never-seen Gravitational-wave Sources
      * **[Mesuga & Bayanay (2021) [@2021MesugaEfficiencyVariousDeep] (2107.01863)]** - On the Efficiency of Various Deep Transfer Learning Models in Glitch Waveform Detection in Gravitational-wave Data
-     * **[Sankarapandian & Kulis (2021) [@2021Sankarapandian$β$annealedVariational] (2107.10667)]** - $β$-Annealed Variational Autoencoder for Glitches
+     * **[Sankarapandian & Kulis (2021) [@2021SankarapandianβannealedVariational] (2107.10667)]** - $β$-Annealed Variational Autoencoder for Glitches
      * **[Yu & Adhikari (2021) [@yu2021nonlinear] (2111.03295)]** - Nonlinear Noise Regression in Gravitational-Wave Detectors with Convolutional Neural Networks
 
 
@@ -137,7 +137,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Torres-Forné (2018) [@torres2018total] (PRD)]** - Total-variation methods for gravitational-wave denoising: Performance tests on Advanced LIGO data
     - **[Torres-Forné (2020) [@torres2020application] (PRD)]** - Application of dictionary learning to denoise LIGO's blip noise transients
     - **[Shen et al. (2019) [@Shen2019ohi] (IEEE)]** - Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
-    - **[Wei & Huerta (2020) [@WEI2020135081] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
+    - **[Wei & Huerta (2020) [@2020WeiGravitationalwavedenoising] (PLB)]** - Gravitational wave denoising of binary black hole mergers with deep learning
     - **[Vajente et al. (2020) [@Vajente2019ycy] (PRD)]** - Machine-learning nonstationary noise out of gravitational-wave detectors
     - **[Alimohammadi et al. (2021) [@2021Akhshitemplatefreeapproachwaveform] (Scientific Reports)]** - A Template-Free Approach for Waveform Extraction of Gravitational Wave Events
     - **[Ormiston et al. (2020) [@ormiston2020noise] (PRR)]** - Noise Reduction in Gravitational-Wave Data via Deep Learning
@@ -161,7 +161,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
 - Pending:
     - **[Chua (2017) [@Chua2017xyi] (PhD Thesis)]** - Topics in gravitational-wave astronomy: Theoretical studies, source modelling and statistical methods
     - **[Chua et al. (2019) [@Chua2018woh] (PRL)]** - Reduced-oruder modeling with artificial neurons for gravitational-wave inference
-    - **[Setyawati et al. (2020) [@Setyawati2019xzw] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
+    - **[Setyawati et al. (2020) [@2020SetyawatiRegressionmethodswaveform] (CQG)]** - Regression Methods in Waveform Modeling: A Comparative Study
     - **[Tiglio & Villanueva (2019) [@2021TiglioAbInitiobased] (Scientific Reports)]** - On Ab Initio-based, Free and Closed-form Expressions for Gravitational Waves
     - **[Schmidt (2019) [@2019SchmidtGWModelling] (Masters Thesis)]** - Gravitational Wave Modelling with Machine Lerning
     - **[Chen et al. (2020) [@Chen2020lzc] (2008.03313)]** - Observation of Eccentric Binary Black Hole Mergers with Second and Third Generation Gravitational Wave Detector Networks
@@ -215,7 +215,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Santos et al. (2020) [@santos2020gravitational] (2003.09995)]** - Gravitational Wave Detection and Information Extraction via Neural Networks
     - **[Corizzo et al. (2020) [@2020CorizzoScalableautoencodersgravitational] (Expert Syst. Appl.)]** - Scalable Auto-Encoders for Gravitational Waves Detection from Time Series Data
     - **[Chen et al. (2020) [@2020ChenMachineLearningNanohertz] (Sci. China Phys. Mech. Astron.)]** - Machine Learning for Nanohertz Gravitational Wave Detection and Parameter Estimation with Pulsar Timing Array
-    - **[Marulanda et al. (2020) [@2020MarulandaDeeplearningGravitational] (2004.01050)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
+    - **[Marulanda et al. (2020) [@2020MarulandaDeepLearningMerger] (PLB)]** - Deep learning Gravitational Wave Detection in the Frequency Domain
     - **[Wang et al. (2020) [@wang2020gravitational] (PRD)]** - Gravitational-Wave Signal Recognition of LIGO Data by Deep Learning
     - **[Kim et al. (2020) [@2020KimRankingCandidateSignals] (PRD)]** - Ranking Candidate Signals with Machine Learning in Low-latency Searches for Gravitational Waves from Compact Binary Mergers
     - **[Schäfer (2019) [@schafer2019analysis] (Masters Thesis)]** - Analysis of Gravitational-Wave Signals from Binary Neutron Star Mergers Using Machine Learning
@@ -257,8 +257,8 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Schäfer et al. (2021) [@2021SchaeferOneManyDeep] (PRD)]** - From One to Many: A Deep Learning Coincident Gravitational-Wave Search
     - **[Verma et al. (2021) [@2021VermaEmployingDeepLearning] (2110.01883)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
-    - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitational] (2110.09833)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
-    - **[Abbott et al. (2021) [@2021AbbottGwskynetmultiMachine] (2111.04015)]** - GWSkyNet-Multi: A Machine Learning Multi-class Classifier for LIGO-Virgo Public Alerts
+    - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitationa] (Universe)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
+    - **[Abbott et al. (2021) [@abbott2021gwskynetmulti] (2111.04015)]** - GWSkyNet-Multi: A Machine Learning Multi-class Classifier for LIGO-Virgo Public Alerts
     - **[Ding et al. (2021) [@2021DingUnimapModelfree] (2111.09465)]** - UniMAP: Model-free Detection of Unclassified Noise Transients in LIGO-Virgo Data Using the Temporal Outlier Factor
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Ruan et al. (2021) [@2021RuanRapidSearchMassive] (2111.14546)]** - Rapid Search for Massive Black Hole Binary Coalescences Using Deep Learning
@@ -382,7 +382,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     cWB relies upon the excess coherent power in a network of detectors. The data is transformed into time-frequency domain and the clusters of time-frequency pixels above certain energy threshold are identified for each detector. Time frequency map of the single detectors is then combined using the maximisation of the likelihood over all possible sky locations and the events are then ranked according to this likelihood. We can also inform our un-modelled search about the morphology of the expected signal. cWB produces reconstructions of gravitational wave signals. It can detect CBC signals as well as bursts. 
     - **[Drago et al. (2020) [@Drago2020kic] (2006.12604)]** - Coherent Waveburst, a Pipeline for Unmodeled Gravitational-wave Data Analysis
     - **[Mishra et al. (2021) [@2021MishraOptimizationModelIndependent] (PRD)]** - Optimization of Model Independent Gravitational Wave Search Using Machine Learning
-    - **[Mishra et al. (2022) [@2022MishraSearchBinaryBlack] (2201.01495)]** - Search for Binary Black Hole Mergers in the Third Observing Run of Advanced LIGO-Virgo Using Coherent Waveburst Enhanced with Machine Learning
+    - **[Mishra et al. (2022) [@mishra2022search] (2201.01495)]** - Search for Binary Black Hole Mergers in the Third Observing Run of Advanced LIGO-Virgo Using Coherent Waveburst Enhanced with Machine Learning
 >
 
 * BayesWave
@@ -476,7 +476,7 @@ Some selected interesting works:
 - **[Tamayo et al. (2020) [@tamayo2020predicting] (PNAS)]** - Predicting the Long-term Stability of Compact Multiplanet Systems
   > Sagan学者[Dan Tamayo](https://twitter.com/astrodantamayo/status/1282866485531222022?s=20)介绍了他们在PNAS上发表的一篇利用机器学习技术预测多行星系统的动力学稳定性。(Informative [comments](http://weibointl.api.weibo.com/share/159645756.html?weibo_id=4526731371732253) from 光头怪博士)
 - **[Green & Ting (2020) [@2020GreenDeepPotentialRecovering] (2011.04673)]** - Deep Potential: Recovering the Gravitational Potential from a Snapshot of Phase Space
-- **[Liu & Tegmark (2021) [@2020LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
+- **[Liu & Tegmark (2021) [@2021LiuAiPoincareMachine] (PRL)]** - Machine Learning Conservation Laws from Trajectories
 - **[Lucie-Smith et al. (2020) [@2020LucieSmithDeepLearningInsights] (2011.10577)]** - Deep Learning Insights into Cosmological Structure Formation
 - **[Yip et al. (2020) [@2020YipPeekingBlackBox] (ApJ)]** - Peeking inside the Black Box: Interpreting Deep Learning Models for Exoplanet Atmospheric Retrievals
 - **[Glüsenkamp (2020)[@Glusenkamp2020gtr] (2008.05825)]** - Unifying Supervised Learning and VAEs -- Automating Statistical Inference in High-energy Physics
