@@ -136,6 +136,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
 - Pending:
     - **[Cuoco et al. (2001) [@cuoco2001line] (CQG)]** - On-line power spectra identification and whitening for the noise in interferometric gravitational wave detectors
     - **[Torres-Forné (2016) [@torres2016denoising] (PRD)]** - Denoising of Gravitational Wave Signals Via Dictionary Learning Algorithms
+    - **[Torres et al. (2014) [@2014TorresTotalvariationbasedmethodsgravitational] (PRD)]** - Total-Variation-Based Methods for Gravitational Wave Denoising
     - **[Torres-Forné (2018) [@torres2018total] (PRD)]** - Total-variation methods for gravitational-wave denoising: Performance tests on Advanced LIGO data
     - **[Torres-Forné (2020) [@torres2020application] (PRD)]** - Application of dictionary learning to denoise LIGO's blip noise transients
     - **[Shen et al. (2019) [@Shen2019ohi] (IEEE)]** - Denoising Gravitational Waves with Enhanced Deep Recurrent Denoising Auto-encoders
