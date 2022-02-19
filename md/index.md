@@ -270,6 +270,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Dahal (2022) [@2022DahalApplicationCommonSpatial] (2201.04086)]** - Application of Common Spatial Patterns in Gravitational Waves Detection
     - **[Chaurvedi et al. (2022) [@chaturvedi2022inferenceoptimized] (2201.11133)]** - Inference-Optimized AI and High Performance Computing for Gravitational Wave Detection at Scale
     - **[Zhang et al. (2022) [@2022ZhangDetectingGravitationalwavesExtreme] (2202.07158)]** - Detecting Gravitational-waves from Extreme Mass Ratio Inspirals Using Convolutional Neural Networks
+    - **[Safarzadeh et al. (2022) [@2022SafarzadehInterpretingMachineLearning] (2202.07399)]** - Interpreting a Machine Learning Model for Detecting Gravitational Waves
 
 ## Parameter Estimation (PE)
 
