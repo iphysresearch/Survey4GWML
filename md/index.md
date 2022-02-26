@@ -179,6 +179,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Nousi et al. (2021) [@2021NousiAutoencoderdrivenSpiral] (2107.04312)]**
     - **[Barsotti et al. (2021) [@barsotti2021gravitational] (2110.08901)]** - Gravitational Wave Surrogates through Automated Machine Learning
     - **[Khan et al. (2022) [@2022KhanInterpretableAiForecasting] (PRD)]** - Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprecessing Binary Black Hole Mergers
+    - **[Coogan et al. (2022) [@2022CooganEfficientTemplateBank] (2202.09380)]** - Efficient Template Bank Generation with Differentiable Waveforms
 
 
 
