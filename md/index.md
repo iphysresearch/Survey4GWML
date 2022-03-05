@@ -328,6 +328,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Khan and Huerta (2021) [@2021KhanAiExtremeScale] (2112.07669)]** - AI and Extreme Scale Computing to Learn and Infer the Physics of Higher Order Gravitational Wave Modes of Quasi-Circular, Spinning, Non-Precessing Binary Black Hole Mergers
     - **[Wang et al. (2022) [@2022WangSamplingPriorKnowledge] (BDMA)]** - Sampling with Prior Knowledge for High-dimensional Gravitational Wave Data Analysis
     - **[McLeod et al. (2022) [@2022McLeodRapidMassParameter] (2201.11126)]** - Rapid Mass Parameter Estimation of Binary Black Hole Coalescences Using Deep Learning
+    - **[Sasaoka et al. (2022) [@2022SasaokaLocalizationgravitationalwaves] (2202.12784)]** - Localization of Gravitational Waves Using Machine Learning
 
 ## Population Studies
 
