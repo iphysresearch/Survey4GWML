@@ -127,6 +127,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Yu & Adhikari (2021) [@yu2021nonlinear] (2111.03295)]** - Nonlinear Noise Regression in Gravitational-Wave Detectors with Convolutional Neural Networks
      * **[Sakai et al. (2021) [@2021SakaiUnsupervisedLearningArchitecture] (2111.10053)]** - Unsupervised Learning Architecture for Classifying the Transient Noise of Interferometric Gravitational-wave Detectors
      * **[Merritt et al. (2021) [@2021MerrittTransientglitchmitigation] (PRD)]** - Transient Glitch Mitigation in Advanced LIGO Data
+     * **[Colgan et al. (2022) [@2022ColganArchitecturalOptimizationFeature] (2202.13486)]** - Architectural Optimization and Feature Learning for High-Dimensional Time Series Datasets
 
 
 
