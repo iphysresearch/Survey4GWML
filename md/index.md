@@ -180,6 +180,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Barsotti et al. (2021) [@barsotti2021gravitational] (2110.08901)]** - Gravitational Wave Surrogates through Automated Machine Learning
     - **[Khan et al. (2022) [@2022KhanInterpretableAiForecasting] (PRD)]** - Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprecessing Binary Black Hole Mergers
     - **[Coogan et al. (2022) [@2022CooganEfficientTemplateBank] (2202.09380)]** - Efficient Template Bank Generation with Differentiable Waveforms
+    - **[Freitas et al. (2022) [@2022FreitasGeneratinggravitationalwaveform] (2203.01267)]** - Generating Gravitational Waveform Libraries of Exotic Compact Binaries with Deep Learning
 
 
 
@@ -273,7 +274,6 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Zhang et al. (2022) [@2022ZhangDetectingGravitationalwavesExtreme] (2202.07158)]** - Detecting Gravitational-waves from Extreme Mass Ratio Inspirals Using Convolutional Neural Networks
     - **[Safarzadeh et al. (2022) [@2022SafarzadehInterpretingMachineLearning] (2202.07399)]** - Interpreting a Machine Learning Model for Detecting Gravitational Waves
     - **[Choudhary et al. (2022) [@2022ChoudharySiGMaNetDeeplearning] (2202.08671)]** - SiGMa-Net: Deep Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients
-    - **[Coogan et al. (2022) [@2022CooganEfficientTemplateBank] (2202.09380)]** - Efficient Template Bank Generation with Differentiable Waveforms
 
 
 ## Parameter Estimation (PE)

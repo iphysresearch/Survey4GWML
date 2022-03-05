@@ -44,7 +44,6 @@
   doi = {10.1103/PhysRevD.90.084029},
   abstract = {We describe new methods for denoising and detection of gravitational waves embedded in additive Gaussian noise. The methods are based on Total Variation denoising algorithms. These algorithms, which do not need any a priori information about the signals, have been originally developed and fully tested in the context of image processing. To illustrate the capabilities of our methods we apply them to two different types of numerically-simulated gravitational wave signals, namely bursts produced from the core collapse of rotating stars and waveforms from binary black hole mergers. We explore the parameter space of the methods to find the set of values best suited for denoising gravitational wave signals under different conditions such as waveform type and signal-to-noise ratio. Our results show that noise from gravitational wave signals can be successfully removed with our techniques, irrespective of the signal morphology or astrophysical origin. We also combine our methods with spectrograms and show how those can be used simultaneously with other common techniques in gravitational wave data analysis to improve the chances of detection.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics,General Relativity and Quantum Cosmology},
   annotation = {ZSCC: 0000019},
   note = {Comment: 14 pages, 12 figures, to appear on Physical Review D},
   file = {/Users/herb/Zotero/storage/JD22D84H/2014Torres_et_al-Total-variation-based_methods_for_gravitational_wave_denoising.pdf;/Users/herb/Zotero/storage/KLUZGTJ9/1409.html}
@@ -169,7 +168,7 @@
   doi = {10.1103/PhysRevD.97.044039},
   abstract = {Gravitational wave astronomy has set in motion a scientific revolution. To further enhance the science reach of this emergent field, there is a pressing need to increase the depth and speed of the gravitational wave algorithms that have enabled these groundbreaking discoveries. To contribute to this effort, we introduce Deep Filtering, a new highly scalable method for end-to-end time-series signal processing, based on a system of two deep convolutional neural networks, which we designed for classification and regression to rapidly detect and estimate parameters of signals in highly noisy time-series data streams. We demonstrate a novel training scheme with gradually increasing noise levels, and a transfer learning procedure between the two networks. We showcase the application of this method for the detection and parameter estimation of gravitational waves from binary black hole mergers. Our results indicate that Deep Filtering significantly outperforms conventional machine learning techniques, achieves similar performance compared to matched-filtering while being several orders of magnitude faster thus allowing real-time processing of raw big data with minimal resources. More importantly, Deep Filtering extends the range of gravitational wave signals that can be detected with ground-based gravitational wave detectors. This framework leverages recent advances in artificial intelligence algorithms and emerging hardware architectures, such as deep-learning-optimized GPUs, to facilitate real-time searches of gravitational wave sources and their electromagnetic and astro-particle counterparts.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.GA,astro-ph.HE,astro-ph.IM,cs.LG,gr-qc},
+  keywords = {astro-ph.GA,astro-ph.IM,cs.LG,gr-qc},
   annotation = {ZSCC: 0000174},
   file = {/Users/herb/Zotero/storage/43LRIQBT/2018George_et_al-Deep_neural_networks_to_enable_real-time_multimessenger_astrophysics.pdf}
 }
@@ -206,7 +205,7 @@
   eprinttype = {arxiv},
   abstract = {The gravitational wave detection problem is challenging because the noise is typically overwhelming. Convolutional neural networks (CNNs) have been successfully applied, but require a large training set and the accuracy suffers significantly in the case of low SNR. We propose an improved method that employs a feature extraction step using persistent homology. The resulting method is more resilient to noise, more capable of detecting signals with varied signatures and requires less training. This is a powerful improvement as the detection problem can be computationally intense and is concerned with a relatively large class of wave signatures.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc,physics.data-an},
+  keywords = {astro-ph.IM,cs.LG,gr-qc,physics.data-an},
   file = {/Users/herb/Zotero/storage/JJ6QC9VW/2019Bresten_et_al-Detection_of_gravitational_waves_using_topological_data_analysis_and.pdf}
 }
 
@@ -254,7 +253,7 @@
   qualityassured = {qualityAssured},
   readstatus = {read},
   relevance = {relevant},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,prio1,qualityAssured,read,relevant,stat.ML},
+  keywords = {astro-ph.IM,cs.LG,prio1,qualityAssured,read,relevant,stat.ML},
   note = {Github~ \href{https://github.com/timothygebhard/magic-bullet}{https://github.com/timothygebhard/magic-bullet}},
   file = {/Users/herb/Zotero/storage/TG3978VE/2019Gebhard_et_al-Convolutional_neural_networks.pdf}
 }
@@ -433,7 +432,7 @@
   doi = {10.1103/PhysRevLett.122.011101},
   abstract = {We present accurate fits for the remnant properties of generically precessing binary black holes, trained on large banks of numerical-relativity simulations. We use Gaussian process regression to interpolate the remnant mass, spin, and recoil velocity in the 7-dimensional parameter space of precessing black-hole binaries with mass ratios q{$\leq$}2, and spin magnitudes {$\chi_1$},{$\chi_{2}\leq$}0.8. For precessing systems, our errors in estimating the remnant mass, spin magnitude, and kick magnitude are lower than those of existing fitting formulae by at least an order of magnitude (improvement is also reported in the extrapolated region at high mass ratios and spins). In addition, we also model the remnant spin and kick directions. Being trained directly on precessing simulations, our fits are free from ambiguities regarding the initial frequency at which precessing quantities are defined. We also construct a model for remnant properties of aligned-spin systems with mass ratios q{$\leq$}8, and spin magnitudes {$\chi_1$},{$\chi_{2}\leq$}0.8. As a byproduct, we also provide error estimates for all fitted quantities, which can be consistently incorporated into current and future gravitational-wave parameter-estimation analyses. Our model(s) are made publicly available through a fast and easy-to-use Python module called surfinBH.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc},
+  keywords = {gr-qc},
   annotation = {ZSCC: 0000071},
   file = {/Users/herb/Zotero/storage/S8R46VA7/2019Varma_et_al-High-accuracy_mass,_spin,_and_recoil_predictions_of_generic_black-hole_merger.pdf}
 }
@@ -699,7 +698,7 @@
   doi = {10.1103/PhysRevD.102.103020},
   abstract = {We present a novel machine-learning approach to estimate selection effects in gravitational-wave observations. Using techniques similar to those commonly employed in image classification and pattern recognition, we train a series of neural-network classifiers to predict the LIGO/Virgo detectability of gravitational-wave signals from compact-binary mergers. We include the effect of spin precession, higher-order modes, and multiple detectors and show that their omission, as it is common in large population studies, tends to overestimate the inferred merger rate in selected regions of the parameter space. Although here we train our classifiers using a simple signal-to-noise ratio threshold, our approach is ready to be used in conjunction with full pipeline injections, thus paving the way toward including actual distributions of astrophysical and noise triggers into gravitational-wave population analyses.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc},
+  keywords = {cs.LG,gr-qc},
   file = {/Users/herb/Zotero/storage/EVTCIPR3/2020Gerosa_et_al-Gravitational-wave_selection_effects_using_neural-network_classifiers.pdf}
 }
 
@@ -759,7 +758,7 @@
   doi = {10.1103/PhysRevD.104.064051},
   abstract = {We present a novel Machine Learning (ML) based strategy to search for compact binary coalescences (CBCs) in data from ground-based gravitational wave (GW) observatories. This is the first ML-based search that not only recovers all the binary black hole mergers in the first GW transients calalog (GWTC-1), but also makes a clean detection of GW151216, which was not significant enough to be included in the catalogue. Moreover, we achieve this by only adding a new coincident ranking statistic (MLStat) to a standard analysis that was used for GWTC-1. In CBC searches, reducing contamination by terrestrial and instrumental transients, which create a loud noise background by triggering numerous false alarms, is crucial to improving the sensitivity for detecting true events. The sheer volume of data and and large number of expected detections also prompts the use of ML techniques. We perform transfer learning to train "InceptionV3", a pre-trained deep neural network, along with curriculum learning to distinguish GW signals from noisy events by analysing their continuous wavelet transform (CWT) maps. MLStat incorporates information from this ML classifier into the standard coincident search likelihood used by the conventional search. This leads to at least an order of magnitude improvement in the inverse false-alarm-rate (IFAR) for the previously "low significance" events GW151012, GW170729 and GW151216. The confidence in detection of GW151216 is further strengthened by performing its parameter estimation using . Considering the impressive ability of the statistic to distinguish signals from glitches, the list of marginal events from MLStat could be quite reliable for astrophysical population studies and further follow-up. This work demonstrates the immense potential and readiness of MLStat for finding new sources in current data and possibility of its adaptation in similar searches.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc},
+  keywords = {astro-ph.IM,cs.LG,gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/APK6PRSK/2021Jadhav_et_al-Improving_significance_of_binary_black_hole_mergers_in_Advanced_LIGO_data_using.pdf}
 }
@@ -797,7 +796,7 @@
   doi = {10.3847/1538-4357/ac0143},
   abstract = {Similar to light, gravitational waves (GWs) can be lensed. Such lensing phenomena can magnify the waves, create multiple images observable as repeated events, and superpose several waveforms together, inducing potentially discernible patterns on the waves. In particular, when the lens is small, {$\lessequivlnt$}105 M {$\odot$}, it can produce lensed images with time delays shorter than the typical gravitational-wave signal length that conspire together to form ``beating patterns.'' We present a proof-of-principle study utilizing deep learning for identification of such a lensing signature. We bring the excellence of state-of-the-art deep learning models at recognizing foreground objects from background noise to identifying lensed GWs from noisy spectrograms. We assume the lens mass is around 103\textendash 105 M {$\odot$}, which can produce time delays of the order of milliseconds between two images of lensed GWs. We discuss the feasibility of distinguishing lensed GWs from unlensed ones and estimating physical and lensing parameters. The suggested method may be of interest to the study of more complicated lensing configurations for which we do not have accurate waveform templates.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.CO,astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.CO,astro-ph.IM,gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/IQIBRXAM/2021Kim_et_al-Identification_of_Lensed_Gravitational_Waves_with_Deep_Learning.pdf}
 }
@@ -820,7 +819,7 @@
   doi = {10.1103/PhysRevD.101.083006},
   abstract = {In the multi-messenger astronomy era, accurate sky localization and low latency time of gravitational-wave (GW) searches are keys in triggering successful follow-up observations on the electromagnetic counterpart of GW signals. We, in this work, focus on the latency time and study the feasibility of adopting supervised machine learning (ML) method for ranking candidate GW events. We consider two popular ML methods, random forest and neural networks. We observe that the evaluation time of both methods takes tens of milliseconds for {$\sim$} 45,000 evaluation samples. We compare the classification efficiency between the two ML methods and a conventional low-latency search method with respect to the true positive rate at given false positive rate. The comparison shows that about 10\% improved efficiency can be achieved at lower false positive rate {$\sim$} 2 \texttimes{} 10{$^{-5}$} with both ML methods. We also present that the search sensitivity can be enhanced by about 18\% at {$\sim$} 10{$^{-11}$}Hz false alarm rate. We conclude that adopting ML methods for ranking candidate GW events is a prospective approach to yield low latency and high efficiency in searches for GW signals from compact binary mergers.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/T2QANF94/2020Kim_et_al-Ranking_candidate_signals_with_machine_learning_in_low-latency_searches_for.pdf}
 }
 
@@ -969,7 +968,7 @@
   doi = {10.1103/PhysRevD.102.083025},
   abstract = {Persistent gravitational waves from rapidly rotating neutron stars, such as those found in some young supernova remnants, may fall in the sensitivity band of the advanced Laser Interferometer Gravitational-wave Observatory (aLIGO). Searches for these signals are computationally challenging, as the frequency and frequency derivative are unknown and evolve rapidly due to the youth of the source. A hidden Markov model (HMM), combined with a maximum-likelihood matched filter, tracks rapid frequency evolution semi-coherently in a computationally efficient manner. We present the results of an HMM search targeting 12 young supernova remnants in data from Advanced LIGO's second observing run. Six targets produce candidates that are above the search threshold and survive pre-defined data quality vetoes. However, follow-up analyses of these candidates show that they are all consistent with instrumental noise artefacts.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   annotation = {ZSCC: 0000012},
   file = {/Users/herb/Zotero/storage/FMHJUBM4/2020Millhouse_et_al-Search_for_gravitational_waves_from_12_young_supernova_remnants_with_a_hidden.pdf}
 }
@@ -990,7 +989,7 @@
   abstract = {All-sky observations of the Milky Way show both Galactic and non-Galactic diffuse emission, for example from interstellar matter or the cosmic microwave background (CMB). The different emitters are partly superimposed in the measurements, partly they obscure each other, and sometimes they dominate within a certain spectral range. The decomposition of the underlying radiative components from spectral data is a signal reconstruction problem and often associated with detailed physical modeling and substantial computational effort. We aim to build an effective and self-instructing algorithm detecting the essential spectral information contained Galactic all-sky data covering spectral bands from {$\gamma$}-ray to radio waves. Utilizing principles from information theory, we develop a state-of-the-art variational autoencoder specialized on the adaption to Gaussian noise statistics. We first derive a generic generative process that leads from a low-dimensional set of emission features to the observed high-dimensional data. We formulate a posterior distribution of these features using Bayesian methods and approximate this posterior with variational inference. The algorithm efficiently encodes the information of 35 Galactic emission data sets in ten latent feature maps. These contain the essential information required to reconstruct the initial data with high fidelity and are ranked by the algorithm according to their significance for data regeneration. The three most significant feature maps encode astrophysical components: (1) The dense interstellar medium (ISM), (2) the hot and dilute regions of the ISM and (3) the CMB. The machine-assisted and data-driven dimensionality reduction of spectral data is able to uncover the physical features encoding the input data. Our algorithm is able to extract the dense and dilute Galactic regions, as well as the CMB, from the sky brightness values only.},
   archiveprefix = {arXiv},
   langid = {english},
-  keywords = {astro-ph.HE,astro-ph.IM,physics.data-an},
+  keywords = {astro-ph.IM,physics.data-an},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/X6P6I47M/Milosevic et al. - 2021 - Bayesian decomposition of the Galactic multi-frequ.pdf}
 }
@@ -1058,7 +1057,7 @@
   doi = {10.1103/PhysRevD.102.063015},
   abstract = {As two neutron stars merge, they emit gravitational waves that can potentially be detected by earth bound detectors. Matched-filtering based algorithms have traditionally been used to extract quiet signals embedded in noise. We introduce a novel neural-network based machine learning algorithm that uses time series strain data from gravitational-wave detectors to detect signals from non-spinning binary neutron star mergers. For the Advanced LIGO design sensitivity, our network has an average sensitive distance of 130 Mpc at a false-alarm rate of 10 per month. Compared to other state-of-the-art machine learning algorithms, we find an improvement by a factor of 6 in sensitivity to signals with signal-to-noise ratio below 25. However, this approach is not yet competitive with traditional matched-filtering based methods. A conservative estimate indicates that our algorithm introduces on average 10.2 s of latency between signal arrival and generating an alert. We give an exact description of our testing procedure, which can not only be applied to machine learning based algorithms but all other search algorithms as well. We thereby improve the ability to compare machine learning and classical searches.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc},
+  keywords = {astro-ph.IM,cs.LG,gr-qc},
   file = {/Users/herb/Zotero/storage/7LVTWPQB/2020Schäfer_et_al-Detection_of_gravitational-wave_signals_from_binary_neutron_star_mergers_using.pdf}
 }
 
@@ -1117,7 +1116,6 @@
   doi = {10.1088/1361-6382/ac0b54},
   abstract = {The population analysis of compact binaries involves the reconstruction of some of the gravitational wave (GW) signal parameters, such as, the mass and the spin distribution, that gave rise to the observed data. This article introduces VAMANA, which reconstructs the binary black hole population using a mixture model and facilitates excellent density measurement as informed by the data. VAMANA uses a mixture of weighted Gaussians to reconstruct the chirp mass distribution. We expect Gaussian mixtures to provide flexibility in modeling complex distributions and enable us in capturing details in the astrophysical chirp mass distribution. Each of the Gaussian in the mixture is combined with another Gaussian and a power-law to simultaneously model the spin component aligned with the orbital angular momentum and the mass ratio distribution, thus also wing us to capture their variation with the chirp mass. Additionally, we can also introduce broadband smoothing by restricting the Gaussian mixture to lie within a threshold distance of a predefined reference chirp mass distribution. Using simulated data we show the robustness of our method in reconstructing complex populations for a large number of observations. We also apply our method to the publicly available catalog of GW observations made during LIGO's and Virgo's first and second observation runs and present the reconstructed mass, spin distribution, and the estimated merger rate of binary black holes.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE},
   file = {/Users/herb/Zotero/storage/VGMPFQ62/2021Tiwari-VAMANA.pdf}
 }
 
@@ -1160,7 +1158,6 @@
   doi = {10.1093/mnras/staa3243},
   abstract = {Gravitational-wave observations of binary neutron star coalescences constrain the neutron-star equation of state by enabling measurement of the tidal deformation of each neutron star. This deformation is well approximated by the tidal deformability parameter {$\Lambda$}, which was constrained using the first binary neutron star gravitational-wave observation, GW170817. Now, with the measurement of the second binary neutron star, GW190425, we can combine different gravitational-wave measurements to obtain tighter constraints on the neutron-star equation of state. In this paper, we combine data from GW170817 and GW190425 to place constraints on the neutron-star equation of state. To facilitate this calculation, we derive interpolated marginalized likelihoods for each event using a machine learning algorithm. These likelihoods, which we make publicly available, allow for results from multiple gravitational-wave signals to be easily combined. Using these new data products, we find that the radius of a fiducial 1.4~M{$\odot$} neutron star is constrained to \$11.6\^\{+1.6\}\_\{-0.9\}\$~km at 90~per~cent confidence and the pressure at twice the nuclear saturation density is constrained to \$3.1\^\{+3.1\}\_\{-1.3\}\textbackslash times 10\^\{34\}\$~dyne\,cm-2 at 90~per~cent confidence. Combining GW170817 and GW190425 produces constraints indistinguishable from GW170817 alone and is consistent with findings from other works.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE},
   file = {/Users/herb/Zotero/storage/A7943KWT/2020Vivanco_et_al-A_scalable_random_forest_regressor_for_combining_neutron-star_equation_of_state.pdf}
 }
 
@@ -1182,7 +1179,7 @@
   doi = {10.3847/1538-4357/ac1121},
   abstract = {We present the first application of deep learning forecasting for binary neutron stars, neutron star\textendash black hole systems, and binary black hole mergers that span an eccentricity range e {$\leq$} 0.9. We train neural networks that describe these astrophysical populations, and then test their performance by injecting simulated eccentric signals in advanced Laser Interferometer Gravitational-Wave Observatory (LIGO) noise available at the Gravitational Wave Open Science Center to (1) quantify how fast neural networks identify these signals before the binary components merge; (2) quantify how accurately neural networks estimate the time to merger once gravitational waves are identified; and (3) estimate the time-dependent sky localization of these events from early detection to merger. Our findings show that deep learning can identify eccentric signals from a few seconds (for binary black holes) up to tens of seconds (for binary neutron stars) prior to merger. A quantized version of our neural networks achieves 4\texttimes{} reduction in model size, and up to 2.5\texttimes{} inference speedup. These novel algorithms may be used to facilitate time-sensitive multimessenger astrophysics observations of compact binaries in dense stellar environments.},
   archiveprefix = {arXiv},
-  keywords = {gr-qc,I.2,I.5},
+  keywords = {gr-qc},
   file = {/Users/herb/Zotero/storage/SHDF2IEZ/2021Wei_et_al-Deep_Learning_with_Quantized_Neural_Networks_for_Gravitational-wave_Forecasting.pdf}
 }
 
@@ -1248,7 +1245,7 @@
   doi = {10.1103/PhysRevD.103.083021},
   abstract = {The recent release of the second Gravitational-Wave Transient Catalog (GWTC-2) has increased significantly the number of known GW events, enabling unprecedented constraints on formation models of compact binaries. One pressing question is to understand the fraction of binaries originating from different formation channels, such as isolated field formation versus dynamical formation in dense stellar clusters. In this paper, we combine the {$\mathtt{C}\mathtt{O}\mathtt{S}\mathtt{M}\mathtt{I}\mathtt{C}$} binary population synthesis suite and the {$\mathtt{C}\mathtt{M}\mathtt{C}$} code for globular cluster evolution to create a mixture model for black hole binary formation under both formation scenarios. For the first time, these code bodies are combined self-consistently, with {$\mathtt{C}\mathtt{M}\mathtt{C}$} itself employing {$\mathtt{C}\mathtt{O}\mathtt{S}\mathtt{M}\mathtt{I}\mathtt{C}$} to track stellar evolution. We then use a deep-learning enhanced hierarchical Bayesian analysis to constrain the mixture fraction f between formation models, while simultaneously constraining the common envelope efficiency {$\alpha$} assumed in {$\mathtt{C}\mathtt{O}\mathtt{S}\mathtt{M}\mathtt{I}\mathtt{C}$} and the initial cluster virial radius r\textsubscript{v} assumed in {$\mathtt{C}\mathtt{M}\mathtt{C}$}. Under specific assumptions about other uncertain aspects of isolated binary and globular cluster evolution, we report the median and 90\% confidence interval of three physical parameters (f,{$\alpha$},r\textsubscript{v})=(0.20{$^($}+0.32){$_($}-0.18),2.26{$^($}+2.65){$_($}-1.84),2.71{$^($}+0.83){$_($}-1.17)). This simultaneous constraint agrees with observed properties of globular clusters in the Milky Way and is an important first step in the pathway toward learning astrophysics of compact binary formation from GW observations.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc},
+  keywords = {gr-qc},
   file = {/Users/herb/Zotero/storage/M32PMYKF/2021Wong_et_al-Joint_constraints_on_the_field-cluster_mixing_fraction,_common_envelope.pdf}
 }
 
@@ -1270,7 +1267,7 @@
   doi = {10.1103/PhysRevD.103.024040},
   abstract = {In recent years, convolutional neural network (CNN) and other deep learning models have been gradually introduced into the area of gravitational-wave (GW) data processing. Compared with the traditional matched-filtering techniques, CNN has significant advantages in efficiency in GW signal detection tasks. In addition, matched-filtering techniques are based on the template bank of the existing theoretical waveform, which makes it difficult to find GW signals beyond theoretical expectation. In this paper, based on the task of GW detection of binary black holes, we introduce the optimization techniques of deep learning, such as batch normalization and dropout, to CNN models. Detailed studies of model performance are carried out. Through this study, we recommend to use batch normalization and dropout techniques in CNN models in GW signal detection tasks. Furthermore, we investigate the generalization ability of CNN models on different parameter ranges of GW signals. We point out that CNN models are robust to the variation of the parameter range of the GW waveform. This is a major advantage of deep learning models over matched-filtering techniques.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc,stat.ML},
+  keywords = {cs.LG,gr-qc,stat.ML},
   file = {/Users/herb/Zotero/storage/CQJVFFYT/2021Xia_et_al-Improved_deep_learning_techniques_in_gravitational-wave_data_analysis.pdf}
 }
 
@@ -1485,7 +1482,7 @@
   doi = {10.1103/PhysRevD.103.064027},
   abstract = {Broad searches for continuous gravitational wave signals rely on hierarchies of follow-up stages for candidates above a given significance threshold. An important step to simplify these follow-ups and reduce the computational cost is to bundle together in a single follow-up nearby candidates. This step is called clustering and we investigate carrying it out with a deep learning network. In our first paper [1], we implemented a deep learning clustering network capable of correctly identifying clusters due to large signals. In this paper, a network is implemented that can detect clusters due to much fainter signals. These two networks are complementary and we show that a cascade of the two networks achieves an excellent detection efficiency across a wide range of signal strengths, with a false alarm rate comparable/lower than that of methods currently in use.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc},
+  keywords = {cs.LG,gr-qc},
   file = {/Users/herb/Zotero/storage/FQA53LHD/2021Beheshtipour_et_al-Deep_learning_for_clustering_of_continuous_gravitational_wave_candidates.pdf}
 }
 
@@ -1507,7 +1504,7 @@
   doi = {10.1103/PhysRevD.103.083009},
   abstract = {Isolated neutron stars are prime targets for continuous-wave (CW) searches by ground-based gravitational-wave interferometers. Results are presented from a CW search targeting ten pulsars. The search uses a semi-coherent algorithm, which combines the maximum-likelihood {$\mathmit{F}$}-statistic with a hidden Markov model (HMM) to efficiently detect and track quasi-monochromatic signals which wander randomly in frequency. The targets, which are associated with TeV sources detected by the High Energy Stereoscopic System (H.E.S.S.), are chosen to test for gravitational radiation from young, energetic pulsars with strong {$\gamma$}-ray emission, and take maximum advantage of the frequency tracking capabilities of HMM compared to other CW search algorithms. The search uses data from the second observing run of the Advanced Laser Interferometer Gravitational-Wave Observatory (aLIGO). It scans 1-Hz sub-bands around f\textsubscript{*}, 4f\textsubscript{*}/3, and 2f\textsubscript{*}, where f\textsubscript{*} denotes the star's rotation frequency, in order to accommodate a physically plausible frequency mismatch between the electromagnetic and gravitational-wave emission. The 24 sub-bands searched in this study return 5,256 candidates above the Gaussian threshold with a false alarm probability of 1\% per sub-band per target. Only 12 candidates survive the three data quality vetoes which are applied to separate non-Gaussian artifacts from true astrophysical signals. CW searches using the data from subsequent observing runs will clarify the status of the remaining candidates.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc},
+  keywords = {gr-qc},
   file = {/Users/herb/Zotero/storage/BB3GHAUL/2021Beniwal_et_al-Search_for_continuous_gravitational_waves_from_ten_H.pdf}
 }
 
@@ -1590,7 +1587,7 @@
   eprinttype = {arxiv},
   abstract = {Gravitational-wave population studies have become more important in gravitational-wave astronomy because of the rapid growth of the observed catalog. In recent studies, emulators based on different machine learning techniques are used to emulate the outcomes of the population synthesis simulation with fast speed. In this study, we benchmark the performance of two emulators that learn the truncated power-law phenomenological model by using Gaussian process regression and normalizing flows techniques to see which one is a more capable likelihood emulator in the population inference. We benchmark the characteristic of the emulators by comparing their performance in the population inference to the phenomenological model using mock and real observation data. Our results suggest that the normalizing flows emulator can recover the posterior distribution by using the phenomenological model in the population inference with up to 300 mock injections. The normalizing flows emulator also underestimates the uncertainty for some posterior distributions in the population inference on real observation data. On the other hand, the Gaussian process regression emulator has poor performance on the same task and can only be used effectively in low-dimension cases.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/IK2KKVZ4/2021Cheung_et_al-Testing_the_robustness_of_simulation-based_gravitational-wave_population.pdf}
 }
 
@@ -1653,7 +1650,7 @@
   doi = {10.3390/universe7110394},
   abstract = {A major boost in the understanding of the universe was given by the revelation of the first coalescence event of two neutron stars (GW170817) and the observation of the same event across the entire electromagnetic spectrum. With third-generation gravitational wave detectors and the new astronomical facilities, we expect many multi-messenger events of the same type. We anticipate the need to analyse the data provided to us by such events not only to fulfil the requirements of real-time analysis, but also in order to decipher the event in its entirety through the information emitted in the different messengers using machine learning. We propose a change in the paradigm in the way we do multi-messenger astronomy, simultaneously using the complete information generated by violent phenomena in the Universe. What we propose is the application of a multimodal machine learning approach to characterize these events.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gamma-ray bursts,gravitational waves,multi-messenger astronomy,multimodal analysis,neutron stars},
+  keywords = {gamma-ray bursts,gravitational waves,multi-messenger astronomy,multimodal analysis,neutron stars},
   annotation = {ZSCC: 0000000},
   file = {/Users/herb/Zotero/storage/3PDUFA74/2021Cuoco_et_al-Multimodal_Analysis_of_Gravitational_Wave_Signals_and_Gamma-Ray_Bursts_from.pdf}
 }
@@ -1692,7 +1689,7 @@
   abstract = {We demonstrate unprecedented accuracy for rapid gravitational-wave parameter estimation with deep learning. Using neural networks as surrogates for Bayesian posterior distributions, we analyze eight gravitational-wave events from the first LIGO-Virgo Gravitational-Wave Transient Catalog and find very close quantitative agreement with standard inference codes, but with inference times reduced from O(day) to a minute per event. Our networks are trained using simulated data, including an estimate of the detector-noise characteristics near the event. This encodes the signal and noise models within millions of neural-network parameters, and enables inference for any observed data consistent with the training distribution, accounting for noise nonstationarity from event to event. Our algorithm \textendash{} called "DINGO" \textendash{} sets a new standard in fast-and-accurate inference of physical parameters of detected gravitational-wave events, which should enable real-time data analysis without sacrificing accuracy.},
   archiveprefix = {arXiv},
   keywords = {astro-ph.IM,cs.LG,gr-qc},
-  file = {/Users/herb/Zotero/storage/A8J2LJ9E/lfigw_supplemental.pdf;/Users/herb/Zotero/storage/GFBT7MBG/2021Dax_et_al-Real-time_gravitational_wave_science_with_neural_posterior_estimation.pdf}
+  file = {/Users/herb/Zotero/storage/A8J2LJ9E/lfigw_supplemental.pdf;/Users/herb/Zotero/storage/GFBT7MBG/2021Dax_et_al-Real-time_gravitational_wave_science_with_neural_posterior_estimation.pdf;/Users/herb/Zotero/storage/RDMWF732/ligo-pe-review-discussion-2022-02-v2.pdf}
 }
 
 @article{2021DeighanGeneticalgorithmoptimizedneuralnetworks,
@@ -1735,7 +1732,7 @@
   doi = {10.1093/mnras/stab2623},
   abstract = {The properties of black hole and neutron-star binaries are extracted from gravitational waves (GW) signals using Bayesian inference. This involves evaluating a multidimensional posterior probability function with stochastic sampling. The marginal probability distributions of the samples are sometimes interpolated with methods such as kernel density estimators. Since most post-processing analysis within the field is based on these parameter estimation products, interpolation accuracy of the marginals is essential. In this work, we propose a new method combining histograms and Gaussian processes (GPs) as an alternative technique to fit arbitrary combinations of samples from the source parameters. This method comes with several advantages such as flexible interpolation of non-Gaussian correlations, Bayesian estimate of uncertainty, and efficient resampling with Hamiltonian Monte Carlo.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc},
+  keywords = {gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/QJERQZE3/2021D'Emilio_et_al-Density_estimation_with_Gaussian_processes_for_gravitational_wave_posteriors.pdf}
 }
@@ -1751,7 +1748,7 @@
   eprinttype = {arxiv},
   abstract = {Data from current gravitational wave detectors contains a high rate of transient noise (glitches) that can trigger false detections and obscure true astrophysical events. Existing noise-detection algorithms largely rely on model-based methods that may miss noise transients unwitnessed by auxiliary sensors or with exotic morphologies. We propose the Unicorn Multi-window Anomaly-detection Pipeline (UniMAP): a model-free algorithm to identify and characterize transient noise leveraging the Temporal Outlier Factor (TOF) via a multi-window data-resampling scheme. We show this windowing scheme extends the anomaly detection capabilities of the TOF algorithm to resolve noise transients of arbitrary morphology and duration. We demonstrate the efficacy of this pipeline in detecting glitches during LIGO and Virgo's third observing run, and discuss potential applications.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/JJPRRHBE/2021Ding_et_al-UniMAP.pdf}
 }
 
@@ -1910,7 +1907,7 @@
   doi = {10.1103/PhysRevD.104.124057},
   abstract = {A small fraction of the gravitational-wave (GW) signals that will be detected by second and third generation detectors are expected to be strongly lensed by galaxies and clusters, producing multiple observable copies. While optimal Bayesian model selection methods are developed to identify lensed signals, processing tens of thousands (billions) of possible pairs of events detected with second (third) generation detectors is both computationally intensive and time consuming. To mitigate this problem, we propose to use machine learning to rapidly rule out a vast majority of candidate lensed pairs. As a proof of principle, we simulate non-spinning binary black hole events added to Gaussian noise, and train the machine on their time-frequency maps (Q-transforms) and localisation skymaps (using Bayestar), both of which can be generated in seconds. We show that the trained machine is able to accurately identify lensed pairs with efficiencies comparable to existing Bayesian methods.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/3UKF3YAH/2021Goyal_et_al-Rapid_identification_of_strongly_lensed_gravitational-wave_events_with_machine.pdf}
 }
 
@@ -1997,7 +1994,7 @@
   doi = {10.3847/1538-4357/ac11f8},
   abstract = {We develop a new nonparametric method to reconstruct the equation of state (EoS) of a neutron star with multimessenger data. As a universal function approximator, the feed-forward neural network (FFNN) with one hidden layer and a sigmoidal activation function can approximately fit any continuous function. Thus, we are able to implement the nonparametric FFNN representation of the EoSs. This new representation is validated by its capability of fitting the theoretical EoSs and recovering the injected parameters. Then, we adopt this nonparametric method to analyze the real data, including the mass\textendash tidal deformability measurement from the binary neutron star merger gravitational-wave event GW170817 and mass\textendash radius measurement of PSR J0030+0451 by NICER. We take the publicly available samples to construct the likelihood and use the nested sampling to obtain the posteriors of the parameters of the FFNN according to the Bayesian theorem, which in turn can be translated to the posteriors of the EoS parameters. Combining all of these data for a canonical 1.4 M {$\odot$} neutron star, we get a radius km and tidal deformability (90\% confidence interval). Furthermore, we find that in the high-density region ({$\geq$}3{$\rho$} sat), the 90\% lower limits of (where c s is the sound speed and c is the velocity of light in vacuum) are above 1/3, which means that the so-called conformal limit (i.e., ) is not always valid in the neutron stars.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc,hep-ph,nucl-th},
+  keywords = {gr-qc,hep-ph,nucl-th},
   file = {/Users/herb/Zotero/storage/6KZ44AMP/2021Han_et_al-Bayesian_Nonparametric_Inference_of_the_Neutron_Star_Equation_of_State_via_a.pdf}
 }
 
@@ -2018,7 +2015,7 @@
   abstract = {The development of reusable artificial intelligence (AI) models for wider use and rigorous validation by the community promises to unlock new opportunities in multi-messenger astrophysics. Here we develop a workflow that connects the Data and Learning Hub for Science, a repository for publishing AI models, with the Hardware-Accelerated Learning (HAL) cluster, using funcX as a universal distributed computing service. Using this workflow, an ensemble of four openly available AI models can be run on HAL to process an entire month's worth (August 2017) of advanced Laser Interferometer Gravitational-Wave Observatory data in just seven minutes, identifying all four binary black hole mergers previously identified in this dataset and reporting no misclassifications. This approach combines advances in AI, distributed computing and scientific data infrastructure to open new pathways to conduct reproducible, accelerated, data-driven discovery.},
   archiveprefix = {arXiv},
   refid = {Huerta2021},
-  keywords = {68T01,68T35,83C35,83C57,astro-ph.IM,cs.AI,cs.DC,gr-qc},
+  keywords = {astro-ph.IM,cs.AI,cs.DC,gr-qc},
   file = {/Users/herb/Zotero/storage/8PY7DS3N/2021Huerta_et_al-Accelerated,_scalable_and_reproducible_AI-driven_gravitational_wave_detection.pdf}
 }
 
@@ -2073,7 +2070,7 @@
   eprinttype = {arxiv},
   abstract = {We use artificial intelligence (AI) to learn and infer the physics of higher order gravitational wave modes of quasi-circular, spinning, non precessing binary black hole mergers. We trained AI models using 14 million waveforms, produced with the surrogate model NRHybSur3dq8, that include modes up to {$\mathscr{l}$} {$\leq$} 4 and (5,5), except for (4,0) and (4,1), that describe binaries with mass-ratios q{$\leq$}8 and individual spins s\textsuperscript{z}{$_($}1,2){$\in$}[-0.8, 0.8]. We use our AI models to obtain deterministic and probabilistic estimates of the mass-ratio, individual spins, effective spin, and inclination angle of numerical relativity waveforms that describe such signal manifold. Our studies indicate that AI provides informative estimates for these physical parameters. This work marks the first time AI is capable of characterizing this high-dimensional signal manifold. Our AI models were trained within 3.4 hours using distributed training on 256 nodes (1,536 NVIDIA V100 GPUs) in the Summit supercomputer.},
   archiveprefix = {arXiv},
-  keywords = {68T10,83C35,83C57,85-08,astro-ph.IM,cs.AI,gr-qc,I.2},
+  keywords = {astro-ph.IM,cs.AI,gr-qc},
   file = {/Users/herb/Zotero/storage/43CAXAA6/2021Khan_et_al-AI_and_extreme_scale_computing_to_learn_and_infer_the_physics_of_higher_order.pdf}
 }
 
@@ -2213,7 +2210,7 @@
   doi = {10.1103/PhysRevD.103.124051},
   abstract = {We construct five deep generative models of gravitational waveforms for the compact binary coalescence events. Our construction bases on the extensions of the conditional variational autoencoder (cVAE). By inputting just the masses of binary black holes, these trained generative models can produce the corresponding more than 95\% accurate inspiral-merger waveform in less than 10{$^{-3}$} seconds. Moreover, these models are also capable of extrapolation. That is, with mainly the low-mass-ratio training set, the resultant trained model is capable of generating large amount of accurate high-mass-ratio waveforms. Our result implies that the deep generative model is possible to speed up the generation of highly accurate gravitational waveforms of higher mass ratio by progressively self-training.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc,hep-th},
+  keywords = {astro-ph.IM,gr-qc,hep-th},
   file = {/Users/herb/Zotero/storage/IHWB8HSX/2021Liao_et_al-Deep_generative_models_of_gravitational_waveforms_via_conditional_autoencoder.pdf}
 }
 
@@ -2265,7 +2262,7 @@
   doi = {10.1103/PhysRevLett.126.180604},
   abstract = {We present AI Poincar\'e, a machine learning algorithm for auto-discovering conserved quantities using trajectory data from unknown dynamical systems. We test it on five Hamiltonian systems, including the gravitational 3-body problem, and find that it discovers not only all exactly conserved quantities, but also periodic orbits, phase transitions and breakdown timescales for approximate conservation laws.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.EP,cs.LG,nlin.SI,physics.class-ph},
+  keywords = {astro-ph.EP,cs.LG,physics.class-ph},
   file = {/Users/herb/Zotero/storage/564VPX6S/2020Liu_et_al-Ai_poincaré.pdf}
 }
 
@@ -2433,7 +2430,6 @@
   doi = {10.1103/PhysRevD.104.102004},
   abstract = {"Glitches" -- transient noise artifacts in the data collected by gravitational wave interferometers like LIGO and Virgo -- are an ever-present obstacle for the search and characterization of gravitational wave signals. With some having morphology similar to high mass, high mass-ratio, and extreme-spin binary black hole events, they limit sensitivity to such sources. They can also act as a contaminant for all sources, requiring targeted mitigation before astrophysical inferences can be made. We propose a data driven, parametric model for frequently encountered glitch types using probabilistic principal component analysis. As a noise analog of parameterized gravitational wave signal models, it can be easily incorporated into existing search and detector characterization techniques. We have implemented our approach with the open source glitschen package. Using LIGO's currently most problematic glitch types, the 'blip' and 'tomte', we demonstrate that parametric models of modest dimension can be constructed and used for effective mitigation in both frequentist and Bayesian analyses.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics,General Relativity and Quantum Cosmology},
   file = {/Users/herb/Zotero/storage/87UCUJJI/2021Merritt_et_al-Transient_glitch_mitigation_in_Advanced_LIGO_data.pdf;/Users/herb/Zotero/storage/GADZDSBB/2108.html}
 }
 
@@ -2492,7 +2488,7 @@
   doi = {10.1088/2632-2153/abea69},
   abstract = {Instrumental and environmental transient noise bursts in gravitational-wave (GW) detectors, or glitches, may impair astrophysical observations by adversely affecting the sky localization and the parameter estimation of GW signals. Denoising of detector data is especially relevant during low-latency operations because electromagnetic follow-up of candidate detections requires accurate, rapid sky localization and inference of astrophysical sources. NNETFIX is a machine learning, artificial neural network-based algorithm designed to estimate the data containing a transient GW signal with an overlapping glitch as though the glitch was absent. The sky localization calculated from the denoised data may be significantly more accurate than the sky localization obtained from the original data or by removing the portion of the data impacted by the glitch. We test NNETFIX in simulated scenarios of binary black hole coalescence signals and discuss the potential for its use in future low-latency LIGO-Virgo-KAGRA searches. In the majority of cases for signals with a high signal-to-noise ratio, we find that the overlap of the sky maps obtained with the denoised data and the original data is better than the overlap of the sky maps obtained with the original data and the data with the glitch removed.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.CO,astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.CO,astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/Y7P536LS/2021Mogushi_et_al-NNETFIX.pdf}
 }
 
@@ -2563,7 +2559,7 @@
   eprinttype = {arxiv},
   abstract = {We present Quasarnet, a novel research platform that enables deployment of data-driven modeling techniques for the investigation of the properties of super-massive black holes. Black hole data sets \textendash{} observations and simulations \textendash{} have grown rapidly in the last decade in both complexity and abundance. However, our computational environments and tool sets have not matured commensurately to exhaust opportunities for discovery with these data. Our pilot study presented here is motivated by one of the fundamental open questions in understanding black hole formation and assembly across cosmic time - the nature of the black hole host galaxy and parent dark matter halo connection. To explore this, we combine and co-locate large, observational data sets of quasars, the high-redshift luminous population of accreting black holes, at z \textquestiondown{} 3 alongside simulated data spanning the same cosmic epochs in Quasarnet. We demonstrate the extraction of the properties of observed quasars and their putative dark matter parent halos that permit studying their association and correspondence. In this paper, we describe the design, implementation, and operation of the publicly queryable Quasarnet database and provide examples of query types and visualizations that can be used to explore the data. Starting with data collated in Quasarnet, which will serve as training sets, we plan to utilize machine learning algorithms to predict properties of the as yet undetected, less luminous quasar population. To that ultimate goal, here we present the first key step in building the BH-galaxy-halo connection that underpins the formation and evolution of supermassive black holes. All our codes and compiled data are available on the public Google Kaggle Platform.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.CO,astro-ph.GA,astro-ph.HE,astro-ph.IM},
+  keywords = {astro-ph.CO,astro-ph.GA,astro-ph.IM},
   file = {/Users/herb/Zotero/storage/2IW8T276/2021Natarajan_et_al-QuasarNet.pdf}
 }
 
@@ -2577,7 +2573,7 @@
   eprinttype = {arxiv},
   abstract = {Recently, artificial neural networks have been gaining momentum in the field of gravitational wave astronomy, for example in surrogate modelling of computationally expensive waveform models for binary black hole inspiral and merger. Surrogate modelling yields fast and accurate approximations of gravitational waves and neural networks have been used in the final step of interpolating the coefficients of the surrogate model for arbitrary waveforms outside the training sample. We investigate the existence of underlying structures in the empirical interpolation coefficients using autoencoders. We demonstrate that when the coefficient space is compressed to only two dimensions, a spiral structure appears, wherein the spiral angle is linearly related to the mass ratio. Based on this finding, we design a spiral module with learnable parameters, that is used as the first layer in a neural network, which learns to map the input space to the coefficients. The spiral module is evaluated on multiple neural network architectures and consistently achieves better speed-accuracy trade-off than baseline models. A thorough experimental study is conducted and the final result is a surrogate model which can evaluate millions of input parameters in a single forward pass in under 1ms on a desktop GPU, while the mismatch between the corresponding generated waveforms and the ground-truth waveforms is better than the compared baseline methods. We anticipate the existence of analogous underlying structures and corresponding computational gains also in the case of spinning black hole binaries.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,cs.LG,gr-qc},
+  keywords = {cs.LG,gr-qc},
   file = {/Users/herb/Zotero/storage/ZZLJFUT9/2021Nousi_et_al-Autoencoder-driven_spiral_representation_learning_for_gravitational_wave.pdf}
 }
 
@@ -2684,7 +2680,6 @@
   primaryclass = {gr-qc, physics:physics},
   abstract = {In the data of laser interferometric gravitational wave detectors, transient noise with non-stationary and non-Gaussian features occurs at a high rate. It often causes problems such as instability of the detector, hiding and/or imitating gravitational-wave signals. This transient noise has various characteristics in the time-frequency representation, which is considered to be associated with environmental and instrumental origins. Classification of transient noise can offer one of the clues for exploring its origin and improving the performance of the detector. One approach for the classification of these noises is supervised learning. However, generally, supervised learning requires annotation of the training data, and there are issues with ensuring objectivity in the classification and its corresponding new classes. On the contrary, unsupervised learning can reduce the annotation work for the training data and ensuring objectivity in the classification and its corresponding new classes. In this study, we propose an architecture for the classification of transient noise by using unsupervised learning, which combines a variational autoencoder and invariant information clustering. To evaluate the effectiveness of the proposed architecture, we used the dataset (time-frequency two-dimensional spectrogram images and labels) of the LIGO first observation run prepared by the Gravity Spy project. We obtain the consistency between the label annotated by Gravity Spy project and the class provided by our proposed unsupervised learning architecture and provide the potential for the existence of the unrevealed classes.},
   archiveprefix = {arXiv},
-  keywords = {General Relativity and Quantum Cosmology,Physics - Data Analysis; Statistics and Probability},
   annotation = {ZSCC: NoCitationData[s0]},
   note = {Comment: 18 pages, 9 figures},
   file = {/Users/herb/Zotero/storage/N68VECUC/2021Sakai_et_al-Unsupervised_Learning_Architecture_for_Classifying_the_Transient_Noise_of.pdf;/Users/herb/Zotero/storage/ZQCDI8CU/2111.html}
@@ -2785,7 +2780,7 @@
   doi = {10.1088/2632-2153/ac3843},
   abstract = {We introduce deep learning models to estimate the masses of the binary components of black hole mergers, , and three astrophysical properties of the post-merger compact remnant, namely, the final spin, , and the frequency and damping time of the ringdown oscillations of the fundamental bar mode, . Our neural networks combine a modified WaveNet architecture with contrastive learning and normalizing flow. We validate these models against a Gaussian conjugate prior family whose posterior distribution is described by a closed analytical expression. Upon confirming that our models produce statistically consistent results, we used them to estimate the astrophysical parameters of five binary black holes: GW150914, GW170104, GW170814, GW190521 and GW190630. We use PyCBC Inference to directly compare traditional Bayesian methodologies for parameter estimation with our deep learning based posterior distributions. Our results show that our neural network models predict posterior distributions that encode physical correlations, and that our data-driven median results and 90\% confidence intervals are similar to those produced with gravitational wave Bayesian analyses. This methodology requires a single V100 NVIDIA GPU to produce median values and posterior distributions within two milliseconds for each event. This neural network, and a tutorial for its use, are available at the Data and Learning Hub for Science.},
   archiveprefix = {arXiv},
-  keywords = {68T10,85-08,astro-ph.HE,cs.AI,cs.LG,gr-qc,I.2,stat.ML},
+  keywords = {cs.AI,cs.LG,gr-qc,stat.ML},
   file = {/Users/herb/Zotero/storage/ZCMAEJIQ/2021Shen_et_al-Statistically-informed_deep_learning_for_gravitational_wave_parameter_estimation.pdf}
 }
 
@@ -2807,7 +2802,7 @@
   doi = {10.1093/mnras/stab2417},
   abstract = {In recent years, improvements in deep learning (DL) techniques towards gravitational wave (GW) astronomy have led to a significant rise in the development of various classification algorithms that have been successfully employed to extract GWs of binary black hole merger events from noisy time-series data. However, the success of these models is constrained by the length of time sample and the class of GW source: black hole binaries and neutron star binaries to some extent. In this work, we intended to advance the boundaries of DL techniques using convolutional neural networks, to go beyond binary classification and predict the physical parameters of the events. We aim to propose an alternative method that can be employed for real-time detection and parameter prediction. The DL model we present has been trained on 12s of data to predict the GW source parameters if detected. During training, the maximum accuracy attained was 90.93~per\,cent, with a validation accuracy of 89.97~per\,cent.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.GA,astro-ph.HE,gr-qc},
+  keywords = {astro-ph.GA,gr-qc},
   file = {/Users/herb/Zotero/storage/IUBYPJ5P/2021Singh_et_al-Deep_learning_for_estimating_parameters_of_gravitational_waves.pdf}
 }
 
@@ -2970,7 +2965,7 @@
   doi = {10.1016/j.physletb.2020.136029},
   abstract = {We introduce the use of deep learning ensembles for real-time, gravitational wave detection of spinning binary black hole mergers. This analysis consists of training independent neural networks that simultaneously process strain data from multiple detectors. The output of these networks is then combined and processed to identify significant noise triggers. We have applied this methodology in O2 and O3 data finding that deep learning ensembles clearly identify binary black hole mergers in open source data available at the Gravitational-Wave Open Science Center. We have also benchmarked the performance of this new methodology by processing 200 hours of open source, advanced LIGO noise from August 2017. Our findings indicate that our approach identifies real gravitational wave sources in advanced LIGO data with a false positive rate of 1 misclassification for every 2.7 days of searched data. A follow up of these misclassifications identified them as glitches. Our deep learning ensemble represents the first class of neural network classifiers that are trained with millions of modeled waveforms that describe quasi-circular, spinning, non-precessing, binary black hole mergers. Once fully trained, our deep learning ensemble processes advanced LIGO strain data faster than real-time using 4 NVIDIA V100 GPUs.},
   archiveprefix = {arXiv},
-  keywords = {gr-qc,I.2,I.5},
+  keywords = {gr-qc},
   file = {/Users/herb/Zotero/storage/7AYUFICZ/2021Wei_et_al-Deep_learning_ensemble_for_real-time_gravitational_wave_detection_of_spinning.pdf}
 }
 
@@ -3011,7 +3006,7 @@
   doi = {10.1103/PhysRevD.103.103006},
   abstract = {We present a novel method for sampling iso-likelihood contours in nested sampling using a type of machine learning algorithm known as normalising flows and incorporate it into our sampler nessai. Nessai is designed for problems where computing the likelihood is computationally expensive and therefore the cost of training a normalising flow is offset by the overall reduction in the number of likelihood evaluations. We validate our sampler on 128 simulated gravitational wave signals from compact binary coalescence and show that it produces unbiased estimates of the system parameters. Subsequently, we compare our results to those obtained with dynesty and find good agreement between the computed log-evidences whilst requiring 2.32 times fewer likelihood evaluations. We also highlight how the likelihood evaluation can be parallelised in nessai without any modifications to the algorithm. Finally, we outline diagnostics included in nessai and how these can be used to tune the sampler's settings.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/CLK35MH7/2021Williams_et_al-Nested_sampling_with_normalizing_flows_for_gravitational-wave_inference.pdf}
 }
 
@@ -3024,7 +3019,7 @@
   eprinttype = {arxiv},
   abstract = {Gravitational wave science is a pioneering field with rapidly evolving data analysis methodology currently assimilating and inventing deep learning techniques. The bulk of the sophisticated flagship searches of the field rely on the time-tested matched filtering principle within their core. In this paper, we make a key observation on the relationship between the emerging deep learning and the traditional techniques: matched filtering is formally equivalent to a particular neural network. This means that a neural network can be constructed analytically to exactly implement matched filtering, and can be further trained on data or boosted with additional complexity for improved performance. This fundamental equivalence allows us to define a "complexity standard candle" allowing us to characterize the relative complexity of the different approaches to gravitational wave signals in a common framework. Additionally it also provides a glimpse of an intriguing symmetry that could provide clues on how neural networks approach the problem of finding signals in overwhelming noise. Moreover, we show that the proposed neural network architecture can outperform matched filtering, both with or without knowledge of a prior on the parameter distribution. When a prior is given, the proposed neural network can approach the statistically optimal performance. We also propose and investigate two different neural network architectures MNet-Shallow and MNet-Deep, both of which implement matched filtering at initialization and can be trained on data. MNet-Shallow has simpler structure, while MNet-Deep is more flexible and can deal with a wider range of distributions. Our theoretical findings are corroborated by experiments using real LIGO data and synthetic injections. Finally, our results suggest new perspectives on the role of deep learning in gravitational wave detection.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,gr-qc},
+  keywords = {astro-ph.IM,cs.LG,gr-qc},
   file = {/Users/herb/Zotero/storage/5ERJD4HK/2021Yan_et_al-Generalized_approach_to_matched_filtering_using_neural_networks.pdf}
 }
 
@@ -3068,7 +3063,7 @@
   doi = {10.1103/PhysRevD.104.062004},
   abstract = {The success of the multi-messenger astronomy relies on gravitational-wave observatories like LIGO and Virgo to provide prompt warning of merger events involving neutron stars (including both binary neutron stars and neutron-star-black-holes), which further depends critically on the low-frequency sensitivity of LIGO as a typical binary neutron star stays in this band for minutes. However, the current sub-60 Hz sensitivity of LIGO has not yet reached its design target and the excess noise can be more than an order of magnitude below 20 Hz. It is limited by nonlinearly coupled noises from auxiliary control loops which are also nonstationary, posing challenges to realistic early-warning pipelines. Nevertheless, machine-learning-based neural networks provide ways to simultaneously improve the low-frequency sensitivity and mitigate its nonstationarity, and detect the real-time gravitational-wave signal with a very short computational time. We propose to achieve this by inputting both the main gravitational-wave readout and key auxiliary witnesses to a compound neural network. Using simulated data with characteristic representing the real LIGO detectors, our machine-learning-based neural networks can reduce nonlinearly coupled noise by about a factor of 5 and allows a typical binary neutron star (neutron-star-black-hole) to be detected 100 s (10 s) before the merger at a distance of 40 Mpc (160 Mpc). If one can further reduce the noise to the fundamental limit, our neural networks can achieve detection out to a distance of 80 Mpc and 240 Mpc for binary neutron stars and neutron-star-black-holes, respectively. It thus demonstrates that utilizing machine-learning-based neural networks is a promising direction for the timely detection of the coalescence of electromagnetically bright LIGO/Virgo sources.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   file = {/Users/herb/Zotero/storage/C7UBKQQY/2021Yu_et_al-Early_warning_of_coalescing_neutron-star_and_neutron-star-black-hole_binaries.pdf}
 }
 
@@ -3098,14 +3093,13 @@
   primaryclass = {gr-qc},
   abstract = {Minute-long Gravitational Wave (GW) transients are events lasting from few to hundreds of seconds. In opposition to compact binary mergers, their GW signals cover a wide range of poorly understood astrophysical phenomena such as accretion disk instabilities and magnetar flares. The lack of accurate and rapidly generated gravitational-wave emission models prevents the use of matched filtering methods. Such events are thus probed through the template-free excess-power method, consisting in searching for a local excess of power in the time-frequency space correlated between detectors. The problem can be viewed as a search for high-value clustered pixels within an image, which has been generally tackled by deep learning algorithms such as Convolutional Neural Networks (CNNs). In this work, we use a CNN as a anomaly detection tool for the long-duration searches. We show that it can reach a pixel-wise detection despite trained with minimal assumptions, while being able to retrieve both astrophysical signals and noise transients originating from instrumental coupling within the detectors. We also note that our neural network can extrapolate and connect partially disjoint signal tracks in the time-frequency plane.},
   archiveprefix = {arXiv},
-  keywords = {General Relativity and Quantum Cosmology},
   annotation = {ZSCC: NoCitationData[s0]},
   note = {Comment: 14 pages, 15 figures},
   file = {/Users/herb/Zotero/storage/MR9BATCD/2022Boudart_et_al-A_machine_learning_algorithm_for_minute-long_Burst_searches.pdf;/Users/herb/Zotero/storage/MKDWRKLN/2201.html}
 }
 
 @article{2022ChoudharySiGMaNetDeeplearning,
-  title = {SiGMa-Net: Deep Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients},
+  title = {{{SiGMa-Net}}: {{Deep}} Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients},
   shorttitle = {{{SiGMa-Net}}},
   author = {Choudhary, Sunil and More, Anupreeta and Suyamprakasam, Sudhagar and Bose, Sukanta},
   year = {2022},
@@ -3116,7 +3110,7 @@
   primaryclass = {astro-ph, physics:gr-qc, physics:physics},
   abstract = {Blip glitches, a type of short-duration noise transient in the LIGO--Virgo data, are a nuisance for the binary black hole (BBH) searches. They affect the BBH search sensitivity significantly because their time-domain morphologies are very similar, and that creates difficulty in vetoing them. In this work, we construct a deep-learning neural network to efficiently distinguish BBH signals from blip glitches. We introduce sine-Gaussian projection (SGP) maps, which are projections of GW frequency-domain data snippets on a basis of sine-Gaussians defined by the quality factor and central frequency. We feed the SGP maps to our deep-learning neural network, which classifies the BBH signals and blips. Whereas the BBH signals are simulated, the blips used are taken from real data throughout our analysis. We show that our network significantly improves the identification of the BBH signals in comparison to the results obtained using traditional-\$\textbackslash chi\^2\$ and sine-Gaussian \$\textbackslash chi\^2\$. For example, our network improves the sensitivity by 75\% at a false-positive rate of \$10\^\{-2\}\$ for BBHs with total mass in the range \$[80,140]\textasciitilde M\_\{\textbackslash odot\}\$ and SNR in the range \$[3,8]\$. Also, it correctly identifies 95\% of the real GW events in GWTC-3. The computation time for classification is a few minutes for thousands of SGP maps on a single core. With further optimisation in the next version of our algorithm, we expect a further reduction in the computational cost. Our proposed method can potentially improve the veto process in the LIGO--Virgo GW data analysis and conceivably support identifying GW signals in low-latency pipelines.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics,BBH,CNN,Detection,General Relativity and Quantum Cosmology,notion,Physics - Data Analysis; Statistics and Probability},
+  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics,BBH,CNN,Detection,General Relativity and Quantum Cosmology,Physics - Data Analysis; Statistics and Probability},
   annotation = {ZSCC: NoCitationData[s0]},
   note = {Comment: 11 pages, 8 figures and 2 tables. Reviewed by LIGO Scientific Collaboration (LSC) with preprint number LIGO-P2100485},
   file = {/Users/herb/Zotero/storage/7V2T7TRU/2022Choudhary_et_al-SiGMa-Net.pdf;/Users/herb/Zotero/storage/WQMCK2PP/2202.html}
@@ -3153,6 +3147,23 @@
   file = {/Users/herb/Zotero/storage/TQ4V6U9K/2022Dahal-Application_of_common_spatial_patterns_in_gravitational_waves_detection.pdf}
 }
 
+@article{2022FreitasGeneratinggravitationalwaveform,
+  title = {Generating Gravitational Waveform Libraries of Exotic Compact Binaries with Deep Learning},
+  author = {Freitas, Felipe F. and Herdeiro, Carlos A. R. and Morais, Ant{\'o}nio P. and Onofre, Ant{\'o}nio and Pasechnik, Roman and Radu, Eugen and {Sanchis-Gual}, Nicolas and Santos, Rui},
+  year = {2022},
+  month = mar,
+  journal = {arXiv:2203.01267 [gr-qc]},
+  eprint = {2203.01267},
+  eprinttype = {arxiv},
+  primaryclass = {gr-qc},
+  abstract = {Current gravitational wave (GW) detections rely on the existence of libraries of theoretical waveforms. Consequently, finding new physics with GWs requires libraries of non-standard models, which are computationally demanding. We discuss how deep learning frameworks can be used to generate new waveforms "learned" from a simulation dataset obtained, say, from numerical relativity simulations. Concretely, we use the WaveGAN architecture of a generative adversarial network (GAN). As a proof of concept we provide this neural network (NN) with a sample of (\${$>$}500\$) waveforms from the collisions of exotic compact objects (Proca stars), obtained from numerical relativity simulations. Dividing the sample into a training and a validation set, we show that after a sufficiently large number of training epochs the NN can produce from 12\textbackslash\% to 25\textbackslash\% of the synthetic waveforms with an overlapping match of at least 95\textbackslash\% with the ones from the validation set. We also demonstrate that a NN can be used to predict the overlapping match score, with 90\textbackslash\% of accuracy, of new synthetic samples. These are encouraging results for using GANs for data augmentation and interpolation in the context of GWs, to cover the full parameter space of, say, exotic compact binaries, without the need of intensive numerical relativity simulations.},
+  archiveprefix = {arXiv},
+  keywords = {General Relativity and Quantum Cosmology},
+  annotation = {ZSCC: NoCitationData[s0]},
+  note = {Comment: 20 pages, 13 figures, 4 tables},
+  file = {/Users/herb/Zotero/storage/56WPBTIZ/2022Freitas_et_al-Generating_gravitational_waveform_libraries_of_exotic_compact_binaries_with.pdf;/Users/herb/Zotero/storage/ZXX2FAHE/2203.html}
+}
+
 @article{2022KhanInterpretableAiForecasting,
   ids = {2022},
   title = {Interpretable {{AI}} Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprecessing Binary Black Hole Mergers},
@@ -3172,7 +3183,7 @@
   abstract = {We use artificial intelligence (AI) to learn and infer the physics of higher order gravitational wave modes of quasi-circular, spinning, non precessing binary black hole mergers. We trained AI models using 14 million waveforms, produced with the surrogate model NRHybSur3dq8, that include modes up to {$\mathscr{l}$} {$\leq$} 4 and (5,5), except for (4,0) and (4,1), that describe binaries with mass-ratios q{$\leq$}8 and individual spins s\textsuperscript{z}{$_($}1,2){$\in$}[-0.8, 0.8]. We use our AI models to obtain deterministic and probabilistic estimates of the mass-ratio, individual spins, effective spin, and inclination angle of numerical relativity waveforms that describe such signal manifold. Our studies indicate that AI provides informative estimates for these physical parameters. This work marks the first time AI is capable of characterizing this high-dimensional signal manifold. Our AI models were trained within 3.4 hours using distributed training on 256 nodes (1,536 NVIDIA V100 GPUs) in the Summit supercomputer.},
   archiveprefix = {arXiv},
   refid = {10.1103/PhysRevD.105.024024},
-  keywords = {68T10,83C35,83C57,85-08,astro-ph.IM,cs.AI,gr-qc,I.2},
+  keywords = {astro-ph.IM,cs.AI,gr-qc},
   file = {/Users/herb/Zotero/storage/FNFPILVW/2022Khan_et_al-Interpretable_AI_forecasting_for_numerical_relativity_waveforms_of.pdf}
 }
 
@@ -3191,7 +3202,6 @@
   doi = {10.1103/PhysRevD.105.023531},
   abstract = {We study the potential of Bayesian Neural Networks (BNNs) to detect new physics in the dark matter power spectrum, concentrating here on evolving dark energy and modifications to General Relativity. After introducing a new technique to quantify classification uncertainty in BNNs, we train two BNNs on mock matter power spectra produced using the publicly available code \$\textbackslash tt\{ReACT\}\$ in the \$k\$-range \$\textbackslash left(0.01 - 2.5\textbackslash right) \textbackslash, h \textbackslash mathrm\{Mpc\}\^\{-1\} \$ and redshift bins \$\textbackslash left(0.1,0.478,0.783,1.5\textbackslash right)\$ with Euclid-like noise. The first network classifies spectra into five labels including \$\textbackslash Lambda\$CDM, \$f(R)\$, \$w\$CDM, Dvali-Gabadaze-Porrati (DGP) gravity and a "random" class whereas the second is trained to distinguish \$\textbackslash Lambda\$CDM from non-\$\textbackslash Lambda\$CDM. Both networks achieve a comparable training, validation and test accuracy of \$\textbackslash sim 95\textbackslash\%\$. Each network is also capable of detecting deviations from \$\textbackslash Lambda\$CDM that were not included in the training set, demonstrated with spectra generated using the growth-index \$\textbackslash gamma\$. We then quantify the constraining power of each network by computing the smallest deviation from \$\textbackslash Lambda\$CDM such that the noise-averaged non-\$\textbackslash Lambda\$CDM classification probability is at least \$2\textbackslash sigma\$, finding these bounds to be \$f\_\{R0\} \textbackslash lesssim 10\^\{-7\}\$, \$\textbackslash Omega\_\{rc\} \textbackslash lesssim 10\^\{-2\} \$, \$-1.05 \textbackslash lesssim w\_0 \textbackslash lesssim 0.95 \$, \$-0.2 \textbackslash lesssim w\_a \textbackslash lesssim 0.2 \$, \$0.52 \textbackslash lesssim \textbackslash gamma \textbackslash lesssim 0.59 \$. The bounds on \$f(R)\$ can be improved by training a specialist network to distinguish solely between \$\textbackslash Lambda\$CDM and \$f(R)\$ power spectra which can detect a non-zero \$f\_\{R0\}\$ at \$\textbackslash mathcal\{O\}\textbackslash left(10\^\{-8\}\textbackslash right)\$ with a confidence \${$>$}2\textbackslash sigma\$. We expect that further developments, such as the inclusion of smaller length scales or additional extensions to \$\textbackslash Lambda\$CDM, will only improve the potential of BNNs to detect new physics using cosmological datasets.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
   note = {Comment: 19+9 pages, 16 figures, code available at https://github.com/Mik3M4n/BaCoN, data available at https://doi.org/10.5281/zenodo.4309918. v2: matches version accepted for publication in PRD. v3: title matches published version},
   file = {/Users/herb/Zotero/storage/LCMUJM8R/2022Mancarella_et_al-Seeking_new_physics_in_cosmology_with_Bayesian_neural_networks.pdf}
 }
@@ -3207,7 +3217,6 @@
   primaryclass = {astro-ph, physics:gr-qc},
   abstract = {Deep learning can be used to drastically decrease the processing time of parameter estimation for coalescing binaries of compact objects including black holes and neutron stars detected in gravitational waves (GWs). As a first step, we present two neural network models trained to rapidly estimate the posterior distributions of the chirp mass and mass ratio of a detected binary black hole system from the GW strain data of LIGO Hanford and Livingston Observatories. Using these parameters the component masses can be predicted, which has implications for the prediction of the likelihood that a merger contains a neutron star. The results are compared to the 'gold standard' of parameter estimation of gravitational waves used by the LIGO-Virgo Collaboration (LVC), LALInference. Our models predict posterior distributions consistent with that from LALInference while using orders of magnitude less processing time once the models are trained. The median predictions are within the 90\% credible intervals of LALInference for all predicted parameters when tested on real binary black hole events detected during the LVC's first and second observing runs. We argue that deep learning has strong potential for low-latency high-accuracy parameter estimation suitable for real-time GW search pipelines.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics,General Relativity and Quantum Cosmology},
   note = {Comment: 17 pages, 16 figures},
   file = {/Users/herb/Zotero/storage/A6P7NZ8V/2022McLeod_et_al-Rapid_Mass_Parameter_Estimation_of_Binary_Black_Hole_Coalescences_Using_Deep.pdf;/Users/herb/Zotero/storage/NFPQJQ9N/2201.html}
 }
@@ -3223,7 +3232,6 @@
   primaryclass = {astro-ph},
   abstract = {The complex physics involved in atmospheric turbulence makes it very difficult for ground-based astronomy to build accurate scintillation models and develop efficient methodologies to remove this highly structured noise from valuable astronomical observations. We argue that a Deep Learning approach can bring a significant advance to treat this problem because of deep neural networks' inherent ability to abstract non-linear patterns over a broad scale range. We propose an architecture composed of long-short term memory cells and an incremental training strategy inspired by transfer and curriculum learning. We develop a scintillation model and employ an empirical method to generate a vast catalog of atmospheric noise realizations and train the network with representative data. We face two complexity axes: the signal-to-noise ratio (SNR) and the degree of structure in the noise. Hence, we train our recurrent network to recognize simulated astrophysical point-like sources embedded in three structured noise levels, with a raw-data SNR ranging from 3 to 0.1. We find that a slow and repetitive increase in complexity is crucial during training to obtain a robust and stable learning rate that can transfer information through different data contexts. We probe our recurrent model with synthetic observational data, designing alongside a calibration methodology for flux measurements. Furthermore, we implement a traditional matched filtering (MF) to compare its performance with our neural network, finding that our final trained network can successfully clean structured noise and significantly enhance the SNR compared to raw data and in a more robust way than traditional MF.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - Instrumentation and Methods for Astrophysics},
   note = {Comment: 26 pages, 12 figures, submitted to The Astrophysical Journal Supplement},
   file = {/Users/herb/Zotero/storage/EXE5U92P/2022Rocha-Solache_et_al-Time-domain_deep_learning_filtering_of_structured_atmospheric_noise_for.pdf;/Users/herb/Zotero/storage/FHFK2ULK/2201.html}
 }
@@ -3239,7 +3247,7 @@
   primaryclass = {astro-ph, physics:gr-qc},
   abstract = {We describe a case study of translational research, applying interpretability techniques developed for computer vision to machine learning models used to search for and find gravitational waves. The models we study are trained to detect black hole merger events in non-Gaussian and non-stationary advanced Laser Interferometer Gravitational-wave Observatory (LIGO) data. We produced visualizations of the response of machine learning models when they process advanced LIGO data that contains real gravitational wave signals, noise anomalies, and pure advanced LIGO noise. Our findings shed light on the responses of individual neurons in these machine learning models. Further analysis suggests that different parts of the network appear to specialize in local versus global features, and that this difference appears to be rooted in the branched architecture of the network as well as noise characteristics of the LIGO detectors. We believe efforts to whiten these "black box" models can suggest future avenues for research and help inform the design of interpretable machine learning models for gravitational wave astrophysics.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - High Energy Astrophysical Phenomena,BBH,CNN,Computer Science - Artificial Intelligence,Detection,General Relativity and Quantum Cosmology,notion},
+  keywords = {Astrophysics - High Energy Astrophysical Phenomena,BBH,CNN,Computer Science - Artificial Intelligence,Detection,General Relativity and Quantum Cosmology},
   annotation = {ZSCC: 0000000},
   note = {Comment: 19 pages, to be submitted, comments are welcome. Movies based on this work can be accessed via: https://www.youtube.com/watch?v=SXFGMOtJwn0 https://www.youtube.com/watch?v=itVCj9gpmAs},
   file = {/Users/herb/Zotero/storage/DHXA8IF7/2022Safarzadeh_et_al-Interpreting_a_Machine_Learning_Model_for_Detecting_Gravitational_Waves.pdf;/Users/herb/Zotero/storage/UZM2UW2V/2202.html}
@@ -3285,7 +3293,6 @@
   primaryclass = {astro-ph, physics:gr-qc, stat},
   abstract = {There is growing interest in the detection and characterization of gravitational waves from postmerger oscillations of binary neutron stars. These signals contain information about the nature of the remnant and the high-density and out-of-equilibrium physics of the postmerger processes, which would complement any electromagnetic signal. However, the construction of binary neutron star postmerger waveforms is much more complicated than for binary black holes: (i) there are theoretical uncertainties in the neutron-star equation of state and other aspects of the high-density physics, (ii) numerical simulations are expensive and available ones only cover a small fraction of the parameter space with limited numerical accuracy, and (iii) it is unclear how to parametrize the theoretical uncertainties and interpolate across parameter space. In this work, we describe the use of a machine-learning method called a conditional variational autoencoder (CVAE) to construct postmerger models for hyper/massive neutron star remnant signals based on numerical-relativity simulations. The CVAE provides a probabilistic model, which encodes uncertainties in the training data within a set of latent parameters. We estimate that training such a model will ultimately require \$\textbackslash sim 10\^4\$ waveforms. However, using synthetic training waveforms as a proof-of-principle, we show that the CVAE can be used as an accurate generative model and that it encodes the equation of state in a useful latent representation.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - High Energy Astrophysical Phenomena,Computer Science - Machine Learning,General Relativity and Quantum Cosmology,Statistics - Machine Learning},
   file = {/Users/herb/Zotero/storage/RKJ55K5V/2022Whittaker_et_al-Using_machine_learning_to_parametrize_postmerger_signals_from_binary_neutron.pdf;/Users/herb/Zotero/storage/G8USRIFR/2201.html}
 }
 
@@ -3300,7 +3307,7 @@
   primaryclass = {astro-ph, physics:gr-qc},
   abstract = {Extreme mass ratio inspirals (EMRIs) are among the most interesting gravitational wave (GW) sources for space-borne GW detectors. However, successful GW data analysis remains challenging due to many issues, ranging from the difficulty of modeling accurate waveforms, to the impractically large template bank required by the traditional matched filtering search method. In this work, we introduce a proof-of-principle approach for EMRI detection based on convolutional neural networks (CNNs). We demonstrate the performance with simulated EMRI signals buried in Gaussian noise. We show that over a wide range of physical parameters, the network is effective for EMRI systems with a signal-to-noise ratio larger than 50, and the performance is most strongly related to the signal-to-noise ratio. The method also shows good generalization ability towards different waveform models. Our study reveals the potential applicability of machine learning technology like CNNs towards more realistic EMRI data analysis.},
   archiveprefix = {arXiv},
-  keywords = {Astrophysics - High Energy Astrophysical Phenomena,General Relativity and Quantum Cosmology,notion},
+  keywords = {Astrophysics - High Energy Astrophysical Phenomena,CNN,Detection,EMRI,General Relativity and Quantum Cosmology},
   annotation = {ZSCC: 0000000},
   note = {Comment: 12 pages, 4 figures},
   file = {/Users/herb/Zotero/storage/RU28QG44/2022Zhang_et_al-Detecting_Gravitational-waves_from_Extreme_Mass_Ratio_Inspirals_using.pdf;/Users/herb/Zotero/storage/64RBRF7V/2202.html}
@@ -3779,7 +3786,7 @@
   eprinttype = {arxiv},
   abstract = {Gravitational waves are ripples in the space time fabric when high energy events such as black hole mergers or neutron star collisions take place. The first Gravitational Wave (GW) detection (GW150914) was made by the Laser Interferometer Gravitational-wave Observatory (LIGO) on September 14, 2015. Furthermore, the proof of the existence of GWs had countless implications from Stellar Evolution to General Relativity. Gravitational waves detection requires multiple filters and the filtered data has to be studied intensively to come to conclusions on whether the data is a just a glitch or an actual gravitational wave detection. However, with the use of Deep Filtering the process is simplified heavily, as it reduces the level of filtering greatly, and the output is definitive and binary. This technique, Deep Filtering, uses a one-dimensional convolutional neural network (CNN). The model is trained by a composite of real LIGO noise, and injections of GW waveform templates. The CNN effectively uses classification to differentiate weak GW time series from non-gaussian noise from glitches in the LIGO time-series. The model's sensitivity is higher than all prior studies in this field, when making real-time detections of GWs at an extremely low SNR, while still being less computationally expensive.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM},
+  keywords = {astro-ph.IM},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/PWFNNDJS/2020Chauhan-Deep_learning_model_to_make_gravitational_wave_detections_from_weak_time-series.pdf}
 }
@@ -3802,7 +3809,7 @@
   doi = {10.1103/PhysRevD.103.084018},
   abstract = {[Abridged] We introduce an improved version of the Eccentric, Non-spinning, Inspiral-Gaussian-process Merger Approximant (ENIGMA) waveform model. We find that this ready-to-use model can: (i) produce physically consistent signals when sampling over 1M samples chosen over the m\textsubscript{\{1,\,2\}}{$\in$} parameter space, and the entire range of binary inclination angles; (ii) produce waveforms within 0.04 seconds from an initial gravitational wave frequency f\textsubscript{GW} =15\,Hz and at a sample rate of 8192 Hz; and (iii) reproduce the physics of quasi-circular mergers. We utilize ENIGMA to compute the expected signal-to-noise ratio (SNR) distributions of eccentric binary black hole mergers assuming the existence of second and third generation gravitational wave detector networks that include the twin LIGO detectors, Virgo, KAGRA, LIGO-India, a LIGO-type detector in Australia, Cosmic Explorer, and the Einstein Telescope. In the context of advanced LIGO-type detectors, we find that the SNR of eccentric mergers is always larger than quasi-circular mergers for systems with e{$_{0}\leq$}0.4 at f\textsubscript{GW} =10\,Hz, even if the timespan of eccentric signals is just a third of quasi-circular systems with identical total mass and mass-ratio. For Cosmic Explorer-type detector networks, we find that eccentric mergers have similar SNRs than quasi-circular systems for e{$_{0}\leq$}0.3 at f\textsubscript{GW} =10\,Hz. Systems with e{$_{0}\sim$}0.5 at f\textsubscript{GW} =10\,Hz have SNRs that range between 50\%-90\% of the SNR produced by quasi-circular mergers, even if these eccentric signals are just between a third to a tenth the length of quasi-circular systems. For Einstein Telescope-type detectors, we find that eccentric mergers have similar SNRs than quasi-circular systems for e{$_{0}\leq$}0.4 at f\textsubscript{GW} =5\,Hz.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,gr-qc,J.2},
+  keywords = {gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/ZEU9HXUC/2021Chen_et_al-Observation_of_eccentric_binary_black_hole_mergers_with_second_and_third.pdf}
 }
@@ -4008,7 +4015,7 @@
   abstract = {Machine learning has emerged as a popular and powerful approach for solving problems in astrophysics. We review applications of machine learning techniques for the analysis of ground-based gravitational-wave (GW) detector data. Examples include techniques for improving the sensitivity of Advanced Laser Interferometer GW Observatory and Advanced Virgo GW searches, methods for fast measurements of the astrophysical parameters of GW sources, and algorithms for reduction and characterization of non-astrophysical detector noise. These applications demonstrate how machine learning techniques may be harnessed to enhance the science that is possible with current and future GW detectors.},
   archiveprefix = {arXiv},
   langid = {english},
-  keywords = {astro-ph.HE,gr-qc},
+  keywords = {gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/J5VFFM8P/2020Cuoco_et_al-Enhancing_gravitational-wave_science_with_machine_learning.pdf}
 }
@@ -4185,7 +4192,6 @@
   doi = {10.1103/PhysRevD.102.023025},
   abstract = {Gravitational waves from the merger of two neutron stars cannot be easily distinguished from those produced by a comparable-mass mixed binary in which one of the companions is a black hole. Low-mass black holes are interesting because they could form in the aftermath of the coalescence of two neutron stars, from the collapse of massive stars, from matter overdensities in the primordial Universe, or as the outcome of the interaction between neutron stars and dark matter. Gravitational waves carry the imprint of the internal composition of neutron stars via the so-called tidal deformability parameter, which depends on the stellar equation of state and is equal to zero for black holes. We present a new data analysis strategy powered by Bayesian inference and machine learning to identify mixed binaries, hence low-mass black holes, using the distribution of the tidal deformability parameter inferred from gravitational-wave observations.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE},
   annotation = {ZSCC: 0000012},
   file = {/Users/herb/Zotero/storage/XHRU2WCJ/2020Fasano_et_al-Distinguishing_double_neutron_star_from_neutron_star-black_hole_binary.pdf}
 }
@@ -4275,7 +4281,7 @@
   eprinttype = {arxiv},
   abstract = {A KL-divergence objective of the joint distribution of data and labels allows to unify supervised learning, VAEs and semi-supervised learning under one umbrella of variational inference. This viewpoint has several advantages. For VAEs, it clarifies the interpretation of encoder and decoder parts. For supervised learning, it re-iterates that the training procedure approximates the true posterior over labels and can always be viewed as approximate likelihood-free inference. This is typically not discussed, even though the derivation is well-known in the literature. In the context of semi-supervised learning it motivates an extended supervised scheme which allows to calculate a goodness-of-fit p-value using posterior predictive simulations. Flow-based networks with a standard normal base distribution are crucial. We discuss how they allow to rigorously define coverage for arbitrary joint posteriors on {$\mathbb{R}^n$} \texttimes{} {$\mathmit{S}^m$}, which encompasses posteriors over directions. Finally, systematic uncertainties are naturally included in the variational viewpoint. With the three ingredients of (1) systematics, (2) coverage and (3) goodness-of-fit, flow-based neural networks have the potential to replace a large part of the statistical toolbox of the contemporary high-energy physicist.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,cs.LG,hep-ex,stat.ML},
+  keywords = {astro-ph.IM,cs.LG,hep-ex,stat.ML},
   annotation = {ZSCC: 0000000},
   file = {/Users/herb/Zotero/storage/TGAGDFNG/2020Glüsenkamp-Unifying_supervised_learning_and_VAEs_–_automating_statistical_inference_in.pdf}
 }
@@ -4669,7 +4675,7 @@
   doi = {10.1103/PhysRevD.102.023006},
   abstract = {Low mass X-ray binaries are prime targets for continuous gravitational wave searches by ground-based interferometers. Results are presented from a search for five low-mass X-ray binaries whose spin frequencies and orbital elements are measured accurately from X-ray pulsations: HETE J1900.1-2455, IGR J00291+5934, SAX J1808.4-3658, XTE J0929-314, and XTE J1814-338. Data are analysed from Observing Run 2 of the Advanced Laser Interferometer Gravitational-wave Observatory (LIGO). The search algorithm uses a hidden Markov model to track spin wandering, the {$\mathmit{J}$}-statistic maximum likelihood matched filter to track orbital phase, and a suite of five vetoes to reject artefacts from non-Gaussian noise. The search yields a number of low-significance, above threshold candidates consistent with the selected false-alarm probability. The candidates will be followed up in subsequent observing runs.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   annotation = {ZSCC: 0000014},
   file = {/Users/herb/Zotero/storage/TDXAFWQW/2020Middleton_et_al-Search_for_gravitational_waves_from_five_low_mass_x-ray_binaries_in_the_second.pdf}
 }
@@ -5113,6 +5119,7 @@
   doi = {10.1109/ICASSP.2019.8683061},
   archiveprefix = {arXiv},
   organization = {{IEEE}},
+  keywords = {Denoising},
   annotation = {ZSCC: 0000051},
   file = {/Users/herb/Zotero/storage/G62GIS37/2019Shen_et_al-Denoising_gravitational_waves_with_enhanced_deep_recurrent_denoising.pdf}
 }
@@ -5152,7 +5159,7 @@
   doi = {10.1093/mnras/staa1776},
   abstract = {The large sky localization regions offered by the gravitational-wave interferometers require efficient follow-up of the many counterpart candidates identified by the wide field-of-view telescopes. Given the restricted telescope time, the creation of prioritized lists of the many identified candidates becomes mandatory. Towards this end, we use astrorapid, a multiband photometric light-curve classifier, to differentiate between kilonovae, supernovae, and other possible transients. We demonstrate our method on the photometric observations of real events. In addition, the classification performance is tested on simulated light curves, both ideally and realistically sampled. We show that after only a few days of observations of an astronomical object, it is possible to rule out candidates as supernovae and other known transients.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.HE,astro-ph.IM,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   file = {/Users/herb/Zotero/storage/E8NFFEPK/2020Stachie_et_al-Using_machine_learning_for_transient_classification_in_searches_for.pdf}
 }
@@ -5259,7 +5266,7 @@
   abstract = {Many astronomical surveys are limited by the brightness of the sources, and gravitational-wave searches are no exception. The detectability of gravitational waves from merging binaries is affected by the mass and spin of the constituent compact objects. To perform unbiased inference on the distribution of compact binaries, it is necessary to account for this selection effect, which is known as Malmquist bias. Since systematic error from selection effects grows with the number of events, it will be increasingly important over the coming years to accurately estimate the observational selection function for gravitational-wave astronomy. We employ a range of machine learning methods to accurately and efficiently compute the compact binary coalescence selection function. We introduce a simple pre-processing method, which significantly reduces the complexity of the required machine learning models. As a demonstration of our method, we reproduce and extend the results from the recent LIGO\textendash Virgo analysis of events from their second gravitational-wave transient catalog (GWTC-2). While qualitatively consistent with previous work, we find that the method used to compute the selection function noticeably affects the inferred population. The most significant change is a 1{$\sigma$} increase in the steepness of the mass ratio distribution and an {$\sim$}10\% increase in the inferred rate, R\textsubscript{BBH} = 32{$^{+11}_{-9}$}Gpc{$^{-3}$}yr{$^{-1}$}, when using our new method. Including spin effects in the selection function does not significantly impact the results with current uncertainties.},
   archiveprefix = {arXiv},
   langid = {english},
-  keywords = {astro-ph.HE,astro-ph.IM,Astrophysics - High Energy Astrophysical Phenomena,Astrophysics - Instrumentation and Methods for Astrophysics,General Relativity and Quantum Cosmology,gr-qc},
+  keywords = {astro-ph.IM,gr-qc},
   annotation = {ZSCC: NoCitationData[s0]},
   note = {Comment: 11 pages, 6 figures, accompanying code at https://github.com/ColmTalbot/gmm\_sensitivity\_estimation},
   file = {/Users/herb/Zotero/storage/X9JIY6UZ/2022Talbot_et_al-Fast,_flexible,_and_accurate_evaluation_of_gravitational-wave_Malmquist_bias.pdf}
