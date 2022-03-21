@@ -184,6 +184,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Khan et al. (2022) [@2022KhanInterpretableAiForecasting] (PRD)]** - Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprecessing Binary Black Hole Mergers
     - **[Coogan et al. (2022) [@2022CooganEfficientTemplateBank] (2202.09380)]** - Efficient Template Bank Generation with Differentiable Waveforms
     - **[Freitas et al. (2022) [@2022FreitasGeneratinggravitationalwaveform] (2203.01267)]** - Generating Gravitational Waveform Libraries of Exotic Compact Binaries with Deep Learning
+    - **[Freitas et al. (2022) [@2022FragkouliDeepResidualError] (2203.08434)]** - Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Modeling
 
 
 
