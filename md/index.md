@@ -151,6 +151,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Chatterjee et al. (2021) [@2021ChatterjeeExtractionBinaryBlack] (PRD)]** - Extraction of Binary Black Hole Gravitational Wave Signals from Detector Data Using Deep Learning
     - **[Mogushi (2021) [@mogushi2021reduction] (2105.10522)]** - Reduction of Transient Noise Artifacts in Gravitational-wave Data Using Deep Learning
     - **[Colgan et al. (2022) [@2022ColganDetectingDiagnosingTerrestrial] (2203.05086)]** - Detecting and Diagnosing Terrestrial Gravitational-Wave Mimics Through Feature Learning
+    - **[Lopez et al. (2022) [@2022LopezSimulatingTransientNoise] (2203.06494)]** - Simulating Transient Noise Bursts in LIGO with Generative Adversarial Networks
 
 
 ---
