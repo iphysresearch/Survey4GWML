@@ -333,6 +333,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Wang et al. (2022) [@2022WangSamplingPriorKnowledge] (BDMA)]** - Sampling with Prior Knowledge for High-dimensional Gravitational Wave Data Analysis
     - **[McLeod et al. (2022) [@2022McLeodRapidMassParameter] (2201.11126)]** - Rapid Mass Parameter Estimation of Binary Black Hole Coalescences Using Deep Learning
     - **[Sasaoka et al. (2022) [@2022SasaokaLocalizationgravitationalwaves] (2202.12784)]** - Localization of Gravitational Waves Using Machine Learning
+    - **[Guo et al. (2022) [@2022GuoMimickingMergersMistaking] (2203.06969)]** - Mimicking Mergers: Mistaking Black Hole Captures as Mergers
 
 ## Population Studies
 
