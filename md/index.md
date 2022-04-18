@@ -267,7 +267,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Goyal et al. (2021) [@2021GoyalRapidIdentificationStrongly] (PRD)]** - Rapid Identification of Strongly Lensed Gravitational-wave Events with Machine Learning
     - **[Dodia et al. (2021) [@2021DodiaSpecgravDetectionGravitational] (2107.03607)]** - Specgrav -- Detection of Gravitational Waves Using Deep Learning
     - **[Van Lieshout (2021) [@2021LieshoutSparseDeepNeural] (Master Thesis)]** - Sparse, Deep Neural Networks for the Early Detection of Gravitational Waves from Binary Neutron Stars
-    - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
+    - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (Mach. learn.: sci. technol.)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Schäfer et al. (2021) [@2021SchaeferOneManyDeep] (PRD)]** - From One to Many: A Deep Learning Coincident Gravitational-Wave Search
     - **[Verma et al. (2021) [@2021VermaEmployingDeepLearning] (2110.01883)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
     - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitationa] (Universe)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
