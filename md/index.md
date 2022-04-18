@@ -271,7 +271,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Schäfer et al. (2021) [@2021SchaeferOneManyDeep] (PRD)]** - From One to Many: A Deep Learning Coincident Gravitational-Wave Search
     - **[Verma et al. (2021) [@2021VermaEmployingDeepLearning] (2110.01883)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
     - **[Cuoco et al. (2021) [@2021CuocoMultimodalAnalysisGravitationa] (Universe)]** - Multimodal Analysis of Gravitational Wave Signals and Gamma-ray Bursts from Binary Neutron Star Mergers
-    - **[Abbott et al. (2021) [@abbott2021gwskynetmulti] (2111.04015)]** - GWSkyNet-Multi: A Machine Learning Multi-class Classifier for LIGO-Virgo Public Alerts
+    - **[Abbott et al. (2021) [@abbott2021gwskynetmulti] (ApJ)]** - GWSkyNet-Multi: A Machine-learning Multiclass Classifier for LIGO-Virgo Public Alerts
     - **[Ding et al. (2021) [@2021DingUnimapModelfree] (2111.09465)]** - UniMAP: Model-free Detection of Unclassified Noise Transients in LIGO-Virgo Data Using the Temporal Outlier Factor
     - **[Moreno et al. (2021) [@2021MorenoSourceagnosticGravitational] (2107.12698)]** - Source-agnostic Gravitational-wave Detection with Recurrent Autoencoders
     - **[Ruan et al. (2021) [@2021RuanRapidSearchMassive] (2111.14546)]** - Rapid Search for Massive Black Hole Binary Coalescences Using Deep Learning
