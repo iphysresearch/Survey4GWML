@@ -517,6 +517,7 @@ Some selected interesting works:
 - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (Mach. learn.: sci. technol.)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: an efficient NN-based PDE solver
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (PRE)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
+- **[Rosofsky & Huerta (2022) [@2022RosofskyApplicationsphysicsinformed] (2203.12634)]** - Applications of Physics Informed Neural Operators
 
 
 # License
