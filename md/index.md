@@ -363,6 +363,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Wong et al .(2020) [@2020WongJointConstraintsField] (PRD)]** - Joint Constraints on the Field-cluster Mixing Fraction, Common Envelope Efficiency, and Globular Cluster Radii from a Population of Binary Hole Mergers Via Deep Learning
 * **[Mould et al. (2022) [@2022MouldDeeplearningBayesian] (2203.03651)]** - Deep Learning and Bayesian Inference of Gravitational-Wave Populations: Hierarchical Black-Hole Mergers
 * **[Strub et al. (2022) [@2022StrubBayesianparameterestimationGalactic] (2204.04467)]** - Bayesian Parameter-Estimation of Galactic Binaries in LISA Data with Gaussian Process Regression
+* **[Nakama (2022) [@2022NakamaMachinelearningprimoridial] (PRD)]** - Machine Learning Primordial Black Hole Formation
 
 
 --- 
