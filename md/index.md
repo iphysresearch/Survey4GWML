@@ -285,6 +285,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Choudhary et al. (2022) [@2022ChoudharySiGMaNetDeeplearning] (2202.08671)]** - SiGMa-Net: Deep Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients
     - **[McIsaac & Harry (2022) [@2022McIsaacUsingmachinelearning] (2203.03449)]** - Using Machine Learning to Auto-Tune Chi-Squared Tests for Gravitational Wave Searches
     - **[Jiang et al. (2022) [@2022JiangIdentifyrealgravitational] (Front. Phys.)]** - Identify Real Gravitational Wave Events in the LIGO-Virgo Catalog GWTC-1 and GWTC-2 with Convolutional Neural Network
+    - **[Ma et al. (2022) [@2022ma_ensembleofdeepconvolutional] (PRD)]** - Ensemble of Deep Convolutional Neural Networks for Real-Time Gravitational Wave Signal Recognition
 
 
 ## Parameter Estimation (PE)
