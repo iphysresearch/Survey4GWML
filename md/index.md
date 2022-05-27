@@ -159,6 +159,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Yu & Adhikari (2022) [@2022YuNonlinearNoiseCleaning] (Front. Artif. Intell.)]** - Nonlinear Noise Cleaning in Gravitational-Wave Detectors With Convolutional Neural Networks
     - **[Lopez et al. (2022) [@2022LopezSimulatingTransientNoisea] (2205.09204)]** - Simulating Transient Noise Bursts in LIGO with Gengli
     - **[Vajente (2022) [@PhysRevD.105.102005] (PRD)]** - Data Mining and Machine Learning Improve Gravitational-Wave Detector Sensitivity
+    - **[Bacon et al. (2022) [@2022BaconDenoisinggravitationalwavesignals] (2205.13513)]** - Denoising Gravitational-Wave Signals from Binary Black Holes with Dilated Convolutional Autoencoder
 
 
 ---
