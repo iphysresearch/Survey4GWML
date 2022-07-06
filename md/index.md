@@ -52,6 +52,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
 
+- **[Gunny et al. (2022) [@10.1145/3526058.3535454] (ACM)]** - A Software Ecosystem for Deploying Deep Learning in Gravitational Wave Physics
 - **[Harris et al. (2022) [@2022HarrisPhysicsCommunityNeeds] (2203.16255)]** - Physics Community Needs, Tools, and Resources for Machine Learning
 - **[Deiana et al. (2022) [@2021DeianaApplicationsTechniquesFast] ( Front. big data)]** - Applications and Techniques for Fast Machine Learning in Science
 - **[Dvorkin et al. (2022) [@2022DvorkinMachineLearningCosmology] (2203.08056)]** - Machine Learning and Cosmology
