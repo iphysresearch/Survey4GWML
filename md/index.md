@@ -294,6 +294,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Ma et al. (2022) [@2022MaEnsembleDeepConvolutional] (PRD)]** - Ensemble of Deep Convolutional Neural Networks for Real-Time Gravitational Wave Signal Recognition
     - **[Baltus et al. (2022) [@2022BaltusConvolutionalneuralnetwork] (2205.04750)]** - Convolutional Neural Network for Gravitational-Wave Early Alert: Going down in Frequency
     - **[Kim et al. (2022) [@2022KimDeepLearningbasedSearch] (2206.08234)]** - Deep Learning-based Search for Lensed Gravitational-Wave Signals from Binary Black Hole Events in GWTC-1 and -2
+    - **[Verma et al. (2022) [@2022VermaCanConvolutionNeural] (2206.12673)]** - Can Convolution Neural Networks Be Used for Detection of Gravitational Waves from Precessing Black Hole Systems?
 
 
 ## Parameter Estimation (PE)
