@@ -298,6 +298,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Kim et al. (2022) [@2022KimDeepLearningbasedSearch] (2206.08234)]** - Deep Learning-based Search for Lensed Gravitational-Wave Signals from Binary Black Hole Events in GWTC-1 and -2
     - **[Verma et al. (2022) [@2022VermaCanConvolutionNeural] (2206.12673)]** - Can Convolution Neural Networks Be Used for Detection of Gravitational Waves from Precessing Black Hole Systems?
     - **[Aveiro et al. (2022) [@2022AveiroIdentificationBinaryNeutron] (2207.00591)]** - Identification of Binary Neutron Star Mergers in Gravitational-Wave Data Using YOLO One-Shot Object Detection
+    - **[Andrews et al. (2022) [@2022AndrewsDeepSNRdeeplearning] (2207.04749)]** - DeepSNR: A Deep Learning Foundation for Offline Gravitational Wave Detection
 
 
 ## Parameter Estimation (PE)
