@@ -134,6 +134,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Colgan et al. (2022) [@2022ColganArchitecturalOptimizationFeature] (2202.13486)]** - Architectural Optimization and Feature Learning for High-Dimensional Time Series Datasets
      * **[Davis et al. (2022) [@2022DavisIncorporatinginformationLIGO] (2204.03091)]** - Incorporating Information from LIGO Data Quality Streams into the PyCBC Search for Gravitational Waves
      * **[Bahaadini et al. (2022) [@2022BahaadiniDiscriminativeDimensionalityReduction] (2205.13672)]** - Discriminative Dimensionality Reduction Using Deep Neural Networks for Clustering of LIGO Data
+     * **[Yan et al. (2022) [@2022YanImprovingPerformanceGlitch] (Mon. Not. Roy. Astron. Soc.)]** - On Improving the Performance of Glitch Classification for Gravitational Wave Detection by Using Generative Adversarial Networks
 
 
 
