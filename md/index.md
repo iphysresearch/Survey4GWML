@@ -301,6 +301,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Andrews et al. (2022) [@2022AndrewsDeepSNRdeeplearning] (2207.04749)]** - DeepSNR: A Deep Learning Foundation for Offline Gravitational Wave Detection
     - **[Zhao et al. (2022) [@2022ZhaoSpacebasedgravitationalwave] (2207.07414)]** - Space-Based Gravitational Wave Signal Detection and Extraction with Deep Neural Network
     - **[Jingkai Yan et al. (2022) [@2022YanBoostingEfficiencyParametric] (2207.11583)]** - Boosting the Efficiency of Parametric Detection with Hierarchical Neural Networks
+    - **[Sharma et al. (2022) [@2022SharmaFishingmassiveblack] (2208.02545)]** - Fishing Massive Black Hole Binaries with THAMES
 
 
 ## Parameter Estimation (PE)
