@@ -357,6 +357,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Sasaoka et al. (2022) [@2022SasaokaLocalizationgravitationalwaves] (PRD)]** - Localization of Gravitational Waves Using Machine Learning
     - **[Guo et al. (2022) [@2022GuoMimickingMergersMistaking] (2203.06969)]** - Mimicking Mergers: Mistaking Black Hole Captures as Mergers
     - **[Karamanis et al. (2022) [@2022KaramanisAcceleratingastronomicalcosmological] (2207.05652)]** - Accelerating Astronomical and Cosmological Inference with Preconditioned Monte Carlo
+    - **[Chatterjee et al. (2022) [@2022ChatterjeeRapidlocalizationgravitational] (2207.14522)]** - Rapid Localization of Gravitational Wave Sources from Compact Binary Coalescences Using Deep Learning
 
 ## Population Studies
 
