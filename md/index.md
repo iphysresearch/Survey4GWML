@@ -381,6 +381,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Mould et al. (2022) [@2022MouldDeeplearningBayesian] (2203.03651)]** - Deep Learning and Bayesian Inference of Gravitational-Wave Populations: Hierarchical Black-Hole Mergers
 * **[Strub et al. (2022) [@2022StrubBayesianparameterestimationGalactic] (2204.04467)]** - Bayesian Parameter-Estimation of Galactic Binaries in LISA Data with Gaussian Process Regression
 * **[Nakama (2022) [@2022NakamaMachinelearningprimoridial] (PRD)]** - Machine Learning Primordial Black Hole Formation
+* **[Wong et al. (2022) [@2022WongAutomateddiscoveryinterpretable] (2207.12409)]** - Automated Discovery of Interpretable Gravitational-Wave Population Models
 
 
 --- 
