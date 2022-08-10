@@ -419,6 +419,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Songsheng et al. (2021) [@2021SongshengSearchContinuousGravitational] (ApJ)]** - Search for Continuous Gravitational Wave Signals in Pulsar Timing Residuals: A New Scalable Approach with Diffusive Nested Sampling
 - **[Rocha-Solache et al. (2022) [@2022Rocha-SolacheTimedomaindeeplearning] (2201.06672)]** - Time-Domain Deep Learning Filtering of Structured Atmospheric Noise for Ground-Based Millimeter Astronomy
 - **[Yamamoto et al. (2022) [@2022YamamotoAssessingimpactnonGaussian] (2206.00882)]** - Assessing the Impact of Non-Gaussian Noise on Convolutional Neural Networks That Search for Continuous Gravitational Waves
+- **[Vargas & Melatos (2022) [@2022VargasSearchcontinuousgravitational] (2208.03932)]** - Search for Continuous Gravitational Waves from PSR J0437-4715 with a Hidden Markov Model in O3 LIGO Data
 
 
 ---
