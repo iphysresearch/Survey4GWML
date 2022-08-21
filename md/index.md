@@ -391,7 +391,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Strub et al. (2022) [@2022StrubBayesianparameterestimationGalactic] (2204.04467)]** - Bayesian Parameter-Estimation of Galactic Binaries in LISA Data with Gaussian Process Regression
 * **[Nakama (2022) [@2022NakamaMachinelearningprimoridial] (PRD)]** - Machine Learning Primordial Black Hole Formation
 * **[Wong et al. (2022) [@2022WongAutomateddiscoveryinterpretable] (2207.12409)]** - Automated Discovery of Interpretable Gravitational-Wave Population Models
-
+* **[Mohite (2022) [@2022mohite] (PhD Thesis)]** - Data-Driven Population Inference from Gravitational-Wave Sources and Electromagnetic Counterparts
 
 --- 
 
