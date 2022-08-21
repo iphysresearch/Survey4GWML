@@ -140,6 +140,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Sakai et al. (2022) [@2022SakaiTrainingProcessUnsupervised] (2208.03623)]** - Training Process of Unsupervised Learning Architecture for Gravity Spy Dataset
      * **[Powell et al. (2022) [@2022PowellGeneratingtransientnoise] (2207.00207)]** Generating Transient Noise Artifacts in Gravitational-Wave Detector Data with Generative Adversarial Networks
      * **[Iqbal (2022) [@2022AlMamunClassifyinggravitationalwaves] (ResearchGate)]** - Classifying the Gravitational Waves Using the Deep Learning Technique
+     * **[Ferreira et al. (2022) [@2022FerreiraComparisontSNEcosine] (CQG)]** - Comparison between T-SNE and Cosine Similarity for LIGO Glitches Analysis
 
 
 
