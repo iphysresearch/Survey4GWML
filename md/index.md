@@ -548,6 +548,7 @@ Some selected interesting works:
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: an efficient NN-based PDE solver
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (PRE)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
 - **[Rosofsky & Huerta (2022) [@2022RosofskyApplicationsphysicsinformed] (2203.12634)]** - Applications of Physics Informed Neural Operators
+- **[Katsube et al. (2022) [@2022KatsubeDeepLearningMetric] (PRD)]** - Deep Learning Metric Detectors in General Relativity
 
 
 # License
