@@ -491,7 +491,14 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 
 ---
 
-# 7. GW / Cosmology
+# 7. Stochastic Gravitational Wave Background
+
+- **[Utina et al. (2021) [@2021UtinaDeepLearningSearches] (IEEE)]** - Deep Learning Searches for Gravitational Wave Stochastic Backgrounds
+- **[Yamamoto et al. (2022) [2022YamamotoDeeplearningintermittent] (2208.13156)]** - Deep Learning for Intermittent Gravitational Wave Signals
+
+---
+
+# 8. GW / Cosmology
 
 * **[Khan et al. (2019) [@Khan2018opv] (PLB)]** From the citizen science revolution using the Sloan Digital Sky Survey… ... to large scale discovery using unlabeled images in the Dark Energy Survey using deep learning. 10k+ raw, unlabeled galaxy images from DES clustered according to morphology using RGB filters; Scalable approach to curate datasets, and to construct large-scale galaxy catalogs; Deep transfer learning combined with distributed training for cosmology; Training is completed within 8 minutes achieving state-of-the-art classification accuracy; 
 * Real-time detection and characterization of binary black hole mergers + Classification and regression of galaxies across redshift in DES/LSST-type surveys => Hubble constant measurements with probabilistic neural network models **[Wei et al. (2020) [@Wei2019voi] (Mon. Not. Roy. Astron. Soc.)].** Star cluster classification has been predominantly done by human experts; We have designed neural network models that outperform, for the first time, human performance for star cluster classification; Worldwide collaboration of experts in deep learning, astronomy, software and data.
@@ -522,10 +529,9 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Velasquez-Toribio et al. (2021) [@2021VelasquezToribioConstraintsCosmographicFunctions] (2104.07356)]** - Constraints on Cosmographic Functions Using Gaussian Processes
 * **[Cañas-Herrera et al. (2021) [@2021CanasHerreraLearningHowSurf] (ApJ)]** - Learning How to Surf: Reconstructing the Propagation and Origin of Gravitational Waves with Gaussian Processes
 * **[Rouhiainen et al. (2021) [@2021RouhiainenNormalizingFlowsRandom] (2105.12024)]** - Normalizing Flows for Random Fields in Cosmology
-* **[Utina et al. (2021) [@2021UtinaDeepLearningSearches] (IEEE)]** - Deep Learning Searches for Gravitational Wave Stochastic Backgrounds
 * **[Mancarella et al. (2022) [@2022MancarellaSeekingNewPhysics] (PRD)]** - Seeking New Physics in Cosmology with Bayesian Neural Networks: Dark Energy and Modified Gravity
 
-# 8. Physics related
+# 9. Physics related
 
 Some selected interesting works:
 
