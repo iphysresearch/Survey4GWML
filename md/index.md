@@ -43,6 +43,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Nov 14, 2021) - Detection and Analysis of Gravitational Waves in the era of Multi-Messenger Astronomy: From Mathematical Modelling to Machine Learning ([21w5066](http://www.birs.ca/events/2021/5-day-workshops/21w5066))
 - (Nov 29, 2021) - [Workshop IV: Big Data in Multi-Messenger Astrophysics](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/) (Part of the Long Program [Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy](http://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-the-era-of-gravitational-wave-astronomy/))
 - (August 1-9, 2022) - [IAIFI Summer School & Workshop, 2022](https://iaifi.org/phd-summer-school.html) | [Recap](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
+- (September 28-30, 2022) - [Machine Learning in GW search: g2net next challenges](https://indico.ego-gw.it/event/464/)
 
 
 ---
