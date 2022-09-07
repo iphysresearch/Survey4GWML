@@ -370,6 +370,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Karamanis et al. (2022) [@2022KaramanisAcceleratingastronomicalcosmological] (2207.05652)]** - Accelerating Astronomical and Cosmological Inference with Preconditioned Monte Carlo
     - **[Chatterjee et al. (2022) [@2022ChatterjeeRapidlocalizationgravitational] (2207.14522)]** - Rapid Localization of Gravitational Wave Sources from Compact Binary Coalescences Using Deep Learning
     - **[Tsatsev (2022) [@TsatsevParameterInferenceGravitational] (Masters Thesis)]** - Parameter Inference of Gravitational Waves Using Inverse Autoregressive Spline Flow
+    - **[Bayley et al. (2022) [@2022BayleyRapidparameterestimation] (2209.02031)]** - Rapid Parameter Estimation for an All-Sky Continuous Gravitational Wave Search Using Conditional Varitational Auto-Encoders
 
 ## Population Studies
 
