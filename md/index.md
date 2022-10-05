@@ -208,6 +208,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Freitas et al. (2022) [@2022FreitasGeneratinggravitationalwaveform] (2203.01267)]** - Generating Gravitational Waveform Libraries of Exotic Compact Binaries with Deep Learning
     - **[Freitas et al. (2022) [@2022FragkouliDeepResidualError] (2203.08434)]** - Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Modeling
     - **[Thomas et al. (2022) [@2022ThomasAcceleratingmultimodalgravitational] (2205.14066)]** - Accelerating Multimodal Gravitational Waveforms from Precessing Compact Binaries with Artificial Neural Networks
+    - **[Ferguson (2022) [@2022FergusonOptimizingPlacementNumerical] (2209.15144)]** - Optimizing the Placement of Numerical Relativity Simulations Using a Mismatch Predicting Neural Network
 
 
 
