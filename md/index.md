@@ -173,7 +173,8 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Vajente (2022) [@PhysRevD.105.102005] (PRD)]** - Data Mining and Machine Learning Improve Gravitational-Wave Detector Sensitivity
     - **[Bacon et al. (2022) [@2022BaconDenoisinggravitationalwavesignals] (2205.13513)]** - Denoising Gravitational-Wave Signals from Binary Black Holes with Dilated Convolutional Autoencoder
     - **[Kato et al. (2022) [@2022KatoValidationdenoisingsystem] (Astron. Comput.)]** - Validation of Denoising System Using Non-Harmonic Analysis and Denoising Convolutional Neural Network for Removal of Gaussian Noise from Gravitational Waves Observed by LIGO
-    - **[Ashton (2022) [@2022AshtonGaussianProcessesGravitationalwave] (2209.15547)]** - Gaussian Processes for Gravitational-wave Astronomy,
+    - **[Ashton (2022) [@2022AshtonGaussianProcessesGravitationalwave] (2209.15547)]** - Gaussian Processes for Gravitational-wave Astronomy
+    - **[Murali & Lumley (2022) [@2022MuraliDetectingDenoisingGravitational] (2210.01718)]** - Detecting and Denoising Gravitational Wave Signals from Binary Black Holes Using Deep Learning
 
 
 ---
