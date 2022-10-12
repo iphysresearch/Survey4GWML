@@ -144,6 +144,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Iqbal (2022) [@2022AlMamunClassifyinggravitationalwaves] (ResearchGate)]** - Classifying the Gravitational Waves Using the Deep Learning Technique
      * **[Ferreira et al. (2022) [@2022FerreiraComparisontSNEcosine] (CQG)]** - Comparison between T-SNE and Cosine Similarity for LIGO Glitches Analysis
      * **[Dooney et al. (2022) [@2022DooneyDVGANStabilizeWasserstein] (2209.13592)]** - DVGAN: Stabilize Wasserstein GAN Training for Time-Domain Gravitational Wave Physics
+     * **[Boudart et al. (2022) [@2022Boudartconvolutionalneuralnetwork] (2210.04588)]** - A Convolutional Neural Network to Distinguish Glitches from Minute-Long Gravitational Wave Transients
 
 
 
