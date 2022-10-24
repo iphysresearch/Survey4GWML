@@ -321,6 +321,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Baltus (2022) [@baltus2022machine] (PhD Thesis)]** - A Machine Learning Approach to the Search for Gravitational Waves Emitted by Light Systems
     - **[Zhang et al. (2022) [@2022ZhangGravitationalWaveSignalRecognition] (Comput. Intell. Neurosci.)]** - Gravitational Wave-Signal Recognition Model Based on Fourier Transform and Convolutional Neural Network
     - **[Badger et al. (2022) [@2022BadgerDictionarylearningnovel] (2210.06194)]** - Dictionary Learning: A Novel Approach to Detecting Binary Black Holes in the Presence of Galactic Noise with LISA
+    - **[Verma et al. (2022) [@2022VermaEmployingdeeplearning] (AIP Conference Proceedings)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
 
 
 ## Parameter Estimation (PE)
