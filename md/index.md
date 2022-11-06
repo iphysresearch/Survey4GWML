@@ -54,6 +54,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
 
+- **[Huerta et al. (2022) [@2022HuertaFAIRAIinterdisciplinary] (2210.08973)]** - FAIR for AI: An Interdisciplinary, International, Inclusive, and Diverse Community Building Perspective
 - **[Cuoco et al. (2022) [@2022CuocoComputationalchallengesmultimodal] (Nature Computational Science)]** - Computational Challenges for Multimodal Astrophysics
 - **[Ravi et al. (2022) [@2022RaviFAIRprinciplesAI] (2207.00611)]** - FAIR Principles for AI Models, with a Practical Application for Accelerated High Energy Diffraction Microscopy
 - **[Gunny et al. (2022) [@10.1145/3526058.3535454] (ACM)]** - A Software Ecosystem for Deploying Deep Learning in Gravitational Wave Physics
