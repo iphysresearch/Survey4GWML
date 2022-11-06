@@ -373,7 +373,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Guedes et al. (2021) [@2021GuedesMassDeterminationCosmological] (SBIC)]** - Mass Determination of Cosmological Objects from Gravitational Wave Data Using Neural Networks
     - **[Kolmus et al. (2021) [@2021KolmusSwiftskylocalization] (2111.00833)]** - Swift Sky Localization of Gravitational Waves Using Deep Learning Seeded Importance Sampling
     - **[Dax et al. (2021) [@2021DaxGroupEquivariantNeural] (2111.13139)]** - Group Equivariant Neural Posterior Estimation
-    - **[Khan and Huerta (2021) [@2021KhanAiExtremeScale] (2112.07669)]** - AI and Extreme Scale Computing to Learn and Infer the Physics of Higher Order Gravitational Wave Modes of Quasi-Circular, Spinning, Non-Precessing Binary Black Hole Mergers
+    - **[Khan et al. (2021) [@2021KhanAiExtremeScale] (PLB)]** - AI and Extreme Scale Computing to Learn and Infer the Physics of Higher Order Gravitational Wave Modes of Quasi-Circular, Spinning, Non-Precessing Black Hole Mergers
     - **[Wang et al. (2022) [@2022WangSamplingPriorKnowledge] (BDMA)]** - Sampling with Prior Knowledge for High-dimensional Gravitational Wave Data Analysis
     - **[McLeod et al. (2022) [@2022McLeodRapidMassParameter] (2201.11126)]** - Rapid Mass Parameter Estimation of Binary Black Hole Coalescences Using Deep Learning
     - **[Sasaoka et al. (2022) [@2022SasaokaLocalizationgravitationalwaves] (PRD)]** - Localization of Gravitational Waves Using Machine Learning
