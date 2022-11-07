@@ -213,6 +213,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Thomas et al. (2022) [@2022ThomasAcceleratingmultimodalgravitational] (2205.14066)]** - Accelerating Multimodal Gravitational Waveforms from Precessing Compact Binaries with Artificial Neural Networks
     - **[Ferguson (2022) [@2022FergusonOptimizingPlacementNumerical] (2209.15144)]** - Optimizing the Placement of Numerical Relativity Simulations Using a Mismatch Predicting Neural Network
     - **[Tissino et al. (2022) [@2022TissinoCombiningeffectiveonebodyaccuracy] (2210.15684)]** - Combining Effective-One-Body Accuracy and Reduced-Order-Quadrature Speed for Binary Neutron Star Merger Parameter Estimation with Machine Learning
+    - **[Pereira & Sturani (2022) [@2022PereiraDeeplearningwaveform] (2210.07299)]** - Deep Learning Waveform Anomaly Detector for Numerical Relativity Catalogs
 
 
 
