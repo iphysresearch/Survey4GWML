@@ -386,6 +386,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Tsatsev (2022) [@TsatsevParameterInferenceGravitational] (Masters Thesis)]** - Parameter Inference of Gravitational Waves Using Inverse Autoregressive Spline Flow
     - **[Bayley et al. (2022) [@2022BayleyRapidparameterestimation] (PRD)]** - Rapid Parameter Estimation for an All-Sky Continuous Gravitational Wave Search Using Conditional Varitational Auto-Encoders
     - **[Dax et al. (2022) [@2022DaxNeuralImportanceSampling] (2210.05686)]** - Neural Importance Sampling for Rapid and Reliable Gravitational-Wave Inference
+    - **[Wofford et al. (2022) [@2022WoffordExpandingRIFTImproving] (2210.07912)]** - Expanding RIF}: Improving Performance for GW Parameter Inference
 
 ## Population Studies
 
