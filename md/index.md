@@ -313,7 +313,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Baltus et al. (2022) [@2022BaltusConvolutionalneuralnetwork] (PRD)]** - Convolutional Neural Network for Gravitational-Wave Early Alert: Going down in Frequency
     - **[Kim et al. (2022) [@2022KimDeepLearningbasedSearch] (ApJ)]** - Deep Learning-Based Search for Microlensing Signature from Binary Black Hole Events in GWTC-1 and -2
     - **[Verma et al. (2022) [@2022VermaCanConvolutionNeural] (2206.12673)]** - Can Convolution Neural Networks Be Used for Detection of Gravitational Waves from Precessing Black Hole Systems?
-    - **[Aveiro et al. (2022) [@2022AveiroIdentificationBinaryNeutron] (2207.00591)]** - Identification of Binary Neutron Star Mergers in Gravitational-Wave Data Using YOLO One-Shot Object Detection
+    - **[Aveiro et al. (2022) [@2022AveiroIdentificationBinaryNeutron] (PRD)]** - Identification of Binary Neutron Star Mergers in Gravitational-Wave Data Using Object-Detection Machine Learning Models
     - **[Andrews et al. (2022) [@2022AndrewsDeepSNRdeeplearning] (2207.04749)]** - DeepSNR: A Deep Learning Foundation for Offline Gravitational Wave Detection
     - **[Zhao et al. (2022) [@2022ZhaoSpacebasedgravitationalwave] (2207.07414)]** - Space-Based Gravitational Wave Signal Detection and Extraction with Deep Neural Network
     - **[Jingkai Yan et al. (2022) [@2022YanBoostingEfficiencyParametric] (2207.11583)]** - Boosting the Efficiency of Parametric Detection with Hierarchical Neural Networks
