@@ -416,6 +416,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Nakama (2022) [@2022NakamaMachinelearningprimoridial] (PRD)]** - Machine Learning Primordial Black Hole Formation
 * **[Wong et al. (2022) [@2022WongAutomateddiscoveryinterpretable] (2207.12409)]** - Automated Discovery of Interpretable Gravitational-Wave Population Models
 * **[Mohite (2022) [@2022mohite] (PhD Thesis)]** - Data-Driven Population Inference from Gravitational-Wave Sources and Electromagnetic Counterparts
+* **[Ruhe et al. (2022) [@2022RuheNormalizingFlowsHierarchical] (2211.09008)]** - Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study
 
 --- 
 
