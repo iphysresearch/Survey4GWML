@@ -56,7 +56,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 - **[Huerta et al. (2022) [@2022HuertaFAIRAIinterdisciplinary] (2210.08973)]** - FAIR for AI: An Interdisciplinary, International, Inclusive, and Diverse Community Building Perspective
 - **[Cuoco et al. (2022) [@2022CuocoComputationalchallengesmultimodal] (Nature Computational Science)]** - Computational Challenges for Multimodal Astrophysics
-- **[Ravi et al. (2022) [@2022RaviFAIRprinciplesAI] (2207.00611)]** - FAIR Principles for AI Models, with a Practical Application for Accelerated High Energy Diffraction Microscopy
+- **[Ravi et al. (2022) [@2022RaviFAIRprinciplesAI] (Scientific Data)]** - FAIR Principles for AI Models, with a Practical Application for Accelerated High Energy Diffraction Microscopy
 - **[Gunny et al. (2022) [@10.1145/3526058.3535454] (ACM)]** - A Software Ecosystem for Deploying Deep Learning in Gravitational Wave Physics
 - **[Harris et al. (2022) [@2022HarrisPhysicsCommunityNeeds] (2203.16255)]** - Physics Community Needs, Tools, and Resources for Machine Learning
 - **[Deiana et al. (2022) [@2021DeianaApplicationsTechniquesFast] ( Front. big data)]** - Applications and Techniques for Fast Machine Learning in Science
