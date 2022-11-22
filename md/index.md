@@ -328,6 +328,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Qiu et al. (2022) [@2022QiuDeepLearningDetection] (2210.15888)]** - Deep Learning Detection and Classification of Gravitational Waves from Neutron Star-Black Hole Mergers
     - **[Nousi et al. (2022) [@2022NousiDeepResidualNetworks] (2211.01520)]** - Deep Residual Networks for Gravitational Wave Detection
     - **[Kim (2022) [@2022KimSearchMicrolensingSignature] (2211.02655)]** Search for Microlensing Signature in Gravitational Waves from Binary Black Hole Events
+    - **[Yan et al. (2022) [@2022YanGravitationalWaveDetection] (Res. Astron. Astrophys)]** - Gravitational Wave Detection Based on Squeeze-and-excitation Shrinkage Networks and Multiple Detector Coherent SNR
 
 
 ## Parameter Estimation (PE)
