@@ -393,6 +393,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Dax et al. (2022) [@2022DaxNeuralImportanceSampling] (2210.05686)]** - Neural Importance Sampling for Rapid and Reliable Gravitational-Wave Inference
     - **[Wofford et al. (2022) [@2022WoffordExpandingRIFTImproving] (2210.07912)]** - Expanding RIF}: Improving Performance for GW Parameter Inference
     - **[Wildberger et al. (2022) [@2022WildbergerAdaptingnoisedistribution] (2211.08801)]** - Adapting to Noise Distribution Shifts in Flow-Based Gravitational-Wave Inference
+    - **[Langenorff et al. (2022) [@2022LangendorffNormalizingflowsavenue] (2211.15097)]** - Normalizing Flows as an Avenue to Study Overlapping Gravitational Wave Signals
 
 ## Population Studies
 
