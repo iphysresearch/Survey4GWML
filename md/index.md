@@ -588,6 +588,7 @@ Some selected interesting works:
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (PRE)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
 - **[Rosofsky & Huerta (2022) [@2022RosofskyApplicationsphysicsinformed] (2203.12634)]** - Applications of Physics Informed Neural Operators
 - **[Katsube et al. (2022) [@2022KatsubeDeepLearningMetric] (PRD)]** - Deep Learning Metric Detectors in General Relativity
+- **[Luna et al. (2022) [@2022LunaSolvingTeukolskyequation] (2212.06103)]** - Solving the Teukolsky Equation with Physics-Informed Neural Networks
 
 
 # License
