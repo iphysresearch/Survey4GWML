@@ -14,6 +14,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 - [MLA Web](https://wiki.ligo.org/MLA/WebHome) (private access)
 - [G2Net Gravitational Wave Detection](https://www.kaggle.com/c/g2net-gravitational-wave-detection/) (Kaggle data science competation)
+- [G2Net Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves) (Kaggle data science competation)
 - [NSF - Mathematical Sciences Institutes (video)](https://mathinstitutes.org/videos)
 
 ---
