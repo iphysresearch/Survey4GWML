@@ -214,6 +214,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Ferguson (2022) [@2022FergusonOptimizingPlacementNumerical] (2209.15144)]** - Optimizing the Placement of Numerical Relativity Simulations Using a Mismatch Predicting Neural Network
     - **[Tissino et al. (2022) [@2022TissinoCombiningeffectiveonebodyaccuracy] (2210.15684)]** - Combining Effective-One-Body Accuracy and Reduced-Order-Quadrature Speed for Binary Neutron Star Merger Parameter Estimation with Machine Learning
     - **[Pereira & Sturani (2022) [@2022PereiraDeeplearningwaveform] (2210.07299)]** - Deep Learning Waveform Anomaly Detector for Numerical Relativity Catalogs
+    - **[Katz et al. (2022) [@2021KatzFastEMRIWaveformsNewtools] (PRD)]** - Fast Extreme-Mass-Ratio-Inspiral Waveforms: New Tools for Millihertz Gravitational-Wave Data Analysis
 
 
 
@@ -562,6 +563,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Cañas-Herrera et al. (2021) [@2021CanasHerreraLearningHowSurf] (ApJ)]** - Learning How to Surf: Reconstructing the Propagation and Origin of Gravitational Waves with Gaussian Processes
 * **[Rouhiainen et al. (2021) [@2021RouhiainenNormalizingFlowsRandom] (2105.12024)]** - Normalizing Flows for Random Fields in Cosmology
 * **[Mancarella et al. (2022) [@2022MancarellaSeekingNewPhysics] (PRD)]** - Seeking New Physics in Cosmology with Bayesian Neural Networks: Dark Energy and Modified Gravity
+* **[Chapman-Bird et al. (2022) [@2022Chapman-BirdRapiddeterminationLISA] (2212.06166)]** - Rapid Determination of LISA Sensitivity to Extreme Mass Ratio Inspirals with Machine Learning
 
 # 9. Physics related
 
