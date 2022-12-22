@@ -333,6 +333,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Yan et al. (2022) [@2022YanGravitationalWaveDetection] (Res. Astron. Astrophys)]** - Gravitational Wave Detection Based on Squeeze-and-excitation Shrinkage Networks and Multiple Detector Coherent SNR
     - **[Alhassan et al. (2022) [@2022AlhassanDetectionEinsteinTelescope] (2211.13789)]** - Detection of Einstein Telescope Gravitational Wave Signals from Binary Black Holes Using Deep Learning
     - **[Jiang & Luo (2022) [@9956104] (ICPR)]** - Convolutional Transformer for Fast and Accurate Gravitational Wave Detection
+    - **[Andres-Carcasona et al. (2022) [@2022Andres-CarcasonaSearchesMassAsymmetricCompact] (2212.02829)]** - Searches for Mass-Asymmetric Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Third Observation Period
 
 
 ## Parameter Estimation (PE)
