@@ -312,7 +312,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Chaurvedi et al. (2022) [@chaturvedi2022inferenceoptimized] (Front. Artif. Intell.)]** - Inference-Optimized AI and High Performance Computing for Gravitational Wave Detection at Scale
     - **[Zhang et al. (2022) [@2022ZhangDetectingGravitationalwavesExtreme] (PRD)]** - Detecting Gravitational-waves from Extreme Mass Ratio Inspirals Using Convolutional Neural Networks
     - **[Safarzadeh et al. (2022) [@2022SafarzadehInterpretingMachineLearning] (2202.07399)]** - Interpreting a Machine Learning Model for Detecting Gravitational Waves
-    - **[Choudhary et al. (2022) [@2022ChoudharySiGMaNetDeeplearning] (2202.08671)]** - SiGMa-Net: Deep Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients
+    - **[Choudhary et al. (2022) [@2022ChoudharySiGMaNetDeeplearning] (PRD)]** - Deep Learning Network to Distinguish Binary Black Hole Signals from Short-Duration Noise Transients
     - **[McIsaac & Harry (2022) [@2022McIsaacUsingmachinelearning] (2203.03449)]** - Using Machine Learning to Auto-Tune Chi-Squared Tests for Gravitational Wave Searches
     - **[Jiang et al. (2022) [@2022JiangIdentifyrealgravitational] (Front. Phys.)]** - Identify Real Gravitational Wave Events in the LIGO-Virgo Catalog GWTC-1 and GWTC-2 with Convolutional Neural Network
     - **[Ma et al. (2022) [@2022MaEnsembleDeepConvolutional] (PRD)]** - Ensemble of Deep Convolutional Neural Networks for Real-Time Gravitational Wave Signal Recognition
