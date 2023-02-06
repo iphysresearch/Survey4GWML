@@ -399,7 +399,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Tsatsev (2022) [@TsatsevParameterInferenceGravitational] (Masters Thesis)]** - Parameter Inference of Gravitational Waves Using Inverse Autoregressive Spline Flow
     - **[Bayley et al. (2022) [@2022BayleyRapidparameterestimation] (PRD)]** - Rapid Parameter Estimation for an All-Sky Continuous Gravitational Wave Search Using Conditional Varitational Auto-Encoders
     - **[Dax et al. (2022) [@2022DaxNeuralImportanceSampling] (2210.05686)]** - Neural Importance Sampling for Rapid and Reliable Gravitational-Wave Inference
-    - **[Wofford et al. (2022) [@2022WoffordExpandingRIFTImproving] (2210.07912)]** - Expanding RIF}: Improving Performance for GW Parameter Inference
+    - **[Wofford et al. (2022) [@2022WoffordExpandingRIFTImproving] (PRD)]** - Improving Performance for Gravitational-Wave Parameter Inference with an Efficient and Highly-Parallelized Algorithm
     - **[Wildberger et al. (2022) [@2022WildbergerAdaptingnoisedistribution] (2211.08801)]** - Adapting to Noise Distribution Shifts in Flow-Based Gravitational-Wave Inference
     - **[Langenorff et al. (2022) [@2022LangendorffNormalizingflowsavenue] (2211.15097)]** - Normalizing Flows as an Avenue to Study Overlapping Gravitational Wave Signals
     - **[Chatterjee et al. (2023) [@2022ChatterjeePremergerskylocalization] (2301.03558)]** - Pre-Merger Sky Localization of Gravitational Waves from Binary Neutron Star Mergers Using Deep Learning
