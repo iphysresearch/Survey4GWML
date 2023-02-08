@@ -341,6 +341,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Zhang et al. (2022) [@PhysRevD.106.122002] (PRD)]** - Deep Learning Model Based on a Bidirectional Gated Recurrent Unit for the Detection of Gravitational Wave Signals
     - **[Wang et al. (2023) [@2023WangSelfsupervisedlearninggravitational] (2302.00295)]** - Self-Supervised Learning for Gravitational Wave Signal Identification
     - **[Ravichandran et al. (2023) [@2023RavichandranRapidIdentificationClassification] (2302.00666)]** - Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning
+    - **[Shaikh et al. (2022) [@9915926] (IEEE)]** - Optimizing Large Gravitational-Wave Classifier through a Custom Cross-System Mirrored Strategy Approach
 
 
 ## Parameter Estimation (PE)
