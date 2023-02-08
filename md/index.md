@@ -574,6 +574,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Mancarella et al. (2022) [@2022MancarellaSeekingNewPhysics] (PRD)]** - Seeking New Physics in Cosmology with Bayesian Neural Networks: Dark Energy and Modified Gravity
 * **[Chapman-Bird et al. (2022) [@2022Chapman-BirdRapiddeterminationLISA] (2212.06166)]** - Rapid Determination of LISA Sensitivity to Extreme Mass Ratio Inspirals with Machine Learning
 * **[Gagnon-Hartman et al. (2023) [@2023Gagnon-HartmanDebiasingStandardSiren] (2301.05241)]** Debiasing Standard Siren Inference of the Hubble Constant with Marginal Neural Ratio Estimation
+* **[Shah et al. (2023) [@2023Shahthoroughinvestigationprospects] (2301.12708)]** - A Thorough Investigation of the Prospects of eLISA in Addressing the Hubble Tension: Fisher Forecast, MCMC and {{Machine Learning
 
 # 9. Physics related
 
