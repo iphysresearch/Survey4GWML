@@ -339,6 +339,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Jiang & Luo (2022) [@9956104] (ICPR)]** - Convolutional Transformer for Fast and Accurate Gravitational Wave Detection
     - **[Andres-Carcasona et al. (2022) [@2022Andres-CarcasonaSearchesMassAsymmetricCompact] (2212.02829)]** - Searches for Mass-Asymmetric Compact Binary Coalescence Events Using Neural Networks in the LIGO/Virgo Third Observation Period
     - **[Zhang et al. (2022) [@PhysRevD.106.122002] (PRD)]** - Deep Learning Model Based on a Bidirectional Gated Recurrent Unit for the Detection of Gravitational Wave Signals
+    - **[Wang et al. (2023) [@2023WangSelfsupervisedlearninggravitational] (2302.00295)]** - Self-Supervised Learning for Gravitational Wave Signal Identification
     - **[Ravichandran et al. (2023) [@2023RavichandranRapidIdentificationClassification] (2302.00666)]** - Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning
 
 
