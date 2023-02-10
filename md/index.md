@@ -607,6 +607,7 @@ Some selected interesting works:
 - **[Katsube et al. (2022) [@2022KatsubeDeepLearningMetric] (PRD)]** - Deep Learning Metric Detectors in General Relativity
 - **[Luna et al. (2022) [@2022LunaSolvingTeukolskyequation] (2212.06103)]** - Solving the Teukolsky Equation with Physics-Informed Neural Networks
 - **[Cornell et al. (2022) [@PhysRevD.106.124047] （PRD）]** - Using Physics-Informed Neural Networks to Compute Quasinormal Modes
+- **[Hatefi et al. (2023) [@2023HatefiAnalysisBlackHole] (2302.04619)]** - Analysis of Black Hole Solutions in Parabolic Class Using Neural Networks
 
 
 # License
