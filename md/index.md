@@ -611,6 +611,7 @@ Some selected interesting works:
 - **[Cornell et al. (2022) [@PhysRevD.106.124047] （PRD）]** - Using Physics-Informed Neural Networks to Compute Quasinormal Modes
 - **[Hatefi et al. (2023) [@2023HatefiAnalysisBlackHole] (2302.04619)]** - Analysis of Black Hole Solutions in Parabolic Class Using Neural Networks
 - **[Sabbatini & Grimani (2023) [@2023SabbatiniSolarWindSpeed] (2302.06740)]** - Solar Wind Speed Estimate with Machine Learning Ensemble Models for LISA
+- **[Ma & Vajente (2023) [@2023MaDeepLearningTechnique] (2302.07921)]** - A Deep Learning Technique to Control the Non-linear Dynamics of a Gravitational-wave Interferometer
 
 
 # License
