@@ -213,18 +213,22 @@
   file = {/Users/herb/Zotero/storage/26HKQ3LS/2020Breen_et_al-Newton_versus_the_machine.pdf}
 }
 
-@article{2019BrestenDetectionGravitationalWaves,
+@misc{2019BrestenDetectionGravitationalWaves,
   title = {Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network: {{An}} Improved Approach},
+  shorttitle = {Detection of Gravitational Waves Using Topological Data Analysis and Convolutional Neural Network},
   author = {Bresten, Christopher and Jung, Jae-Hun},
   year = {2019},
   month = oct,
-  journal = {arXiv preprint arXiv:1910.08245},
-  eprint = {1910.08245},
+  number = {arXiv:1910.08245},
+  eprint = {1910.08245v1},
   eprinttype = {arxiv},
+  primaryclass = {astro-ph.IM},
+  publisher = {{arXiv}},
   abstract = {The gravitational wave detection problem is challenging because the noise is typically overwhelming. Convolutional neural networks (CNNs) have been successfully applied, but require a large training set and the accuracy suffers significantly in the case of low SNR. We propose an improved method that employs a feature extraction step using persistent homology. The resulting method is more resilient to noise, more capable of detecting signals with varied signatures and requires less training. This is a powerful improvement as the detection problem can be computationally intense and is concerned with a relatively large class of wave signatures.},
   archiveprefix = {arXiv},
-  keywords = {astro-ph.IM,cs.LG,gr-qc,physics.data-an},
-  file = {/Users/herb/Zotero/storage/JJ6QC9VW/2019Bresten_et_al-Detection_of_gravitational_waves_using_topological_data_analysis_and.pdf}
+  keywords = {astro-ph.IM,Astrophysics - High Energy Astrophysical Phenomena,Astrophysics - Instrumentation and Methods for Astrophysics,Computer Science - Machine Learning,cs.LG,General Relativity and Quantum Cosmology,gr-qc,Physics - Data Analysis; Statistics and Probability,physics.data-an},
+  annotation = {'target': 'BBH', 'model': 'CNN', 'objective': 'identification'},
+  file = {/Users/herb/Zotero/storage/FQMWHIX9/2019Bresten_et_al-Detection_of_gravitational_waves_using_topological_data_analysis_and.pdf;/Users/herb/Zotero/storage/CAPZZ42F/1910.html}
 }
 
 @article{2019CohenLearningCurvesDeep,
@@ -272,6 +276,7 @@
   readstatus = {read},
   relevance = {relevant},
   keywords = {astro-ph.IM,cs.LG,prio1,qualityAssured,read,relevant,stat.ML},
+  annotation = {'target': 'BBH', 'model': 'FCNN', 'objective': 'identification'},
   note = {Github~ \href{https://github.com/timothygebhard/magic-bullet}{https://github.com/timothygebhard/magic-bullet}},
   file = {/Users/herb/Zotero/storage/TG3978VE/2019Gebhard_et_al-Convolutional_neural_networks.pdf}
 }
@@ -318,7 +323,7 @@
   abstract = {The advent of experimental science facilities\textemdash instruments and observatories, such as the Large Hadron Collider, the Laser Interferometer Gravitational Wave Observatory, and the upcoming Large Synoptic Survey Telescope \textemdash has brought about challenging, large-scale computational and data processing requirements. Traditionally, the computing infrastructure to support these facility's requirements were organized into separate infrastructure that supported their high-throughput needs and those that supported their high-performance computing needs. We argue that to enable and accelerate scientific discovery at the scale and sophistication that is now needed, this separation between high-performance computing and high-throughput computing must be bridged and an integrated, unified infrastructure provided. In this paper, we discuss several case studies where such infrastructure has been implemented. These case studies span different science domains, software systems, and application requirements as well as levels of sustainability. A further aim of this paper is to provide a basis to determine the common characteristics and requirements of such infrastructure, as well as to begin a discussion of how best to support the computing requirements of existing and future experimental science facilities.},
   archiveprefix = {arXiv},
   refid = {Huerta2019},
-  annotation = {ZSCC: 0000009},
+  annotation = {ZSCC: 0000009 'target': 'HPC', 'model': 'None', 'objective': 'review'},
   file = {/Users/herb/Zotero/storage/CBMLG4TA/2019Huerta_et_al-Supporting_High-Performance_and_High-Throughput_Computing_for_Experimental.pdf}
 }
 
@@ -362,7 +367,7 @@
   archiveprefix = {arXiv},
   refid = {Lin2019},
   keywords = {astro-ph.IM},
-  annotation = {ZSCC: NoCitationData[s0]},
+  annotation = {ZSCC: NoCitationData[s0]  'target': 'BNS', 'model': 'WP-CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/AN459AM4/2019Lin_et_al-Binary_neutron_stars_gravitational_wave_detection_based_on_wavelet_packet.pdf}
 }
 
@@ -419,7 +424,7 @@
   abstract = {The ringdown part of gravitational waves in the final stage of merger of compact objects tells us the nature of strong gravity which can be used for testing the theories of gravity. The ringdown waveform, however, fades out in a very short time with a few cycles, and hence it is challenging for gravitational wave data analysis to extract the ringdown frequency and its damping time scale. We here propose to build up a suite of mock data of gravitational waves to compare the performance of various approaches developed to detect quasi-normal modes from a black hole. In this paper we present our initial results of comparisons of the following five methods; (1) plain matched filtering with ringdown part (MF-R) method, (2) matched filtering with both merger and ringdown parts (MF-MR) method, (3) Hilbert-Huang transformation (HHT) method, (4) autoregressive modeling (AR) method, and (5) neural network (NN) method. After comparing their performance, we discuss our future projects.},
   archiveprefix = {arXiv},
   keywords = {gr-qc},
-  annotation = {ZSCC: NoCitationData[s0]},
+  annotation = {ZSCC: NoCitationData[s0] 'target': 'BBH QNM', 'model': 'CNN', 'objective': 'PE'},
   file = {/Users/herb/Zotero/storage/LUXSAMAA/2018Nakano_et_al-Comparison_of_various_methods_to_extract_ringdown_frequency_from_gravitational.pdf}
 }
 
@@ -475,6 +480,7 @@
   abstract = {During oscillations of cosmology inflation around the minimum of a cuspy potential after inflation, the existence of extra high frequency gravitational waves (HFGWs) ({$\sim$}GHz) has been proven effectively recently. Based on the electromagnetic resonance system for detecting such extra HFGWs, we adopt a new data processing scheme to identify the corresponding GW signal, which is the transverse perturbative photon fluxes (PPF). In order to overcome the problems of low efficiency and high interference in traditional data processing methods, we adopt deep learning to extract PPF and make some source parameters estimation. Deep learning is able to provide an effective method to realize classification and prediction tasks. Meanwhile, we also adopt anti-overfitting technique and make adjustment of some hyperparameters in the course of study, which improve the performance of classifier and predictor to a certain extent. Here the convolutional neural network (CNN) is used to implement deep learning process concretely. In this case, we investigate the classification accuracy varying with the ratio between the number of positive and negative samples. When such ratio exceeds to 0.11, the accuracy could reach up to 100\%. Besides, we also investigate the classification accuracy with different amplitude of extra HFGWs. As a predictor, the mean relative error of parameters estimation decreases when the amplitude of extra HFGWs increases. Especially, when amplitude h(t) is in 10-31\textendash 10-30 the mean relative error reaches around 0.014. On the contrary, the mean relative error increases with frequency increasing in 108\textendash 1011 Hz. At the optimal resonance frequency 5~\texttimes ~109 Hz, the mean relative error is 0.12. Then we also study the mean relative error varying with waist radius W0 of Gaussian beam, its optimal value is 0.138 when W0 is in (0.05 m, 0.1 m) approximately. Compared with classifiers and predictors using other machine learning algorithms, deep CNN for our datasets has higher accuracy and lower error.},
   archiveprefix = {arXiv},
   keywords = {astro-ph.CO,physics.data-an},
+  annotation = {'target': 'HFGWs', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/BY3QE2DH/2019Wang_et_al-Identifying_extra_high_frequency_gravitational_waves_generated_from_oscillons.pdf}
 }
 
@@ -888,6 +894,7 @@
   archiveprefix = {arXiv},
   refid = {Li2020},
   keywords = {astro-ph.IM},
+  annotation = {'target': 'BBH', 'model': 'WP-CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/6PDXL629/2020Li_et_al-Some_optimizations_on_detecting_gravitational_wave_using_convolutional_neural.pdf}
 }
 
@@ -1225,7 +1232,7 @@
   abstract = {Gravitational wave detection requires an in-depth understanding of the physical properties of gravitational wave signals, and the noise from which they are extracted. Understanding the statistical properties of noise is a complex endeavor, particularly in realistic detection scenarios. In this article we demonstrate that deep learning can handle the non-Gaussian and non-stationary nature of gravitational wave data, and showcase its application to denoise the gravitational wave signals generated by the binary black hole mergers GW150914, GW170104, GW170608 and GW170814 from advanced LIGO noise. To exhibit the accuracy of this methodology, we compute the overlap between the time-series signals produced by our denoising algorithm, and the numerical relativity templates that are expected to describe these gravitational wave sources, finding overlaps O{$\greaterequivlnt$}0.99. We also show that our deep learning algorithm is capable of removing noise anomalies from numerical relativity signals that we inject in real advanced LIGO data. We discuss the implications of these results for the characterization of gravitational wave signals.},
   archiveprefix = {arXiv},
   keywords = {Black holes,Deep learning,Denoising,Gravitational waves,LIGO},
-  annotation = {ZSCC: 0000045},
+  annotation = {ZSCC: 0000045 'target': 'BBH', 'model': 'WaveNet', 'objective': 'denoising'},
   file = {/Users/herb/Zotero/storage/JEJD5TRC/2020Wei_et_al-Gravitational_wave_denoising_of_binary_black_hole_mergers_with_deep_learning.pdf}
 }
 
@@ -4373,7 +4380,7 @@ https://doi.org/10.1002/andp.202200140},
   author = {Sch{\"a}fer, Marlin B. and Zelenka, On{\v d}r{\v r}ej and Nitz, Alexander H. and Wang, He and Wu, Shichao and Guo, Zong-Kuan and Cao, Zhoujian and Ren, Zhixiang and Nousi, Paraskevi and Stergioulas, Nikolaos and Iosif, Panagiotis and Koloniari, Alexandra E. and Tefas, Anastasios and Passalis, Nikolaos and Salemi, Francesco and Vedovato, Gabriele and Klimenko, Sergey and Mishra, Tanmaya and Br{\"u}gmann, Bernd and Cuoco, Elena and Huerta, E. A. and Messenger, Chris and Ohme, Frank},
   year = {2023},
   month = jan,
-  journal = {Physical Review D: Particles and Fields},
+  journal = {Physical Review D},
   volume = {107},
   number = {2},
   eprint = {2209.11146},
@@ -5200,6 +5207,7 @@ https://doi.org/10.1002/andp.202200140},
   eprint = {1902.00522},
   eprinttype = {arxiv},
   archiveprefix = {arXiv},
+  annotation = {'target': 'Multi-Messenger Astrophysics', 'model': 'None', 'objective': 'review'},
   file = {/Users/herb/Zotero/storage/5JF2T3Q6/2019Allen_et_al-Deep_learning_for_multi-messenger_astrophysics.pdf}
 }
 
@@ -5678,7 +5686,7 @@ https://doi.org/10.1002/andp.202200140},
   doi = {10.1103/PhysRevLett.122.211101},
   archiveprefix = {arXiv},
   langid = {english},
-  annotation = {ZSCC: 0000043},
+  annotation = {ZSCC: 0000043 'target': 'BBH', 'model': 'ANN', 'objective': 'PE'},
   file = {/Users/herb/Zotero/storage/ALTJ325Y/2019Chua_et_al-Reduced-order_modeling_with_artificial_neurons_for_gravitational-wave_inference.pdf}
 }
 
@@ -5765,6 +5773,7 @@ https://doi.org/10.1002/andp.202200140},
   issn = {2470-0029},
   doi = {10.1103/PhysRevD.99.082002},
   archiveprefix = {arXiv},
+  annotation = {'target': 'Glitch', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/F7QWUDPW/2019Coughlin_et_al-Classifying_the_unknown.pdf}
 }
 
@@ -5945,6 +5954,7 @@ https://doi.org/10.1002/andp.202200140},
   publisher = {{American Physical Society}},
   issn = {2470-0029},
   doi = {10.1103/PhysRevD.100.044009},
+  annotation = {'target': 'NS', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/F75E3PL2/2019Dreissigacker_et_al-Deep-learning_continuous_gravitational_waves.pdf}
 }
 
@@ -5962,6 +5972,7 @@ https://doi.org/10.1002/andp.202200140},
   publisher = {{American Physical Society}},
   issn = {2470-0029},
   doi = {10.1103/PhysRevD.102.022005},
+  annotation = {'target': 'NS', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/88QQKI4B/2020Dreissigacker_et_al-Deep-learning_continuous_gravitational_waves.pdf}
 }
 
@@ -6009,7 +6020,7 @@ https://doi.org/10.1002/andp.202200140},
   doi = {10.1007/s11433-018-9321-7},
   abstract = {In this paper, we study an application of deep learning to the advanced laser interferometer gravitational wave observatory (LIGO) and advanced Virgo coincident detection of gravitational waves (GWs) from compact binary star mergers. This deep learning method is an extension of the Deep Filtering method used by George and Huerta (2017) for multi-inputs of network detectors. Simulated coincident time series data sets in advanced LIGO and advanced Virgo detectors are analyzed for estimating source luminosity distance and sky location. As a classifier, our deep neural network (DNN) can effectively recognize the presence of GW signals when the optimal signal-to-noise ratio (SNR) of network detectors {$\geq$} 9. As a predictor, it can also effectively estimate the corresponding source space parameters, including the luminosity distance D, right ascension {$\alpha$}, and declination {$\delta$} of the compact binary star mergers. When the SNR of the network detectors is greater than 8, their relative errors are all less than 23\%. Our results demonstrate that Deep Filtering can process coincident GW time series inputs and perform effective classification and multiple space parameter estimation. Furthermore, we compare the results obtained from one, two, and three network detectors; these results reveal that a larger number of network detectors results in a better source location.},
   refid = {Fan2019},
-  annotation = {ZSCC: 0000040},
+  annotation = {ZSCC: 0000040  'target': 'BBH', 'model': 'CNN', 'objective': 'identification/PE'},
   file = {/Users/herb/Zotero/storage/KN2SBYCG/2019Fan_et_al-Applying_deep_neural_networks_to_the_detection_and_space_parameter_estimation.pdf}
 }
 
@@ -6280,7 +6291,7 @@ https://doi.org/10.1002/andp.202200140},
   abstract = {Multi-messenger astrophysics is a fast-growing, interdisciplinary field that combines data, which vary in volume and speed of data processing, from many different instruments that probe the Universe using different cosmic messengers: electromagnetic waves, cosmic rays, gravitational waves and neutrinos. In this Expert Recommendation, we review the key challenges of real-time observations of gravitational wave sources and their electromagnetic and astroparticle counterparts, and make a number of recommendations to maximize their potential for scientific discovery. These recommendations refer to the design of scalable and computationally efficient machine learning algorithms; the cyber-infrastructure to numerically simulate astrophysical sources, and to process and interpret multi-messenger astrophysics data; the management of gravitational wave detections to trigger real-time alerts for electromagnetic and astroparticle follow-ups; a vision to harness future developments of machine learning and cyber-infrastructure resources to cope with the big-data requirements; and the need to build a community of experts to realize the goals of multi-messenger astrophysics.},
   archiveprefix = {arXiv},
   refid = {Huerta2019},
-  annotation = {ZSCC: NoCitationData[s0]},
+  annotation = {ZSCC: NoCitationData[s0] 'target': 'Multi-Messenger Astrophysics', 'model': 'None', 'objective': 'review'},
   file = {/Users/herb/Zotero/storage/EDSIUXPD/2019Huerta_et_al-Enabling_real-time_multi-messenger_astrophysics_discoveries_with_deep_learning.pdf}
 }
 
@@ -6498,7 +6509,7 @@ https://doi.org/10.1002/andp.202200140},
   doi = {10.1007/s11467-019-0936-x},
   abstract = {Gabbard et al. have demonstrated that convolutional neural networks can achieve the sensitivity of matched filtering in the recognization of the gravitational-wave signals with high efficiency [Phys. Rev. Lett. 120, 141103 (2018)]. In this work we show that their model can be optimized for better accuracy. The convolutional neural networks typically have alternating convolutional layers and max pooling layers, followed by a small number of fully connected layers. We increase the stride in the max pooling layer by 1, followed by a dropout layer to alleviate overfitting in the original model. We find that these optimizations can effectively increase the area under the receiver operating characteristic curve for various tests on the same dataset.},
   refid = {Luo2019},
-  annotation = {ZSCC: NoCitationData[s0]},
+  annotation = {ZSCC: NoCitationData[s0] 'target': 'BBH', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/T828MPNI/2019Luo_et_al-Extraction_of_gravitational_wave_signals_with_optimized_convolutional_neural.pdf}
 }
 
@@ -6542,7 +6553,8 @@ https://doi.org/10.1002/andp.202200140},
   issn = {2470-0029},
   doi = {10.1103/PhysRevD.100.062005},
   archiveprefix = {arXiv},
-  annotation = {ZSCC: NoCitationData[s0]},
+  keywords = {notion},
+  annotation = {ZSCC: NoCitationData[s0] 'target': 'NS', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/B8JR5JTW/2019Miller_et_al-How_effective_is_machine_learning_to_detect_long_transient_gravitational_waves.pdf}
 }
 
@@ -6881,7 +6893,7 @@ https://doi.org/10.1002/andp.202200140},
   issn = {2470-0029},
   doi = {10.1103/PhysRevD.100.044025},
   archiveprefix = {arXiv},
-  annotation = {ZSCC: 0000025},
+  annotation = {ZSCC: 0000025 'target': 'BBH', 'model': 'CNN', 'objective': 'identification'},
   file = {/Users/herb/Zotero/storage/L9QEU4AL/2019Rebei_et_al-Fusing_numerical_relativity_and_deep_learning_to_detect_higher-order_multipole.pdf}
 }
 
@@ -7009,7 +7021,7 @@ https://doi.org/10.1002/andp.202200140},
   archiveprefix = {arXiv},
   organization = {{IEEE}},
   keywords = {Denoising},
-  annotation = {ZSCC: 0000051},
+  annotation = {ZSCC: 0000051 'target': 'BBH', 'model': 'LSTM+DAE', 'objective': 'denoising'},
   file = {/Users/herb/Zotero/storage/G62GIS37/2019Shen_et_al-Denoising_gravitational_waves_with_enhanced_deep_recurrent_denoising.pdf}
 }
 
