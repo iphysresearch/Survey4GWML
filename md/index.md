@@ -613,6 +613,7 @@ Some selected interesting works:
 - **[Hatefi et al. (2023) [@2023HatefiAnalysisBlackHole] (2302.04619)]** - Analysis of Black Hole Solutions in Parabolic Class Using Neural Networks
 - **[Sabbatini & Grimani (2023) [@2023SabbatiniSolarWindSpeed] (2302.06740)]** - Solar Wind Speed Estimate with Machine Learning Ensemble Models for LISA
 - **[Ma & Vajente (2023) [@2023MaDeepLearningTechnique] (2302.07921)]** - A Deep Learning Technique to Control the Non-linear Dynamics of a Gravitational-wave Interferometer
+- **[Rosofsky & Huerta (2023) [@2023RosofskyMagnetohydrodynamicsPhysicsInformed] (2302.08332)]** - Magnetohydrodynamics with Physics Informed Neural Operators
 
 
 # License
