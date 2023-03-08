@@ -582,6 +582,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Shah et al. (2023) [@2023Shahthoroughinvestigationprospects] (2301.12708)]** - A Thorough Investigation of the Prospects of eLISA in Addressing the Hubble Tension: Fisher Forecast, MCMC and {{Machine Learning
 * **[Ashton (2023) [@2023AshtonGaussianprocessesGlitchrobust] (Mon. Not. Roy. Astron. Soc.)]** - Gaussian Processes for Glitch-robust Gravitational-wave Astronomy
 * **[Callister & Farr (2023) [@2023CallisterParameterFreeTourBinary] (2302.07289)]** - A Parameter-Free Tour of the Binary Black Hole Population
+* **[Riley & Mandel (2023) [@2023RileyProbingcosmichistory] (2303.00508)]** - Probing Cosmic History with Merging Compact Binaries
 
 # 9. Physics related
 
