@@ -485,6 +485,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
     - **[Drago et al. (2020) [@Drago2020kic] (2006.12604)]** - Coherent Waveburst, a Pipeline for Unmodeled Gravitational-wave Data Analysis
     - **[Mishra et al. (2021) [@2021MishraOptimizationModelIndependent] (PRD)]** - Optimization of Model Independent Gravitational Wave Search Using Machine Learning
     - **[Mishra et al. (2022) [@mishra2022search] (2201.01495)]** - Search for Binary Black Hole Mergers in the Third Observing Run of Advanced LIGO-Virgo Using Coherent Waveburst Enhanced with Machine Learning
+    - **[Szczepańczyk et al. (2023) [@PhysRevD.107.062002] (PRD)]** - Search for Gravitational-Wave Bursts in the Third Advanced LIGO-Virgo Run with Coherent WaveBurst Enhanced by Machine Learning
 >
 
 * BayesWave
