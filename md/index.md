@@ -151,6 +151,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Bişkin et al. (2022) [@2023Bişkinfasttimeefficientglitch] (Astron. Comput.)]** - A Fast and Time-Efficient Glitch Classification Method: A Deep Learning-Based Visual Feature Extractor for Machine Learning Algorithms
      * **[Ruiz et al. (2022) [@2022RuizProbabilisticfusioncrowds] (KBS)]** - Probabilistic Fusion of Crowds and Experts for the Search of Gravitational Waves
      * **[Razzano et al. (2022) [@2023RazzanoGWitchHuntersMachineLearning] (Nucl. Instrum.)]** - GWitchHunters: Machine Learning and Citizen Science to Improve the Performance of Gravitational Wave Detector
+     * **[Bini et al. (2023) [@2023Biniautoencoderneuralnetwork] (2303.05986)]** - An Autoencoder Neural Network Integrated into Gravitational-Wave Burst Searches to Improve the Rejection of Noise Transients
 
 
 
