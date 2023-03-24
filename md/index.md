@@ -41,10 +41,13 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (Dec 12, 2020) - [Interpretable Inductive Biases and Physically Structured Learning](https://inductive-biases.github.io/) (workshop at NeurIPS)
 - (May 27, 2020) - Ellis Fellows Program Quantum and Physics based Machine Learning (QPhML) ([2021](https://ellisqphml.github.io/ellisphilab2021), [2020](https://ellisqphml.github.io/qphml2020), [2019](http://dalimeeting.org/dali2019b/workshop-05-04.html))
 - (Dec 13, 2021) - Machine Learning and the Physical Sciences ([2021](https://ml4physicalsciences.github.io/2021/), [2020](https://ml4physicalsciences.github.io/2020/)) (workshop at NeurIPS)
+- (Dec 6, 2021) - [AI for Science: Mind the Gaps](https://ai4sciencecommunity.github.io/neurips21.html) (NeurIPS 2021)
 - (Nov 14, 2021) - Detection and Analysis of Gravitational Waves in the era of Multi-Messenger Astronomy: From Mathematical Modelling to Machine Learning ([21w5066](http://www.birs.ca/events/2021/5-day-workshops/21w5066))
 - (Nov 29, 2021) - [Workshop IV: Big Data in Multi-Messenger Astrophysics](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-big-data-in-multi-messenger-astrophysics/) (Part of the Long Program [Mathematical and Computational Challenges in the Era of Gravitational Wave Astronomy](http://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-the-era-of-gravitational-wave-astronomy/))
+- (July 23, 2022) - [AI for Science: Theories and Foundations](https://ai4sciencecommunity.github.io/icml22.html) (ICML 2022)
 - (August 1-9, 2022) - [IAIFI Summer School & Workshop, 2022](https://iaifi.org/phd-summer-school.html) | [Recap](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
 - (September 28-30, 2022) - [Machine Learning in GW search: g2net next challenges](https://indico.ego-gw.it/event/464/)
+- (Dec 2, 2022) - [AI for Science: Progress and Promises](https://ai4sciencecommunity.github.io/neurips22.html) (NeurIPS 2022)
 - (March 28-30, 2023) - [G2Net - A network for Gravitational Waves, Geophysics and Machine Learning (CA17137)](https://indico.physics.auth.gr/event/14/)
 
 
