@@ -346,6 +346,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Wang et al. (2023) [@2023WangSelfsupervisedlearninggravitational] (2302.00295)]** - Self-Supervised Learning for Gravitational Wave Signal Identification
     - **[Ravichandran et al. (2023) [@2023RavichandranRapidIdentificationClassification] (2302.00666)]** - Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning
     - **[Shaikh et al. (2022) [@9915926] (IEEE)]** - Optimizing Large Gravitational-Wave Classifier through a Custom Cross-System Mirrored Strategy Approach
+    - **[Ma et al. (2023) [@PhysRevD.107.063029] (PRD)]** - Artificial Intelligence Model for Gravitational Wave Search Based on the Waveform Envelope
 
 
 ## Parameter Estimation (PE)
