@@ -155,6 +155,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Ruiz et al. (2022) [@2022RuizProbabilisticfusioncrowds] (KBS)]** - Probabilistic Fusion of Crowds and Experts for the Search of Gravitational Waves
      * **[Razzano et al. (2022) [@2023RazzanoGWitchHuntersMachineLearning] (Nucl. Instrum.)]** - GWitchHunters: Machine Learning and Citizen Science to Improve the Performance of Gravitational Wave Detector
      * **[Bini et al. (2023) [@2023Biniautoencoderneuralnetwork] (2303.05986)]** - An Autoencoder Neural Network Integrated into Gravitational-Wave Burst Searches to Improve the Rejection of Noise Transients
+     * **[Fernandes et al. (2023) [@2023FernandesConvolutionalNeuralNetworks] (2303.13917)]** - Convolutional Neural Networks for the Classification of Glitches in Gravitational-Wave Data Streams
 
 
 
