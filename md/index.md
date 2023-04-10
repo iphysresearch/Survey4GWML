@@ -25,6 +25,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - The IST seminar series Mathematics, Physics & Machine Learning - $(M \cup \Phi) \cap M L$ -  ([Home](https://mpml.tecnico.ulisboa.pt))
 - Physics Meets ML - $\text{Physics} \cap \text{ML}$ - ([Home](http://www.physicsmeetsml.org/))
 - Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY) - Topical Meetings - ([Home](https://clariphy.org/topical.html))
+- Laboratory for Artificial Intelligence for Scientific Discovery - ([Home](https://ai4science-amsterdam.github.io/))
 
 
 
