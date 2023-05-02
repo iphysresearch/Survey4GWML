@@ -444,6 +444,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 * **[Mohite (2022) [@2022mohite] (PhD Thesis)]** - Data-Driven Population Inference from Gravitational-Wave Sources and Electromagnetic Counterparts
 * **[Ruhe et al. (2022) [@2022RuheNormalizingFlowsHierarchical] (2211.09008)]** - Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study
 * **[Edelman et al. (2022) [@2022EdelmanCoverYourBasis] (2210.12834)]** - Cover Your Basis: Comprehensive Data-Driven Characterization of the Binary Black Hole Population
+* **[Ray et al. (2023) [@2023RayNonparametricinferencepopulation] (2304.08046)]** - Non-Parametric Inference of the Population of Compact Binaries from Gravitational Wave Observations Using Binned Gaussian Processes
 
 --- 
 
