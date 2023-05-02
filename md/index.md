@@ -416,6 +416,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Chatterjee et al. (2023) [@2022ChatterjeePremergerskylocalization] (2301.03558)]** - Pre-Merger Sky Localization of Gravitational Waves from Binary Neutron Star Mergers Using Deep Learning
     - **[Wong et al. (2023) [@2023WongFastgravitationalwave] (2302.05333)]** - Fast Gravitational Wave Parameter Estimation without Compromises
     - **[Williams et al. (2023) [@2023WilliamsImportancenestedsampling] (2302.08526)]** - Importance Nested Sampling with Normalising Flows
+    - **[Bhardwaj et al. (2023) [@2023BhardwajPeregrineSequentialsimulationbased] (2304.02035)]** - Peregrine: Sequential Simulation-Based Inference for Gravitational Wave Signals
 
 ## Population Studies
 
