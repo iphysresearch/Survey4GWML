@@ -555,7 +555,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 # 7. Stochastic Gravitational Wave Background
 
 - **[Utina et al. (2021) [@2021UtinaDeepLearningSearches] (IEEE)]** - Deep Learning Searches for Gravitational Wave Stochastic Backgrounds
-- **[Yamamoto et al. (2022) [2022YamamotoDeeplearningintermittent] (PRD)]** - Deep Learning for Intermittent Gravitational Wave Signals
+- **[Yamamoto et al. (2022) [@2022YamamotoDeeplearningintermittent] (PRD)]** - Deep Learning for Intermittent Gravitational Wave Signals
 
 ---
 
