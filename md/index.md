@@ -190,6 +190,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Kato et al. (2022) [@2022KatoValidationdenoisingsystem] (Astron. Comput.)]** - Validation of Denoising System Using Non-Harmonic Analysis and Denoising Convolutional Neural Network for Removal of Gaussian Noise from Gravitational Waves Observed by LIGO
     - **[Ashton (2022) [@2022AshtonGaussianProcessesGravitationalwave] (2209.15547)]** - Gaussian Processes for Gravitational-wave Astronomy
     - **[Murali & Lumley (2022) [@2022MuraliDetectingDenoisingGravitational] (2210.01718)]** - Detecting and Denoising Gravitational Wave Signals from Binary Black Holes Using Deep Learning
+    - **[Yang et al. (2023) [@2023YangUnsupervisednoisereductions] (2305.06735)]** - Unsupervised Noise Reductions for Gravitational Reference Sensors or Accelerometers Based on Noise2Noise Method
 
 
 ---
