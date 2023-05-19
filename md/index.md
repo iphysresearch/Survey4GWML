@@ -625,7 +625,7 @@ Some selected interesting works:
 - **[Visschers et al. (2021) [@2021VisschersRapidParameterEstimation] (Mach. learn.: sci. technol.)]** - Rapid Parameter Estimation of Discrete Decaying Signals Using Autoencoder Networks
 - **[Guidetti et al. (2021) [@2021GuidettiDnnsolveEfficientNn] (2103.08662)]** - dNNsolve: an efficient NN-based PDE solver
 - **[Liu et al. (2021) [@2021LiuMachinelearningNon] (PRE)]** - Machine-learning Non-conservative Dynamics for New-physics Detection
-- **[Rosofsky & Huerta (2022) [@2022RosofskyApplicationsphysicsinformed] (2203.12634)]** - Applications of Physics Informed Neural Operators
+- **[Rosofsky & Huerta (2022) [@2022RosofskyApplicationsphysicsinformed] (Mach. learn.: sci. technol.)]** - Applications of Physics Informed Neural Operators
 - **[Katsube et al. (2022) [@2022KatsubeDeepLearningMetric] (PRD)]** - Deep Learning Metric Detectors in General Relativity
 - **[Luna et al. (2022) [@2022LunaSolvingTeukolskyequation] (2212.06103)]** - Solving the Teukolsky Equation with Physics-Informed Neural Networks
 - **[Cornell et al. (2022) [@PhysRevD.106.124047] （PRD）]** - Using Physics-Informed Neural Networks to Compute Quasinormal Modes
