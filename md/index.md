@@ -635,6 +635,7 @@ Some selected interesting works:
 - **[Ma & Vajente (2023) [@2023MaDeepLearningTechnique] (2302.07921)]** - A Deep Learning Technique to Control the Non-linear Dynamics of a Gravitational-wave Interferometer
 - **[Rosofsky & Huerta (2023) [@2023RosofskyMagnetohydrodynamicsPhysicsInformed] (2302.08332)]** - Magnetohydrodynamics with Physics Informed Neural Operators
 - **[Lim et al. (2023) [@2023LimMappingDarkMatter] (2305.13358)]** - Mapping Dark Matter in the Milky Way Using Normalizing Flows and Gaia DR3
+- **[Dialektopoulos et al. (2023) [@2023DialektopoulosNeuralnetworkreconstruction] (2305.15500)]** - Neural Network Reconstruction of Scalar-Tensor Cosmology
 
 
 # License
