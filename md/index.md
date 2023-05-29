@@ -602,6 +602,7 @@ A burst is a gravitational wave signal where the waveform morphology is partiall
 * **[Riley & Mandel (2023) [@2023RileyProbingcosmichistory] (2303.00508)]** - Probing Cosmic History with Merging Compact Binaries
 * **[Mukherjee et al. (2023) [@2023MukherjeeReconstructingHubbleparameter] (2303.05169)]** - Reconstructing the Hubble Parameter with Future Gravitational Wave Missions Using Machine Learning
 * **[Alvey et al. (2023) [@2023AlveyAlbatrossscalablesimulationbased] (2304.02032)]** - Albatross: A Scalable Simulation-Based Inference Pipeline for Analysing Stellar Streams in the Milky Way
+* **[Whittle et al. (2023) [@2023WhittleMachineLearningQuantumEnhanced] (2305.13780)]** - Machine Learning for Quantum-Enhanced Gravitational-Wave Observatories
 
 # 9. Physics related
 
