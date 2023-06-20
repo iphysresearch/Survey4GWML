@@ -490,6 +490,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
 - **[Vargas & Melatos (2022) [@2022VargasSearchcontinuousgravitational] (2208.03932)]** - Search for Continuous Gravitational Waves from PSR J0437-4715 with a Hidden Markov Model in O3 LIGO Data
 - **[Jochi & Prix (2023) [@2023Joshinovelneuralnetworkarchitecture] (2305.01057)]** - A Novel Neural-Network Architecture for Continuous Gravitational Waves
 - **[Duraisamy et al. (2023) [@10134809] (IEEE)]** - Optimized Detection of Continuous Gravitational-Wave Signals Using Convolutional Neural Network
+- **[Pintelas et al. (2023) [@2023PintelasDeepLearningBasedMethodology] (Springer Nature Switzerland)]** - A Deep Learning-Based Methodology for Detecting and Visualizing Continuous Gravitational Waves
 
 
 ---
