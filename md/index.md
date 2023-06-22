@@ -194,6 +194,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
     - **[Ashton (2022) [@2022AshtonGaussianProcessesGravitationalwave] (2209.15547)]** - Gaussian Processes for Gravitational-wave Astronomy
     - **[Murali & Lumley (2022) [@2022MuraliDetectingDenoisingGravitational] (2210.01718)]** - Detecting and Denoising Gravitational Wave Signals from Binary Black Holes Using Deep Learning
     - **[Yang et al. (2023) [@2023YangUnsupervisednoisereductions] (2305.06735)]** - Unsupervised Noise Reductions for Gravitational Reference Sensors or Accelerometers Based on Noise2Noise Method
+    - **[Saleem et al. (2023) [@2023SaleemDemonstrationMachineLearningassisted] (2306.11366)]** - Demonstration of Machine Learning-assisted Real-Time Noise Regression in Gravitational Wave Detectors
 
 
 ---
