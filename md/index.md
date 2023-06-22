@@ -357,6 +357,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Shaikh et al. (2022) [@9915926] (IEEE)]** - Optimizing Large Gravitational-Wave Classifier through a Custom Cross-System Mirrored Strategy Approach
     - **[Ma et al. (2023) [@PhysRevD.107.063029] (PRD)]** - Artificial Intelligence Model for Gravitational Wave Search Based on the Waveform Envelope
     - **[Jin et al. (2023) [@2023JinRapididentificationtimefrequency] (2305.19003)]** - Rapid Identification of Time-Frequency Domain Gravitational Wave Signals from Binary Black Holes Using Deep Learning
+    - **[Jadhav et al. (2023) [@2023Jadhavrobustreliabledeep] (2306.11797)]** - Towards a Robust and Reliable Deep Learning Approach for Detection of Compact Binary Mergers in Gravitational Wave Data
 
 
 ## Parameter Estimation (PE)
