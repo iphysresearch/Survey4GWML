@@ -54,6 +54,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (March 28-30, 2023) - [G2Net - A network for Gravitational Waves, Geophysics and Machine Learning (CA17137)](https://indico.physics.auth.gr/event/14/)
 - (July 28, 2023) - [Machine Learning for Astrophysics](https://ml4astro.github.io/icml2023/) (ICML 2023)
 - (May 22, 2023) - [Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation](https://indico.flatironinstitute.org/event/3624/)
+- (Dec 15, 2023) - [AI for Scientific Discovery: From Theory to Practice](https://ai4sciencecommunity.github.io/neurips23.html) (NeurIPS 2023)
 
 ---
 
