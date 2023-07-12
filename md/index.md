@@ -347,7 +347,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Badger et al. (2022) [@2022BadgerDictionarylearningnovel] (PRL)]** - Dictionary Learning: A Novel Approach to Detecting Binary Black Holes in the Presence of Galactic Noise with LISA
     - **[Verma et al. (2022) [@2022VermaEmployingdeeplearning] (AIP Conference Proceedings)]** - Employing Deep Learning for Detection of Gravitational Waves from Compact Binary Coalescences
     - **[Qiu et al. (2022) [@2022QiuDeepLearningDetection] (2210.15888)]** - Deep Learning Detection and Classification of Gravitational Waves from Neutron Star-Black Hole Mergers
-    - **[Nousi et al. (2022) [@2022NousiDeepResidualNetworks] (2211.01520)]** - Deep Residual Networks for Gravitational Wave Detection
+    - **[Nousi et al. (2023) [@2022NousiDeepResidualNetworks] (PRD)]** - Deep Residual Networks for Gravitational Wave Detection
     - **[Kim (2022) [@2022KimSearchMicrolensingSignature] (2211.02655)]** Search for Microlensing Signature in Gravitational Waves from Binary Black Hole Events
     - **[Yan et al. (2022) [@2022YanGravitationalWaveDetection] (Res. Astron. Astrophys)]** - Gravitational Wave Detection Based on Squeeze-and-excitation Shrinkage Networks and Multiple Detector Coherent SNR
     - **[Alhassan et al. (2022) [@2022AlhassanDetectionEinsteinTelescope] (2211.13789)]** - Detection of Einstein Telescope Gravitational Wave Signals from Binary Black Holes Using Deep Learning
