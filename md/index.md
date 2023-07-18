@@ -429,6 +429,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Bhardwaj et al. (2023) [@2023BhardwajPeregrineSequentialsimulationbased] (2304.02035)]** - Peregrine: Sequential Simulation-Based Inference for Gravitational Wave Signals
     - **[Crisostomi et al. (2023) [@2023CrisostomiNeuralPosteriorEstimationa] (2305.18528)]** - Neural Posterior Estimation with Guaranteed Exact Coverage: The Ringdown of GW150914
     - **[Dax et al. (2023) [@2023DaxFlowMatchingScalable] (2305.17161)]** - Flow Matching for Scalable Simulation-Based Inference
+    - **[Liu et al. (2023) [@2023LiuImprovingscalabilityGaussianprocess] (2307.07233)]** - Improving the Scalability of Gaussian-process Error Marginalization in Gravitational-Wave Inference
 
 ## Population Studies
 
