@@ -362,6 +362,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Jadhav et al. (2023) [@2023Jadhavrobustreliabledeep] (2306.11797)]** - Towards a Robust and Reliable Deep Learning Approach for Detection of Compact Binary Mergers in Gravitational Wave Data
     - **[Tian et al. (2023) [@2023TianPhysicsinspiredspatiotemporalgraphAI] (2306.15728)]** - Physics-Inspired Spatiotemporal-Graph AI Ensemble for Gravitational Wave Detection
     - **[Pal & Nayak (2023) [@2023PalSwarmintelligentsearchgravitational] (2307.03736)]** - Swarm-Intelligent Search for Gravitational Waves from Eccentric Binary Mergers
+    - **[Trovato et al. (2023) [@2023TrovatoNeuralnetworktimeseries] (2307.09268)]** - Neural Network Time-Series Classifiers for Gravitational-Wave Searches in Single-Detector Periods
 
 
 ## Parameter Estimation (PE)
