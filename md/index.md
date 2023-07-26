@@ -64,6 +64,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 >Modern deep learning methods have entered the field of physics which can be tasked with **learning physics from raw data when no good mathematical models are available**. They are also part of mathematical model and machine learning hybrids, formed to reduce computational costs by having the mathematical model train a machine learning model to perform its job, or to improve the fit with observations in settings where the mathematical model can’t incorporate all details (think noise).
 
 
+- **[Wong (2023)]** - MACHINE LEARNING-ENHANCED ANALYSIS IN GW ([slide](https://kazewong.github.io/MyUnhingedPresnetations/slides/scma8/top.html))
 - **[Agarwal et al. (2023) [@2023AgarwalApplicationsDeepLearning] (2306.08106)]** - Applications of Deep Learning to Physics Workflows
 - **[Huerta et al. (2022) [@2022HuertaFAIRAIinterdisciplinary] (2210.08973)]** - FAIR for AI: An Interdisciplinary, International, Inclusive, and Diverse Community Building Perspective
 - **[Cuoco et al. (2022) [@2022CuocoComputationalchallengesmultimodal] (Nature Computational Science)]** - Computational Challenges for Multimodal Astrophysics
