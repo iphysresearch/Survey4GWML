@@ -437,6 +437,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Dax et al. (2023) [@2023DaxFlowMatchingScalable] (2305.17161)]** - Flow Matching for Scalable Simulation-Based Inference
     - **[Liu et al. (2023) [@2023LiuImprovingscalabilityGaussianprocess] (2307.07233)]** - Improving the Scalability of Gaussian-process Error Marginalization in Gravitational-Wave Inference
     - **[Soma et al. (2023) [@2023SomaMasstidalparameter] (2306.17488)]** - Mass and Tidal Parameter Extraction from Gravitational Waves of Binary Neutron Stars Mergers Using Deep Learning
+    - **[Sun et al. (2023) [@2023SunDeeplearningforecasts] (2307.16437)]** - Deep Learning Forecasts of Cosmic Acceleration Parameters from DECi-hertz Interferometer Gravitational-wave Observatory
 
 ## Population Studies
 
