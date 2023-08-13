@@ -67,7 +67,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 
 - **[Wong (2023)]** - MACHINE LEARNING-ENHANCED ANALYSIS IN GW ([slide](https://kazewong.github.io/MyUnhingedPresnetations/slides/scma8/top.html))
 - **[Agarwal et al. (2023) [@2023AgarwalApplicationsDeepLearning] (2306.08106)]** - Applications of Deep Learning to Physics Workflows
-- **[Huerta et al. (2022) [@2022HuertaFAIRAIinterdisciplinary] (2210.08973)]** - FAIR for AI: An Interdisciplinary, International, Inclusive, and Diverse Community Building Perspective
+- **[Huerta et al. (2022) [@2022HuertaFAIRAIinterdisciplinary] (Scientific Data)]** - FAIR for AI: An Interdisciplinary, International, Inclusive, and Diverse Community Building Perspective
 - **[Cuoco et al. (2022) [@2022CuocoComputationalchallengesmultimodal] (Nature Computational Science)]** - Computational Challenges for Multimodal Astrophysics
 - **[Ravi et al. (2022) [@2022RaviFAIRprinciplesAI] (Scientific Data)]** - FAIR Principles for AI Models, with a Practical Application for Accelerated High Energy Diffraction Microscopy
 - **[Gunny et al. (2022) [@10.1145/3526058.3535454] (ACM)]** - A Software Ecosystem for Deploying Deep Learning in Gravitational Wave Physics
