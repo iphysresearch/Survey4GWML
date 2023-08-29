@@ -365,7 +365,7 @@ Signal models are needed for matched filtering and parameter estimation. Solutio
     - **[Tian et al. (2023) [@2023TianPhysicsinspiredspatiotemporalgraphAI] (2306.15728)]** - Physics-Inspired Spatiotemporal-Graph AI Ensemble for Gravitational Wave Detection
     - **[Pal & Nayak (2023) [@2023PalSwarmintelligentsearchgravitational] (2307.03736)]** - Swarm-Intelligent Search for Gravitational Waves from Eccentric Binary Mergers
     - **[Trovato et al. (2023) [@2023TrovatoNeuralnetworktimeseries] (2307.09268)]** - Neural Network Time-Series Classifiers for Gravitational-Wave Searches in Single-Detector Periods
-    - **[Freitas et al. (2023) [@2023FreitasComparisonneuralnetwork] (2307.16668)]** - Comparison of Neural Network Architectures for Feature Extraction from Binary Black Hole Merger Waveforms
+    - **[Freitas et al. (2023) [@2023FreitasComparisonneuralnetwork] (PoS)]** - Comparison of Training Methods for Convolutional Neural Network Model for Gravitational-Wave Detection from Neutron Star-Black Hole Binaries
 
 
 ## Parameter Estimation (PE)
