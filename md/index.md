@@ -439,6 +439,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Soma et al. (2023) [@2023SomaMasstidalparameter] (2306.17488)]** - Mass and Tidal Parameter Extraction from Gravitational Waves of Binary Neutron Stars Mergers Using Deep Learning
     - **[Sun et al. (2023) [@2023SunDeeplearningforecasts] (2307.16437)]** - Deep Learning Forecasts of Cosmic Acceleration Parameters from DECi-hertz Interferometer Gravitational-wave Observatory
     - **[Du et al. (2023) [@2023DuAdvancingSpaceBasedGravitationala] (2308.05510)]** - Advancing Space-Based Gravitational Wave Astronomy: Rapid Detection and Parameter Estimation Using Normalizing Flows
+    - **[Whittaker et al. (2022) [@PhysRevD.105.124021] (PRD)]** - Using Machine Learning to Parametrize Postmerger Signals from Binary Neutron Stars
 
 ## Population Studies
 
