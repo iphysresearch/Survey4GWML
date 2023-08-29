@@ -166,6 +166,7 @@ Some glitches occur only in the GW data channel. We can try and eliminate them b
      * **[Fernandes et al. (2023) [@2023FernandesConvolutionalNeuralNetworks] (2303.13917)]** - Convolutional Neural Networks for the Classification of Glitches in Gravitational-Wave Data Streams
      * **[Alvarez-Lopez et al. (2023) [@2023Alvarez-LopezGSpyNetTreesignalvsglitchclassifier] (2304.09977)]** - GSpyNetTree: A Signal-vs-Glitch Classifier for Gravitational-Wave Event Candidates
      * **[Shah et al. (2023) [@2023ShahWavesForestRandom] (2306.13787)]** - Waves in a Forest: A Random Forest Classifier to Distinguish between Gravitational Waves and Detector Glitches
+     * **[Raza et al. (2023) [@2023RazaExplainingGWSkyNetMultimachine] (2308.12357)]** - Explaining the GWSkyNet-Multi Machine Learning Classifier Predictions for Gravitational-Wave Events
 
 
 
