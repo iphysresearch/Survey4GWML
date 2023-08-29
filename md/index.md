@@ -438,6 +438,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Liu et al. (2023) [@2023LiuImprovingscalabilityGaussianprocess] (2307.07233)]** - Improving the Scalability of Gaussian-process Error Marginalization in Gravitational-Wave Inference
     - **[Soma et al. (2023) [@2023SomaMasstidalparameter] (2306.17488)]** - Mass and Tidal Parameter Extraction from Gravitational Waves of Binary Neutron Stars Mergers Using Deep Learning
     - **[Sun et al. (2023) [@2023SunDeeplearningforecasts] (2307.16437)]** - Deep Learning Forecasts of Cosmic Acceleration Parameters from DECi-hertz Interferometer Gravitational-wave Observatory
+    - **[Du et al. (2023) [@2023DuAdvancingSpaceBasedGravitationala] (2308.05510)]** - Advancing Space-Based Gravitational Wave Astronomy: Rapid Detection and Parameter Estimation Using Normalizing Flows
 
 ## Population Studies
 
