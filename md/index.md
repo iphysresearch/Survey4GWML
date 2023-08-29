@@ -432,7 +432,7 @@ Characterized by 15 parameters. Masses, spins, distance, inclination, sky positi
     - **[Chatterjee et al. (2023) [@2022ChatterjeePremergerskylocalization] (2301.03558)]** - Pre-Merger Sky Localization of Gravitational Waves from Binary Neutron Star Mergers Using Deep Learning
     - **[Wong et al. (2023) [@2023WongFastgravitationalwave] (2302.05333)]** - Fast Gravitational Wave Parameter Estimation without Compromises
     - **[Williams et al. (2023) [@2023WilliamsImportancenestedsampling] (Mach. learn.: sci. technol.)]** - Importance Nested Sampling with Normalising Flows
-    - **[Bhardwaj et al. (2023) [@2023BhardwajPeregrineSequentialsimulationbased] (2304.02035)]** - Peregrine: Sequential Simulation-Based Inference for Gravitational Wave Signals
+    - **[Bhardwaj et al. (2023) [@2023BhardwajPeregrineSequentialsimulationbased] (PRD)]** - Sequential simulation-based inference for gravitational wave signals
     - **[Crisostomi et al. (2023) [@2023CrisostomiNeuralPosteriorEstimationa] (2305.18528)]** - Neural Posterior Estimation with Guaranteed Exact Coverage: The Ringdown of GW150914
     - **[Dax et al. (2023) [@2023DaxFlowMatchingScalable] (2305.17161)]** - Flow Matching for Scalable Simulation-Based Inference
     - **[Liu et al. (2023) [@2023LiuImprovingscalabilityGaussianprocess] (2307.07233)]** - Improving the Scalability of Gaussian-process Error Marginalization in Gravitational-Wave Inference
