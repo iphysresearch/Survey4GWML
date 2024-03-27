@@ -57,6 +57,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (May 22, 2023) - [Cosmic Connections: A ML X Astrophysics Symposium at Simons Foundation](https://indico.flatironinstitute.org/event/3624/)
 - (Dec 15, 2023) - [AI for Scientific Discovery: From Theory to Practice](https://ai4sciencecommunity.github.io/neurips23.html) (NeurIPS 2023)
 - (April 23, 2024) - [The 2024 AIslands meeting](https://www.gla.ac.uk/events/conferences/aislands-arran24/) focusing on artificial intelligence in gravitational wave astronomy.
+- (June 17, 2024) - [AstroAI Workshop - Unveiling the Universe with AI/ML](https://astroai.cfa.harvard.edu/)
 
 ---
 
