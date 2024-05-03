@@ -50,6 +50,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (July 22, 2022) - [Machine Learning for Astrophysics](https://ml4astro.github.io/icml2022/) (ICML 2022)
 - (August 1-9, 2022) - [IAIFI Summer School & Workshop, 2022](https://iaifi.org/phd-summer-school.html) | [Recap](https://iphysresearch.github.io/blog/post/dl_notes/iaifi/)
 - (September 28-30, 2022) - [Machine Learning in GW search: g2net next challenges](https://indico.ego-gw.it/event/464/)
+- (Nov 21-25, 2022) - [LISA data analysis: from classical methods to machine learning](https://indico.in2p3.fr/event/27706/timetable/?view=standard)
 - (Dec 2, 2022) - [AI for Science: Progress and Promises](https://ai4sciencecommunity.github.io/neurips22.html) (NeurIPS 2022)
 - (January 28, 2023) - [Accelerating Physics with ML@MIT](https://indico.cern.ch/event/1224718/)
 - (March 28-30, 2023) - [G2Net - A network for Gravitational Waves, Geophysics and Machine Learning (CA17137)](https://indico.physics.auth.gr/event/14/)
