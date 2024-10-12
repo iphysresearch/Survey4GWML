@@ -17,6 +17,8 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - [G2Net Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves) (Kaggle data science competation)
 - [NSF - Mathematical Sciences Institutes (video)](https://mathinstitutes.org/videos)
 - [FastML Lab - Real-time and accelerated ML for fundamental sciences](https://fastmachinelearning.org)
+- [Accelerated AI Algorithms for Data-Driven Discovery (A3D3)](https://a3d3.ai/) ([Youtube channel](https://www.youtube.com/@nsfhdra3d3/videos))
+- [NSF HDR A3D3: Detecting Anomalous Gravitational Wave Signals](https://www.codabench.org/competitions/2626) (Codabench competition)
 
 ---
 
