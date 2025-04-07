@@ -62,6 +62,7 @@ some_url: https://github.com/iphysresearch/Survey4GWML
 - (April 23, 2024) - [The 2024 AIslands meeting](https://www.gla.ac.uk/events/conferences/aislands-arran24/) focusing on artificial intelligence in gravitational wave astronomy.
 - (June 17, 2024) - [AstroAI Workshop - Unveiling the Universe with AI/ML](https://astroai.cfa.harvard.edu/)
 - (Nov 17, 2024) - [Detection and Analysis of Gravitational Waves in the era of Multi-Messenger Astronomy (24w5177)](https://www.birs.ca/events/2024/5-day-workshops/24w5177)
+- (May 13, 2025) - [AIslands 2025: Bute](https://uofgravity.github.io/aislands/)
 - (June 2, 2025) - [Scientific Machine Learning for Gravitational Wave Astronomy (ICERM)](https://icerm.brown.edu/program/topical_workshop/tw-25-smlgwa)
 
 ---
